@@ -1,0 +1,14 @@
+D:\C# course\02.SumoFCols\02.SumoFCols\bin\Debug\net6.0\02.SumoFCols.exe
+D:\C# course\02.SumoFCols\02.SumoFCols\bin\Debug\net6.0\02.SumoFCols.deps.json
+D:\C# course\02.SumoFCols\02.SumoFCols\bin\Debug\net6.0\02.SumoFCols.runtimeconfig.json
+D:\C# course\02.SumoFCols\02.SumoFCols\bin\Debug\net6.0\02.SumoFCols.dll
+D:\C# course\02.SumoFCols\02.SumoFCols\bin\Debug\net6.0\02.SumoFCols.pdb
+D:\C# course\02.SumoFCols\02.SumoFCols\obj\Debug\net6.0\02.SumoFCols.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# course\02.SumoFCols\02.SumoFCols\obj\Debug\net6.0\02.SumoFCols.AssemblyInfoInputs.cache
+D:\C# course\02.SumoFCols\02.SumoFCols\obj\Debug\net6.0\02.SumoFCols.AssemblyInfo.cs
+D:\C# course\02.SumoFCols\02.SumoFCols\obj\Debug\net6.0\02.SumoFCols.csproj.CoreCompileInputs.cache
+D:\C# course\02.SumoFCols\02.SumoFCols\obj\Debug\net6.0\02.SumoFCols.dll
+D:\C# course\02.SumoFCols\02.SumoFCols\obj\Debug\net6.0\refint\02.SumoFCols.dll
+D:\C# course\02.SumoFCols\02.SumoFCols\obj\Debug\net6.0\02.SumoFCols.pdb
+D:\C# course\02.SumoFCols\02.SumoFCols\obj\Debug\net6.0\02.SumoFCols.genruntimeconfig.cache
+D:\C# course\02.SumoFCols\02.SumoFCols\obj\Debug\net6.0\ref\02.SumoFCols.dll

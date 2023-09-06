@@ -1,0 +1,14 @@
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\bin\Debug\net6.0\5.CountSymbols.exe
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\bin\Debug\net6.0\5.CountSymbols.deps.json
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\bin\Debug\net6.0\5.CountSymbols.runtimeconfig.json
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\bin\Debug\net6.0\5.CountSymbols.dll
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\bin\Debug\net6.0\5.CountSymbols.pdb
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\obj\Debug\net6.0\5.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\obj\Debug\net6.0\5.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\obj\Debug\net6.0\5.CountSymbols.AssemblyInfo.cs
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\obj\Debug\net6.0\5.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\obj\Debug\net6.0\5.CountSymbols.dll
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\obj\Debug\net6.0\refint\5.CountSymbols.dll
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\obj\Debug\net6.0\5.CountSymbols.pdb
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\obj\Debug\net6.0\5.CountSymbols.genruntimeconfig.cache
+C:\Users\stefan.n\source\repos\5.CountSymbols\5.CountSymbols\obj\Debug\net6.0\ref\5.CountSymbols.dll

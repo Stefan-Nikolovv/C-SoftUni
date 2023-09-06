@@ -1,0 +1,14 @@
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\bin\Debug\net6.0\05. SquarewithMaximumSum.exe
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\bin\Debug\net6.0\05. SquarewithMaximumSum.deps.json
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\bin\Debug\net6.0\05. SquarewithMaximumSum.runtimeconfig.json
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\bin\Debug\net6.0\05. SquarewithMaximumSum.dll
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\bin\Debug\net6.0\05. SquarewithMaximumSum.pdb
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\obj\Debug\net6.0\05. SquarewithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\obj\Debug\net6.0\05. SquarewithMaximumSum.AssemblyInfoInputs.cache
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\obj\Debug\net6.0\05. SquarewithMaximumSum.AssemblyInfo.cs
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\obj\Debug\net6.0\05. SquarewithMaximumSum.csproj.CoreCompileInputs.cache
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\obj\Debug\net6.0\05. SquarewithMaximumSum.dll
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\obj\Debug\net6.0\refint\05. SquarewithMaximumSum.dll
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\obj\Debug\net6.0\05. SquarewithMaximumSum.pdb
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\obj\Debug\net6.0\05. SquarewithMaximumSum.genruntimeconfig.cache
+D:\C# course\05. SquarewithMaximumSum\05. SquarewithMaximumSum\obj\Debug\net6.0\ref\05. SquarewithMaximumSum.dll

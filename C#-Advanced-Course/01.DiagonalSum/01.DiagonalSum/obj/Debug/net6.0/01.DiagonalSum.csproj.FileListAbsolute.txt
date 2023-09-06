@@ -1,0 +1,14 @@
+D:\C# course\01.DiagonalSum\01.DiagonalSum\bin\Debug\net6.0\01.DiagonalSum.exe
+D:\C# course\01.DiagonalSum\01.DiagonalSum\bin\Debug\net6.0\01.DiagonalSum.deps.json
+D:\C# course\01.DiagonalSum\01.DiagonalSum\bin\Debug\net6.0\01.DiagonalSum.runtimeconfig.json
+D:\C# course\01.DiagonalSum\01.DiagonalSum\bin\Debug\net6.0\01.DiagonalSum.dll
+D:\C# course\01.DiagonalSum\01.DiagonalSum\bin\Debug\net6.0\01.DiagonalSum.pdb
+D:\C# course\01.DiagonalSum\01.DiagonalSum\obj\Debug\net6.0\01.DiagonalSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# course\01.DiagonalSum\01.DiagonalSum\obj\Debug\net6.0\01.DiagonalSum.AssemblyInfoInputs.cache
+D:\C# course\01.DiagonalSum\01.DiagonalSum\obj\Debug\net6.0\01.DiagonalSum.AssemblyInfo.cs
+D:\C# course\01.DiagonalSum\01.DiagonalSum\obj\Debug\net6.0\01.DiagonalSum.csproj.CoreCompileInputs.cache
+D:\C# course\01.DiagonalSum\01.DiagonalSum\obj\Debug\net6.0\01.DiagonalSum.dll
+D:\C# course\01.DiagonalSum\01.DiagonalSum\obj\Debug\net6.0\refint\01.DiagonalSum.dll
+D:\C# course\01.DiagonalSum\01.DiagonalSum\obj\Debug\net6.0\01.DiagonalSum.pdb
+D:\C# course\01.DiagonalSum\01.DiagonalSum\obj\Debug\net6.0\01.DiagonalSum.genruntimeconfig.cache
+D:\C# course\01.DiagonalSum\01.DiagonalSum\obj\Debug\net6.0\ref\01.DiagonalSum.dll

@@ -1,0 +1,14 @@
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\bin\Debug\net6.0\03.LagersNumbers.exe
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\bin\Debug\net6.0\03.LagersNumbers.deps.json
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\bin\Debug\net6.0\03.LagersNumbers.runtimeconfig.json
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\bin\Debug\net6.0\03.LagersNumbers.dll
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\bin\Debug\net6.0\03.LagersNumbers.pdb
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\obj\Debug\net6.0\03.LagersNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\obj\Debug\net6.0\03.LagersNumbers.AssemblyInfoInputs.cache
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\obj\Debug\net6.0\03.LagersNumbers.AssemblyInfo.cs
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\obj\Debug\net6.0\03.LagersNumbers.csproj.CoreCompileInputs.cache
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\obj\Debug\net6.0\03.LagersNumbers.dll
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\obj\Debug\net6.0\refint\03.LagersNumbers.dll
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\obj\Debug\net6.0\03.LagersNumbers.pdb
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\obj\Debug\net6.0\03.LagersNumbers.genruntimeconfig.cache
+C:\Users\stefan.n\source\repos\03.LagersNumbers\03.LagersNumbers\obj\Debug\net6.0\ref\03.LagersNumbers.dll

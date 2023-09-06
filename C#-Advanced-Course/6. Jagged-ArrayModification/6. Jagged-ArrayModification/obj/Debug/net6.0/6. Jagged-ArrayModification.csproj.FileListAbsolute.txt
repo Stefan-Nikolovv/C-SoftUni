@@ -1,0 +1,14 @@
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\obj\Debug\net6.0\6. Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\obj\Debug\net6.0\6. Jagged-ArrayModification.AssemblyInfoInputs.cache
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\obj\Debug\net6.0\6. Jagged-ArrayModification.AssemblyInfo.cs
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\obj\Debug\net6.0\6. Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\bin\Debug\net6.0\6. Jagged-ArrayModification.exe
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\bin\Debug\net6.0\6. Jagged-ArrayModification.deps.json
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\bin\Debug\net6.0\6. Jagged-ArrayModification.runtimeconfig.json
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\bin\Debug\net6.0\6. Jagged-ArrayModification.dll
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\bin\Debug\net6.0\6. Jagged-ArrayModification.pdb
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\obj\Debug\net6.0\6. Jagged-ArrayModification.dll
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\obj\Debug\net6.0\refint\6. Jagged-ArrayModification.dll
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\obj\Debug\net6.0\6. Jagged-ArrayModification.pdb
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\obj\Debug\net6.0\6. Jagged-ArrayModification.genruntimeconfig.cache
+D:\C# course\6. Jagged-ArrayModification\6. Jagged-ArrayModification\obj\Debug\net6.0\ref\6. Jagged-ArrayModification.dll

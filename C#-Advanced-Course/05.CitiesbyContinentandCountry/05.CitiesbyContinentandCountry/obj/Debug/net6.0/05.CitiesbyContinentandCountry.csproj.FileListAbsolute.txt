@@ -1,0 +1,14 @@
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\bin\Debug\net6.0\05.CitiesbyContinentandCountry.exe
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\bin\Debug\net6.0\05.CitiesbyContinentandCountry.deps.json
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\bin\Debug\net6.0\05.CitiesbyContinentandCountry.runtimeconfig.json
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\bin\Debug\net6.0\05.CitiesbyContinentandCountry.dll
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\bin\Debug\net6.0\05.CitiesbyContinentandCountry.pdb
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\obj\Debug\net6.0\05.CitiesbyContinentandCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\obj\Debug\net6.0\05.CitiesbyContinentandCountry.AssemblyInfoInputs.cache
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\obj\Debug\net6.0\05.CitiesbyContinentandCountry.AssemblyInfo.cs
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\obj\Debug\net6.0\05.CitiesbyContinentandCountry.csproj.CoreCompileInputs.cache
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\obj\Debug\net6.0\05.CitiesbyContinentandCountry.dll
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\obj\Debug\net6.0\refint\05.CitiesbyContinentandCountry.dll
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\obj\Debug\net6.0\05.CitiesbyContinentandCountry.pdb
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\obj\Debug\net6.0\05.CitiesbyContinentandCountry.genruntimeconfig.cache
+C:\Users\stefan.n\source\repos\05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry\obj\Debug\net6.0\ref\05.CitiesbyContinentandCountry.dll

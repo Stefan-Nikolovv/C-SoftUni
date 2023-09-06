@@ -1,0 +1,14 @@
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\obj\Debug\net6.0\01.CountSameValuesinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\obj\Debug\net6.0\01.CountSameValuesinArray.AssemblyInfoInputs.cache
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\obj\Debug\net6.0\01.CountSameValuesinArray.AssemblyInfo.cs
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\obj\Debug\net6.0\01.CountSameValuesinArray.csproj.CoreCompileInputs.cache
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\bin\Debug\net6.0\01.CountSameValuesinArray.exe
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\bin\Debug\net6.0\01.CountSameValuesinArray.deps.json
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\bin\Debug\net6.0\01.CountSameValuesinArray.runtimeconfig.json
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\bin\Debug\net6.0\01.CountSameValuesinArray.dll
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\bin\Debug\net6.0\01.CountSameValuesinArray.pdb
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\obj\Debug\net6.0\01.CountSameValuesinArray.dll
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\obj\Debug\net6.0\refint\01.CountSameValuesinArray.dll
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\obj\Debug\net6.0\01.CountSameValuesinArray.pdb
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\obj\Debug\net6.0\01.CountSameValuesinArray.genruntimeconfig.cache
+C:\Users\stefan.n\source\repos\01.CountSameValuesinArray\01.CountSameValuesinArray\obj\Debug\net6.0\ref\01.CountSameValuesinArray.dll

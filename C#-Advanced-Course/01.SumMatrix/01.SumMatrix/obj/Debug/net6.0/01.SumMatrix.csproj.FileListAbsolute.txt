@@ -1,0 +1,14 @@
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\bin\Debug\net6.0\01.SumMatrix.exe
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\bin\Debug\net6.0\01.SumMatrix.deps.json
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\bin\Debug\net6.0\01.SumMatrix.runtimeconfig.json
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\bin\Debug\net6.0\01.SumMatrix.dll
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\bin\Debug\net6.0\01.SumMatrix.pdb
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\obj\Debug\net6.0\01.SumMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\obj\Debug\net6.0\01.SumMatrix.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\obj\Debug\net6.0\01.SumMatrix.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\obj\Debug\net6.0\01.SumMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\obj\Debug\net6.0\01.SumMatrix.dll
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\obj\Debug\net6.0\refint\01.SumMatrix.dll
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\obj\Debug\net6.0\01.SumMatrix.pdb
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\obj\Debug\net6.0\01.SumMatrix.genruntimeconfig.cache
+C:\Users\Stefan\source\repos\01.SumMatrix\01.SumMatrix\obj\Debug\net6.0\ref\01.SumMatrix.dll

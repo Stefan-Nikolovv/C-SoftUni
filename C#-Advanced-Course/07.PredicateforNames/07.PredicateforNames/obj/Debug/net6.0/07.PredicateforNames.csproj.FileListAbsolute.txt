@@ -1,0 +1,14 @@
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\bin\Debug\net6.0\07.PredicateforNames.exe
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\bin\Debug\net6.0\07.PredicateforNames.deps.json
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\bin\Debug\net6.0\07.PredicateforNames.runtimeconfig.json
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\bin\Debug\net6.0\07.PredicateforNames.dll
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\bin\Debug\net6.0\07.PredicateforNames.pdb
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\obj\Debug\net6.0\07.PredicateforNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\obj\Debug\net6.0\07.PredicateforNames.AssemblyInfoInputs.cache
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\obj\Debug\net6.0\07.PredicateforNames.AssemblyInfo.cs
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\obj\Debug\net6.0\07.PredicateforNames.csproj.CoreCompileInputs.cache
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\obj\Debug\net6.0\07.PredicateforNames.dll
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\obj\Debug\net6.0\refint\07.PredicateforNames.dll
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\obj\Debug\net6.0\07.PredicateforNames.pdb
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\obj\Debug\net6.0\07.PredicateforNames.genruntimeconfig.cache
+C:\Users\stefan.n\source\repos\07.PredicateforNames\07.PredicateforNames\obj\Debug\net6.0\ref\07.PredicateforNames.dll

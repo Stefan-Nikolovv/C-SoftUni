@@ -1,0 +1,14 @@
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.exe
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.deps.json
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.runtimeconfig.json
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.dll
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.pdb
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.AssemblyInfo.cs
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.dll
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\obj\Debug\net6.0\refint\06.RecordUniqueNames.dll
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.pdb
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.genruntimeconfig.cache
+C:\Users\stefan.n\source\repos\06.RecordUniqueNames\06.RecordUniqueNames\obj\Debug\net6.0\ref\06.RecordUniqueNames.dll

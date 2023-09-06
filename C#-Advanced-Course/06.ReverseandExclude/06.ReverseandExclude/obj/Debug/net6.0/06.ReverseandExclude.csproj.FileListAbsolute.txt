@@ -1,0 +1,14 @@
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\bin\Debug\net6.0\06.ReverseandExclude.exe
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\bin\Debug\net6.0\06.ReverseandExclude.deps.json
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\bin\Debug\net6.0\06.ReverseandExclude.runtimeconfig.json
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\bin\Debug\net6.0\06.ReverseandExclude.dll
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\bin\Debug\net6.0\06.ReverseandExclude.pdb
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\obj\Debug\net6.0\06.ReverseandExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\obj\Debug\net6.0\06.ReverseandExclude.AssemblyInfoInputs.cache
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\obj\Debug\net6.0\06.ReverseandExclude.AssemblyInfo.cs
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\obj\Debug\net6.0\06.ReverseandExclude.csproj.CoreCompileInputs.cache
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\obj\Debug\net6.0\06.ReverseandExclude.dll
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\obj\Debug\net6.0\refint\06.ReverseandExclude.dll
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\obj\Debug\net6.0\06.ReverseandExclude.pdb
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\obj\Debug\net6.0\06.ReverseandExclude.genruntimeconfig.cache
+C:\Users\stefan.n\source\repos\06.ReverseandExclude\06.ReverseandExclude\obj\Debug\net6.0\ref\06.ReverseandExclude.dll
