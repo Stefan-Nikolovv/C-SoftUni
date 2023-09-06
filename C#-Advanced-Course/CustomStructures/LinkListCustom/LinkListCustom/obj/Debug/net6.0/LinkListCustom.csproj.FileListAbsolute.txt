@@ -1,0 +1,14 @@
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\bin\Debug\net6.0\LinkListCustom.exe
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\bin\Debug\net6.0\LinkListCustom.deps.json
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\bin\Debug\net6.0\LinkListCustom.runtimeconfig.json
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\bin\Debug\net6.0\LinkListCustom.dll
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\bin\Debug\net6.0\LinkListCustom.pdb
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\obj\Debug\net6.0\LinkListCustom.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\obj\Debug\net6.0\LinkListCustom.AssemblyInfoInputs.cache
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\obj\Debug\net6.0\LinkListCustom.AssemblyInfo.cs
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\obj\Debug\net6.0\LinkListCustom.csproj.CoreCompileInputs.cache
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\obj\Debug\net6.0\LinkListCustom.dll
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\obj\Debug\net6.0\refint\LinkListCustom.dll
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\obj\Debug\net6.0\LinkListCustom.pdb
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\obj\Debug\net6.0\LinkListCustom.genruntimeconfig.cache
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\CustomStructures\LinkListCustom\LinkListCustom\obj\Debug\net6.0\ref\LinkListCustom.dll

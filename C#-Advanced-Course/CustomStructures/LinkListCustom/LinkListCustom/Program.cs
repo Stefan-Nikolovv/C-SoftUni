@@ -12,3 +12,11 @@ customList.Add(5);
 customList.Add(6);
 customList.Add(7); 
 customList.Add(8);
+
+Console.WriteLine(customList.Contains(8));
+
+Console.WriteLine(customList.Find(9));
+
+Console.WriteLine(customList.Reverse().ToString());
+
+Console.WriteLine(customList.toString());
