@@ -17,6 +17,6 @@ Console.WriteLine(customList.Contains(8));
 
 Console.WriteLine(customList.Find(9));
 
-Console.WriteLine(customList.Reverse().ToString());
+Console.WriteLine(customList.Reverse());
 
 Console.WriteLine(customList.toString());
