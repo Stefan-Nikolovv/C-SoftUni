@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\Comperators and Iterators\\5.Comparing Objects\\5.Comparing Objects\\5.Comparing Objects.csproj": {}
+    "D:\\C# course\\Csharp-SoftUni\\C#-Advanced-Course\\Comperators and Iterators\\5.Comparing Objects\\5.Comparing Objects\\5.Comparing Objects.csproj": {}
   },
   "projects": {
-    "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\Comperators and Iterators\\5.Comparing Objects\\5.Comparing Objects\\5.Comparing Objects.csproj": {
+    "D:\\C# course\\Csharp-SoftUni\\C#-Advanced-Course\\Comperators and Iterators\\5.Comparing Objects\\5.Comparing Objects\\5.Comparing Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\Comperators and Iterators\\5.Comparing Objects\\5.Comparing Objects\\5.Comparing Objects.csproj",
+        "projectUniqueName": "D:\\C# course\\Csharp-SoftUni\\C#-Advanced-Course\\Comperators and Iterators\\5.Comparing Objects\\5.Comparing Objects\\5.Comparing Objects.csproj",
         "projectName": "5.Comparing Objects",
-        "projectPath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\Comperators and Iterators\\5.Comparing Objects\\5.Comparing Objects\\5.Comparing Objects.csproj",
-        "packagesPath": "C:\\Users\\stefan.n\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\Comperators and Iterators\\5.Comparing Objects\\5.Comparing Objects\\obj\\",
+        "projectPath": "D:\\C# course\\Csharp-SoftUni\\C#-Advanced-Course\\Comperators and Iterators\\5.Comparing Objects\\5.Comparing Objects\\5.Comparing Objects.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "D:\\C# course\\Csharp-SoftUni\\C#-Advanced-Course\\Comperators and Iterators\\5.Comparing Objects\\5.Comparing Objects\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\stefan.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

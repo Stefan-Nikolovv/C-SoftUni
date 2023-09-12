@@ -1,0 +1,14 @@
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\bin\Debug\net6.0\5.ComparingObjects.exe
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\bin\Debug\net6.0\5.ComparingObjects.deps.json
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\bin\Debug\net6.0\5.ComparingObjects.runtimeconfig.json
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\bin\Debug\net6.0\5.ComparingObjects.dll
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\bin\Debug\net6.0\5.ComparingObjects.pdb
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.AssemblyInfoInputs.cache
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.AssemblyInfo.cs
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.csproj.CoreCompileInputs.cache
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.dll
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\obj\Debug\net6.0\refint\5.ComparingObjects.dll
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.pdb
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.genruntimeconfig.cache
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\Comperators and Iterators\5.Comparing Objects\5.Comparing Objects\obj\Debug\net6.0\ref\5.ComparingObjects.dll

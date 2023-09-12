@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Comparing_Objects
+namespace ComparingObjects
 {
     public class Person : IComparable<Person>
     {
