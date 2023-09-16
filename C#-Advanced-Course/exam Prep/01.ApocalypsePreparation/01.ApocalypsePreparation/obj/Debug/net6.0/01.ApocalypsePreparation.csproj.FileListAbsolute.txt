@@ -1,0 +1,14 @@
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\bin\Debug\net6.0\01.ApocalypsePreparation.exe
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\bin\Debug\net6.0\01.ApocalypsePreparation.deps.json
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\bin\Debug\net6.0\01.ApocalypsePreparation.runtimeconfig.json
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\bin\Debug\net6.0\01.ApocalypsePreparation.dll
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\bin\Debug\net6.0\01.ApocalypsePreparation.pdb
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\obj\Debug\net6.0\01.ApocalypsePreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\obj\Debug\net6.0\01.ApocalypsePreparation.AssemblyInfoInputs.cache
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\obj\Debug\net6.0\01.ApocalypsePreparation.AssemblyInfo.cs
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\obj\Debug\net6.0\01.ApocalypsePreparation.csproj.CoreCompileInputs.cache
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\obj\Debug\net6.0\01.ApocalypsePreparation.dll
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\obj\Debug\net6.0\refint\01.ApocalypsePreparation.dll
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\obj\Debug\net6.0\01.ApocalypsePreparation.pdb
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\obj\Debug\net6.0\01.ApocalypsePreparation.genruntimeconfig.cache
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.ApocalypsePreparation\01.ApocalypsePreparation\obj\Debug\net6.0\ref\01.ApocalypsePreparation.dll
