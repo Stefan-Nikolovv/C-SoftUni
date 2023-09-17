@@ -1,0 +1,14 @@
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\bin\Debug\net6.0\02.BlindMan'sBuff.exe
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\bin\Debug\net6.0\02.BlindMan'sBuff.deps.json
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\bin\Debug\net6.0\02.BlindMan'sBuff.runtimeconfig.json
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\bin\Debug\net6.0\02.BlindMan'sBuff.dll
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\bin\Debug\net6.0\02.BlindMan'sBuff.pdb
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.AssemblyInfoInputs.cache
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.AssemblyInfo.cs
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.csproj.CoreCompileInputs.cache
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.dll
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\obj\Debug\net6.0\refint\02.BlindMan'sBuff.dll
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.pdb
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.genruntimeconfig.cache
+D:\C# course\Csharp-SoftUni\C#-Advanced-Course\exam Prep\02.BlindMan'sBuff\02.BlindMan'sBuff\obj\Debug\net6.0\ref\02.BlindMan'sBuff.dll
