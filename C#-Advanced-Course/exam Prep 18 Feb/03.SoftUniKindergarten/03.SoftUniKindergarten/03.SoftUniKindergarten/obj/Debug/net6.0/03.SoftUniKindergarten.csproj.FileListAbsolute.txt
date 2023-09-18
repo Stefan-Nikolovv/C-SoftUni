@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\obj\Debug\net6.0\03.SoftUniKindergarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\obj\Debug\net6.0\03.SoftUniKindergarten.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\obj\Debug\net6.0\03.SoftUniKindergarten.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\obj\Debug\net6.0\03.SoftUniKindergarten.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\bin\Debug\net6.0\03.SoftUniKindergarten.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\bin\Debug\net6.0\03.SoftUniKindergarten.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\bin\Debug\net6.0\03.SoftUniKindergarten.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\bin\Debug\net6.0\03.SoftUniKindergarten.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\bin\Debug\net6.0\03.SoftUniKindergarten.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\obj\Debug\net6.0\03.SoftUniKindergarten.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\obj\Debug\net6.0\refint\03.SoftUniKindergarten.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\obj\Debug\net6.0\03.SoftUniKindergarten.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\obj\Debug\net6.0\03.SoftUniKindergarten.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep\03.SoftUniKindergarten\03.SoftUniKindergarten\03.SoftUniKindergarten\obj\Debug\net6.0\ref\03.SoftUniKindergarten.dll
