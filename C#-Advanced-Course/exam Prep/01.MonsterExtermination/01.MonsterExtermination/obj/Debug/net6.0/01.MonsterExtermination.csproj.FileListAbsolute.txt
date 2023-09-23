@@ -1,0 +1,14 @@
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.exe
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.deps.json
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.runtimeconfig.json
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.dll
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.pdb
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.AssemblyInfoInputs.cache
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.AssemblyInfo.cs
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.csproj.CoreCompileInputs.cache
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.dll
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\refint\01.MonsterExtermination.dll
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.pdb
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.genruntimeconfig.cache
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\ref\01.MonsterExtermination.dll
