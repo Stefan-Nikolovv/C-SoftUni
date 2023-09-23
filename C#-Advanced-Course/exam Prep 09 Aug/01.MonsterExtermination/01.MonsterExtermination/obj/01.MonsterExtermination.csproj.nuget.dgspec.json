@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj": {}
+    "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj": {}
   },
   "projects": {
-    "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj": {
+    "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj",
+        "projectUniqueName": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj",
         "projectName": "01.MonsterExtermination",
-        "projectPath": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj",
+        "projectPath": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep\\01.MonsterExtermination\\01.MonsterExtermination\\obj\\",
+        "outputPath": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

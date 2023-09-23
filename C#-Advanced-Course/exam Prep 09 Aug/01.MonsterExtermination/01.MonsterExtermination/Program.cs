@@ -1,55 +1,57 @@
-﻿Queue<int> monsterArmor = new Queue<int>(Console.ReadLine()
+﻿Queue<int> monstersArmor = new(Console.ReadLine()
     .Split(",", StringSplitOptions.RemoveEmptyEntries)
     .Select(int.Parse));
 
-Stack<int> soldierPower = new Stack<int>(Console.ReadLine()
+Stack<int> soldierPower = new(Console.ReadLine()
     .Split(",", StringSplitOptions.RemoveEmptyEntries)
     .Select(int.Parse));
 
-int difference = 0;
 int killedMonsters = 0;
-int leftMonster = 0;
-while (monsterArmor.Count > 0 && soldierPower.Count > 0)
-{
-    int power = soldierPower.Pop();
-    int armor = monsterArmor.Dequeue();
 
-    if (power >= armor)
+
+
+while (monstersArmor.Any() && soldierPower.Any())
+{
+    int currentSoldier = soldierPower.Pop();
+    int currentArmor = monstersArmor.Dequeue();
+    if (currentSoldier >= currentArmor)
     {
-        difference = power - armor;
         killedMonsters++;
-        int nextValue = soldierPower.Pop();
-        soldierPower.Push(nextValue + difference);
-        if (leftMonster > 0)
+        var currentValue = currentSoldier - currentArmor;
+        if (currentValue == 0)
         {
-            leftMonster--;
+            continue;
+        }
+
+        if (soldierPower.Any())
+        {
+            int nextValue = soldierPower.Pop();
+            soldierPower.Push(nextValue + currentValue);
+        }
+        else
+        {
+            soldierPower.Push(currentValue);
         }
     }
     else
     {
-        leftMonster++;
-        monsterArmor.Enqueue(armor);
+        var currentValue = currentArmor - currentSoldier;
+        monstersArmor.Enqueue(currentValue);
     }
+
+
 }
 
-if (soldierPower.Count() >= 1 && monsterArmor.Count() == 0)
+if (monstersArmor.Count == 0)
 {
-    Console.WriteLine("All monsters have been killed!");
-    Console.WriteLine($"Total monsters killed: {killedMonsters}");
-}
 
-if (soldierPower.Count() == 0 && monsterArmor.Count() >= 1)
+    Console.WriteLine("All monsters have been killed!");
+
+}
+if (soldierPower.Count == 0)
 {
     Console.WriteLine("The soldier has been defeated.");
-    Console.WriteLine($"Total monsters killed: {killedMonsters}");
+
 }
 
-if (soldierPower.Count() == 0 && monsterArmor.Count() == 0)
-{
-    if (leftMonster > killedMonsters)
-    {
-        Console.WriteLine("The soldier has been defeated.");
-        Console.WriteLine($"Total monsters killed: {killedMonsters}");
-    }
-}
-
+Console.WriteLine($"Total monsters killed: {killedMonsters}");
