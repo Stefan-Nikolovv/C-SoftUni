@@ -7,6 +7,7 @@ Stack<int> soldierPower = new(Console.ReadLine()
     .Select(int.Parse));
 
 int killedMonsters = 0;
+<<<<<<< HEAD
 int currentValue = 0;
 
 
@@ -56,6 +57,53 @@ if(monstersArmor.Any())
 {
     Console.WriteLine("The soldier has been defeated.");
    
+=======
+
+
+
+while (monstersArmor.Any() && soldierPower.Any())
+{
+    int currentSoldier = soldierPower.Pop();
+    int currentArmor = monstersArmor.Dequeue();
+    if (currentSoldier >= currentArmor)
+    {
+        killedMonsters++;
+        var currentValue = currentSoldier - currentArmor;
+        if (currentValue == 0)
+        {
+            continue;
+        }
+
+        if (soldierPower.Any())
+        {
+            int nextValue = soldierPower.Pop();
+            soldierPower.Push(nextValue + currentValue);
+        }
+        else
+        {
+            soldierPower.Push(currentValue);
+        }
+    }
+    else
+    {
+        var currentValue = currentArmor - currentSoldier;
+        monstersArmor.Enqueue(currentValue);
+    }
+
+
+}
+
+if (monstersArmor.Count == 0)
+{
+
+    Console.WriteLine("All monsters have been killed!");
+
+}
+if (soldierPower.Count == 0)
+{
+    Console.WriteLine("The soldier has been defeated.");
+
+>>>>>>> 3171d7f035fd03c2a063b99358ee5b22fb937138
 }
 
 Console.WriteLine($"Total monsters killed: {killedMonsters}");
