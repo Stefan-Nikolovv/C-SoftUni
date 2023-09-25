@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\refint\01.MonsterExtermination.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\obj\Debug\net6.0\ref\01.MonsterExtermination.dll
