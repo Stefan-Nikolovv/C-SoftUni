@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\obj\Debug\net6.0\03.ClothesMagazine.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\obj\Debug\net6.0\03.ClothesMagazine.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\obj\Debug\net6.0\03.ClothesMagazine.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\obj\Debug\net6.0\03.ClothesMagazine.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\bin\Debug\net6.0\03.ClothesMagazine.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\bin\Debug\net6.0\03.ClothesMagazine.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\bin\Debug\net6.0\03.ClothesMagazine.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\bin\Debug\net6.0\03.ClothesMagazine.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\bin\Debug\net6.0\03.ClothesMagazine.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\obj\Debug\net6.0\03.ClothesMagazine.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\obj\Debug\net6.0\refint\03.ClothesMagazine.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\obj\Debug\net6.0\03.ClothesMagazine.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\obj\Debug\net6.0\03.ClothesMagazine.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 12 April\03.ClothesMagazine\03.ClothesMagazine\03.ClothesMagazine\obj\Debug\net6.0\ref\03.ClothesMagazine.dll

@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj",
+        "projectName": "01.MonsterExtermination",
+        "projectPath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj",
+        "packagesPath": "C:\\Users\\stefan.n\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\obj\\",
+=======
     "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj": {}
   },
   "projects": {
@@ -12,12 +25,17 @@
         "projectPath": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
         "outputPath": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\obj\\",
+>>>>>>> 3171d7f035fd03c2a063b99358ee5b22fb937138
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\stefan.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 3171d7f035fd03c2a063b99358ee5b22fb937138
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +44,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+          "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> 3171d7f035fd03c2a063b99358ee5b22fb937138
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

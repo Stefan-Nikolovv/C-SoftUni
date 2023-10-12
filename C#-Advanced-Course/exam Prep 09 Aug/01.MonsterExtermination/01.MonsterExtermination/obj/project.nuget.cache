@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "EcuoP/aeO9XIZ4HJqGf/2sPzawH8ZmcklevoxjNN8AmcnqPGaaKR9psnY6K6nPq+9RKileRat0HyHYj+xF77Cw==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj",
+=======
   "dgSpecHash": "sbhPQLVUEbJytS8dsnHozzqzFaNEZCC6EI1+e6Sv5V177KEzHSX5caFb8p+tyrK+kw63U5b7O8meXR9EGAZ8dw==",
   "success": true,
   "projectFilePath": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\01.MonsterExtermination\\01.MonsterExtermination\\01.MonsterExtermination.csproj",
+>>>>>>> 3171d7f035fd03c2a063b99358ee5b22fb937138
   "expectedPackageFiles": [],
   "logs": []
 }

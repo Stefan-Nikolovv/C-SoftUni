@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\02.DeliveryBoy\\02.DeliveryBoy\\02.DeliveryBoy.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\02.DeliveryBoy\\02.DeliveryBoy\\02.DeliveryBoy.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
         "outputPath": "C:\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\02.DeliveryBoy\\02.DeliveryBoy\\obj\\",
+=======
+    "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\02.DeliveryBoy\\02.DeliveryBoy\\02.DeliveryBoy.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\02.DeliveryBoy\\02.DeliveryBoy\\02.DeliveryBoy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\02.DeliveryBoy\\02.DeliveryBoy\\02.DeliveryBoy.csproj",
+        "projectName": "02.DeliveryBoy",
+        "projectPath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\02.DeliveryBoy\\02.DeliveryBoy\\02.DeliveryBoy.csproj",
+        "packagesPath": "C:\\Users\\stefan.n\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 09 Aug\\02.DeliveryBoy\\02.DeliveryBoy\\obj\\",
+>>>>>>> 6e4310d14efcc0605bd503c57887997fd952c3d5
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\stefan.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 6e4310d14efcc0605bd503c57887997fd952c3d5
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +44,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> 6e4310d14efcc0605bd503c57887997fd952c3d5
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

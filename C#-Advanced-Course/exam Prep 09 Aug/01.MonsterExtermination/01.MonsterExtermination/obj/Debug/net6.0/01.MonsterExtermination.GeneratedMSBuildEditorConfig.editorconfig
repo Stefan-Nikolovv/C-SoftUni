@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _01.MonsterExtermination
+<<<<<<< HEAD
+build_property.ProjectDir = C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\
+=======
 build_property.ProjectDir = C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\01.MonsterExtermination\01.MonsterExtermination\
+>>>>>>> 3171d7f035fd03c2a063b99358ee5b22fb937138

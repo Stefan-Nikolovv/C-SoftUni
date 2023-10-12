@@ -1,4 +1,4 @@
-﻿using System.Drawing;
+﻿using System.Text;
 
 namespace ClothesMagazine
 {
@@ -18,27 +18,48 @@ namespace ClothesMagazine
 
         public void AddCloth(Cloth cloth)
         {
-            if(Cloths.Count < Capacity) 
-            { 
+            if (Cloths.Count < Capacity)
+            {
                 Cloths.Add(cloth);
             }
         }
 
         public bool RemoveCloth(string color)
         {
-            Cloth searchedColor = GetColor(color);
-           bool isRemoved = Cloths.Remove(searchedColor);
-            return isRemoved;
+            Cloth searchedColor = GetCloth(color);
+            if (Cloths.Remove(searchedColor))
+            {
+                return true;
+            }
+            return false;
         }
 
         public Cloth GetSmallestCloth()
         {
-            return Cloths;
+            return Cloths.MinBy(c => c.Size);
         }
 
-        private Cloth GetColor(string color)
+        public Cloth GetCloth(string color)
         {
             return Cloths.Find(c => c.Color == color);
         }
+        public int GetClothCount
+
+        { get { return Cloths.Count; } }
+
+
+        public string Report()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"{Type} magazine contains:");
+
+            foreach (var cloth in Cloths.OrderBy(c => c.Size))
+            {
+                sb.AppendLine(cloth.ToString());
+            }
+            return sb.ToString().TrimEnd();
+        }
+
     }
 }
