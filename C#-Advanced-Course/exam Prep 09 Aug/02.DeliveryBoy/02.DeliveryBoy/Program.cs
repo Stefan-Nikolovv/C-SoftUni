@@ -43,7 +43,7 @@ while ((command = Console.ReadLine()) != null)
         if (ValidateMove(rowBoy + 1, colBoy, matrix))
         {
            
-            if (matrix[rowBoy, colBoy] == "*")
+            if (matrix[rowBoy + 1, colBoy] == "*")
             {
                 continue;
             }

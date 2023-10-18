@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\bin\Debug\net6.0\skiHoliday.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\bin\Debug\net6.0\skiHoliday.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\bin\Debug\net6.0\skiHoliday.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\bin\Debug\net6.0\skiHoliday.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\bin\Debug\net6.0\skiHoliday.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\obj\Debug\net6.0\skiHoliday.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\obj\Debug\net6.0\skiHoliday.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\obj\Debug\net6.0\skiHoliday.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\obj\Debug\net6.0\skiHoliday.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\obj\Debug\net6.0\skiHoliday.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\obj\Debug\net6.0\refint\skiHoliday.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\obj\Debug\net6.0\skiHoliday.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\obj\Debug\net6.0\skiHoliday.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\skiHoliday\skiHoliday\obj\Debug\net6.0\ref\skiHoliday.dll

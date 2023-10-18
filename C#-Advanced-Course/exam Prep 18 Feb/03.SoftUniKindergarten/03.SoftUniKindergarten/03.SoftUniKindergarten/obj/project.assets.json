@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\03.SoftUniKindergarten.csproj",
+      "projectUniqueName": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 18 Feb\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\03.SoftUniKindergarten.csproj",
       "projectName": "03.SoftUniKindergarten",
-      "projectPath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\03.SoftUniKindergarten.csproj",
+      "projectPath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 18 Feb\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\03.SoftUniKindergarten.csproj",
       "packagesPath": "C:\\Users\\stefan.n\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\obj\\",
+      "outputPath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\exam Prep 18 Feb\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\03.SoftUniKindergarten\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

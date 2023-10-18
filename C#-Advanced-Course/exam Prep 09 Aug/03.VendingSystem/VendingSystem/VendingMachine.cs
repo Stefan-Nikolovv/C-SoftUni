@@ -1,26 +1,27 @@
-﻿using System;
+﻿
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Microsoft.Win32;
+
 
 namespace VendingSystem
 {
     public class VendingMachine
-    {
-        public int ButtonCapacity;
-        public List<Drink> Drinks;
-        public int GetCount
-        {
-            get { return Drinks.Count; }
-        }
-        
 
-        public VendingMachine(int button)
+    {
+
+        public VendingMachine(int ButtonCapacity)
         {
-            this.ButtonCapacity = button;
+            this.ButtonCapacity = ButtonCapacity;
             Drinks = new List<Drink>();
         }
+
+        public int ButtonCapacity { get; set; }
+        public List<Drink> Drinks { get; set; }
+        public int GetCount => Drinks.Count;
+    
+
+        
         public void AddDrink(Drink drink)
         {
             if(Drinks.Count < ButtonCapacity)
