@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\bin\Debug\net6.0\02.Mouse In The Kitchen.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\bin\Debug\net6.0\02.Mouse In The Kitchen.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\bin\Debug\net6.0\02.Mouse In The Kitchen.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\bin\Debug\net6.0\02.Mouse In The Kitchen.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\bin\Debug\net6.0\02.Mouse In The Kitchen.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\obj\Debug\net6.0\02.Mouse In The Kitchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\obj\Debug\net6.0\02.Mouse In The Kitchen.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\obj\Debug\net6.0\02.Mouse In The Kitchen.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\obj\Debug\net6.0\02.Mouse In The Kitchen.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\obj\Debug\net6.0\02.Mouse In The Kitchen.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\obj\Debug\net6.0\refint\02.Mouse In The Kitchen.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\obj\Debug\net6.0\02.Mouse In The Kitchen.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\obj\Debug\net6.0\02.Mouse In The Kitchen.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\02.Mouse In The Kitchen\02.Mouse In The Kitchen\obj\Debug\net6.0\ref\02.Mouse In The Kitchen.dll

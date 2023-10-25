@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\obj\Debug\net6.0\refint\01.Temple of Doom.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\01.Temple of Doom\01.Temple of Doom\obj\Debug\net6.0\ref\01.Temple of Doom.dll
