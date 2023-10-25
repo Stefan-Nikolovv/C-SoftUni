@@ -56,12 +56,12 @@ namespace AutomotiveRepairShop
         public List<Vehicle> Cars
         {
             get { return cars; }
-            set { cars = value; }
+            private set { cars = value; }
         }
         public int Capacity
         {
             get { return capacity; }
-            set { capacity = value; }
+            private set { capacity = value; }
         }
     }
 }
