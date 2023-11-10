@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Reflection and Attributes\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
