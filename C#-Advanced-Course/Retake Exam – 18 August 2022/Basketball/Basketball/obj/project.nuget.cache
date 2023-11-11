@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d6ry1g6zgewFQxQWRP7p06hbDLChoTCqH1qJOnzHamvVI3uC1Dg9nGMx7NQY/Xb7P3MeqhhVkVnbDgofltcQkw==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\C#-Advanced-Course\\Retake Exam – 18 August 2022\\Basketball\\Basketball\\Basketball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefan.n\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\stefan.n\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\stefan.n\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\stefan.n\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

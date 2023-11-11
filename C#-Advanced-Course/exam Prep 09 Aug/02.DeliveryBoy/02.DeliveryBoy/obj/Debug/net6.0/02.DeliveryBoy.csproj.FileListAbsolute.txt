@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\02.DeliveryBoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\02.DeliveryBoy.AssemblyInfoInputs.cache
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\02.DeliveryBoy.AssemblyInfo.cs
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\02.DeliveryBoy.csproj.CoreCompileInputs.cache
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\bin\Debug\net6.0\02.DeliveryBoy.exe
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\bin\Debug\net6.0\02.DeliveryBoy.deps.json
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\bin\Debug\net6.0\02.DeliveryBoy.runtimeconfig.json
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\bin\Debug\net6.0\02.DeliveryBoy.dll
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\bin\Debug\net6.0\02.DeliveryBoy.pdb
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\02.DeliveryBoy.dll
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\refint\02.DeliveryBoy.dll
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\02.DeliveryBoy.pdb
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\02.DeliveryBoy.genruntimeconfig.cache
+C:\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\ref\02.DeliveryBoy.dll
+=======
 C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\bin\Debug\net6.0\02.DeliveryBoy.exe
 C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\bin\Debug\net6.0\02.DeliveryBoy.deps.json
 C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\bin\Debug\net6.0\02.DeliveryBoy.runtimeconfig.json
@@ -12,3 +28,4 @@ C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam P
 C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\02.DeliveryBoy.pdb
 C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\02.DeliveryBoy.genruntimeconfig.cache
 C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 09 Aug\02.DeliveryBoy\02.DeliveryBoy\obj\Debug\net6.0\ref\02.DeliveryBoy.dll
+>>>>>>> 6e4310d14efcc0605bd503c57887997fd952c3d5

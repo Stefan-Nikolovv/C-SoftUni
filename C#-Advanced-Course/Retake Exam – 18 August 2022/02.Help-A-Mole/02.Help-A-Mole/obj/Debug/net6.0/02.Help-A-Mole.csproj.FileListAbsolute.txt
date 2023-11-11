@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\bin\Debug\net6.0\02.Help-A-Mole.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\bin\Debug\net6.0\02.Help-A-Mole.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\bin\Debug\net6.0\02.Help-A-Mole.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\bin\Debug\net6.0\02.Help-A-Mole.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\bin\Debug\net6.0\02.Help-A-Mole.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\obj\Debug\net6.0\refint\02.Help-A-Mole.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\02.Help-A-Mole\02.Help-A-Mole\obj\Debug\net6.0\ref\02.Help-A-Mole.dll

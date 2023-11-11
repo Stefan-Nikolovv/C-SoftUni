@@ -14,8 +14,8 @@
         {
             return $"Damage: {Damage}, Vehicle: {VIN} ({MyMileage} km)";
         }
-        public string VIN { get; set; }
-        public int MyMileage { get; set; }
-        public string Damage { get; set; }
+        public string VIN { get; private set; }
+        public int MyMileage { get; private set; }
+        public string Damage { get; private set; }
     }
 }
