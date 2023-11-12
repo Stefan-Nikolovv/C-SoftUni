@@ -1,0 +1,11 @@
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.deps.json
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.dll
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.pdb
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.AssemblyInfoInputs.cache
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.AssemblyInfo.cs
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.dll
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\obj\Debug\net6.0\refint\P02_FootballBetting.Data.Models.dll
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.pdb
+D:\Csharp-SoftUni\MSSQL\EntityFramework\MappingTables\P02_FootballBetting\P02_FootballBetting.Data.Models\obj\Debug\net6.0\ref\P02_FootballBetting.Data.Models.dll
