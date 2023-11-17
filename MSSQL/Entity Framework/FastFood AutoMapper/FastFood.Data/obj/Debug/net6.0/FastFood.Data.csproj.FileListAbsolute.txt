@@ -1,0 +1,17 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\bin\Debug\net6.0\FastFood.Data.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\bin\Debug\net6.0\FastFood.Data.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\bin\Debug\net6.0\FastFood.Data.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\bin\Debug\net6.0\FastFood.Data.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\bin\Debug\net6.0\FastFood.Models.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\bin\Debug\net6.0\FastFood.Models.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\FastFood.Data.csproj.AssemblyReference.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\FastFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\FastFood.Data.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\FastFood.Data.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\FastFood.Data.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\FastFood.Data.csproj.CopyComplete
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\FastFood.Data.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\refint\FastFood.Data.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\FastFood.Data.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\FastFood.Data.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\MSSQL\Entity Framework\FastFood AutoMapper\FastFood.Data\obj\Debug\net6.0\ref\FastFood.Data.dll
