@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ipfcs/BqXJKxT05o008h7okGxUsQxmu/SmJNeAquHMU47baygnIOzoK8rlmwI/Tsf+2IR47DPlz5x9AXzdGSlg==",
+  "dgSpecHash": "SKh5DxWS+bSCdIjW6hLAKSWRzJfN1KM6tBnilNYQaofc7cletlC92ZiFKNywV7CzO+QMBYYvH076rOkKzf4JZQ==",
   "success": true,
-  "projectFilePath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\MSSQL\\Entity Framework\\XML Seriliaze EF\\CarDealer\\CarDealer.csproj",
+  "projectFilePath": "C:\\GitHub SoftUni\\OneDrive - DraftKings\\Csharp-SoftUni\\MSSQL\\Entity Framework\\XML Serializer EF\\CarDealer\\CarDealer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefan.n\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\stefan.n\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
