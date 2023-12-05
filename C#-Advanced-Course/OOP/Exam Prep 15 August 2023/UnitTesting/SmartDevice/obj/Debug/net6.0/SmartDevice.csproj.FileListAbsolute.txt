@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\bin\Debug\net6.0\SmartDevice.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\bin\Debug\net6.0\SmartDevice.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\bin\Debug\net6.0\SmartDevice.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\bin\Debug\net6.0\SmartDevice.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\bin\Debug\net6.0\SmartDevice.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\obj\Debug\net6.0\SmartDevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\obj\Debug\net6.0\SmartDevice.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\obj\Debug\net6.0\SmartDevice.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\obj\Debug\net6.0\refint\SmartDevice.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\obj\Debug\net6.0\SmartDevice.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\obj\Debug\net6.0\SmartDevice.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 15 August 2023\UnitTesting\SmartDevice\obj\Debug\net6.0\ref\SmartDevice.dll
