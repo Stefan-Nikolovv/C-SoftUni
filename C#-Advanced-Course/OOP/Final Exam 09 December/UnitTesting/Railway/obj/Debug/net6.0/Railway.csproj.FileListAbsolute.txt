@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\bin\Debug\net6.0\Railway.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\bin\Debug\net6.0\Railway.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\bin\Debug\net6.0\Railway.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\bin\Debug\net6.0\Railway.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\obj\Debug\net6.0\Railway.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\obj\Debug\net6.0\refint\Railway.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\obj\Debug\net6.0\Railway.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\UnitTesting\Railway\obj\Debug\net6.0\ref\Railway.dll
