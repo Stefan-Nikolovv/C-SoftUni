@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\bin\Debug\net6.0\ChristmasPastryShop.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\bin\Debug\net6.0\ChristmasPastryShop.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\bin\Debug\net6.0\ChristmasPastryShop.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\bin\Debug\net6.0\ChristmasPastryShop.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\bin\Debug\net6.0\ChristmasPastryShop.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\obj\Debug\net6.0\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\obj\Debug\net6.0\ChristmasPastryShop.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\obj\Debug\net6.0\ChristmasPastryShop.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\obj\Debug\net6.0\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\obj\Debug\net6.0\ChristmasPastryShop.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\obj\Debug\net6.0\refint\ChristmasPastryShop.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\obj\Debug\net6.0\ChristmasPastryShop.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\obj\Debug\net6.0\ChristmasPastryShop.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\obj\Debug\net6.0\ref\ChristmasPastryShop.dll

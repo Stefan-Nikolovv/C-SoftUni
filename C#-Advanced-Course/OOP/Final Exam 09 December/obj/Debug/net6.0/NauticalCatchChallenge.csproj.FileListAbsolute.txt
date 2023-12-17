@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\bin\Debug\net6.0\NauticalCatchChallenge.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\bin\Debug\net6.0\NauticalCatchChallenge.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\obj\Debug\net6.0\NauticalCatchChallenge.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Final Exam 09 December\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll

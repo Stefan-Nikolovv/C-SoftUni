@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\obj\Debug\net6.0\refint\SmartphoneShop.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\SmartphoneShop\SmartphoneShop\obj\Debug\net6.0\ref\SmartphoneShop.dll
