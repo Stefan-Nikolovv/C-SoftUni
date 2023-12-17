@@ -1,0 +1,15 @@
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\bin\Debug\net6.0\Forum.Data.deps.json
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\bin\Debug\net6.0\Forum.Data.dll
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\bin\Debug\net6.0\Forum.Data.pdb
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\Forum.Data.csproj.AssemblyReference.cache
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\Forum.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\Forum.Data.AssemblyInfoInputs.cache
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\Forum.Data.AssemblyInfo.cs
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\Forum.Data.csproj.CoreCompileInputs.cache
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\Forum.Data.sourcelink.json
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\Forum.Data.dll
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\refint\Forum.Data.dll
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\Forum.Data.pdb
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\ref\Forum.Data.dll
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\bin\Debug\net6.0\Forum.Data.runtimeconfig.json
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.Data\obj\Debug\net6.0\Forum.Data.genruntimeconfig.cache

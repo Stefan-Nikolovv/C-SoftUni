@@ -27,7 +27,7 @@ namespace Entity_Practice.Data
         {
             if (!optionsBuilder.IsConfigured) 
             { 
-                optionsBuilder.UseSqlServer("Server=(LocalDb)\\MSSQLLocalDB;Database=SoftUni;Integrated Security=True;");
+                optionsBuilder.UseSqlServer("Server=DESKTOP-QTHMB5C;Database=SoftUni;Integrated Security=True;");
             }
         }
 
