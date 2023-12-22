@@ -1,0 +1,6 @@
+D:\Csharp-SoftUni\MSSQL\EntityFramework\obj\Debug\net6.0\SoftUni.csproj.AssemblyReference.cache
+D:\Csharp-SoftUni\MSSQL\EntityFramework\obj\Debug\net6.0\SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-SoftUni\MSSQL\EntityFramework\obj\Debug\net6.0\SoftUni.AssemblyInfoInputs.cache
+D:\Csharp-SoftUni\MSSQL\EntityFramework\obj\Debug\net6.0\SoftUni.AssemblyInfo.cs
+D:\Csharp-SoftUni\MSSQL\EntityFramework\obj\Debug\net6.0\SoftUni.csproj.CoreCompileInputs.cache
+D:\Csharp-SoftUni\MSSQL\EntityFramework\obj\Debug\net6.0\SoftUni.sourcelink.json

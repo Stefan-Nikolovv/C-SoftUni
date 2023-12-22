@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\bin\Debug\net6.0\01.BaristaContest.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\bin\Debug\net6.0\01.BaristaContest.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\bin\Debug\net6.0\01.BaristaContest.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\bin\Debug\net6.0\01.BaristaContest.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\bin\Debug\net6.0\01.BaristaContest.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\obj\Debug\net6.0\01.BaristaContest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\obj\Debug\net6.0\01.BaristaContest.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\obj\Debug\net6.0\01.BaristaContest.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\obj\Debug\net6.0\01.BaristaContest.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\obj\Debug\net6.0\01.BaristaContest.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\obj\Debug\net6.0\refint\01.BaristaContest.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\obj\Debug\net6.0\01.BaristaContest.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\obj\Debug\net6.0\01.BaristaContest.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Retake Exam – 18 August 2022\01.BaristaContest\01.BaristaContest\obj\Debug\net6.0\ref\01.BaristaContest.dll

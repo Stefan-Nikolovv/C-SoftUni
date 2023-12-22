@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\bin\Debug\net6.0\FootballTeam.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\bin\Debug\net6.0\FootballTeam.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\bin\Debug\net6.0\FootballTeam.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\bin\Debug\net6.0\FootballTeam.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\bin\Debug\net6.0\FootballTeam.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\obj\Debug\net6.0\FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\obj\Debug\net6.0\FootballTeam.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\obj\Debug\net6.0\FootballTeam.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\obj\Debug\net6.0\FootballTeam.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\obj\Debug\net6.0\FootballTeam.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\obj\Debug\net6.0\refint\FootballTeam.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\obj\Debug\net6.0\FootballTeam.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\obj\Debug\net6.0\FootballTeam.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep ChristmasPastryShop\UnitTesting\FootballTeam\obj\Debug\net6.0\ref\FootballTeam.dll

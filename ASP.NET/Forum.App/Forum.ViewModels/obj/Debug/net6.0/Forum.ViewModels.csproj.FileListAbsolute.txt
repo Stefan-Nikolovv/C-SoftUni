@@ -1,0 +1,12 @@
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\bin\Debug\net6.0\Forum.ViewModels.deps.json
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\bin\Debug\net6.0\Forum.ViewModels.dll
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\bin\Debug\net6.0\Forum.ViewModels.pdb
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.AssemblyInfoInputs.cache
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.AssemblyInfo.cs
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.csproj.CoreCompileInputs.cache
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.sourcelink.json
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.dll
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\obj\Debug\net6.0\refint\Forum.ViewModels.dll
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.pdb
+D:\Csharp-SoftUni\ASP.NET\Forum.App\Forum.ViewModels\obj\Debug\net6.0\ref\Forum.ViewModels.dll

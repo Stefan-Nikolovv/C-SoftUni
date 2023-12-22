@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\bin\Debug\net6.0\01.ClimbThePeaks.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\bin\Debug\net6.0\01.ClimbThePeaks.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\bin\Debug\net6.0\01.ClimbThePeaks.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\bin\Debug\net6.0\01.ClimbThePeaks.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\bin\Debug\net6.0\01.ClimbThePeaks.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\obj\Debug\net6.0\refint\01.ClimbThePeaks.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\exam Prep 13 Dec\01.ClimbThePeaks\01.ClimbThePeaks\obj\Debug\net6.0\ref\01.ClimbThePeaks.dll

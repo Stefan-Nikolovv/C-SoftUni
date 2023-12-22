@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\bin\Debug\net6.0\NavalVessels.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\bin\Debug\net6.0\NavalVessels.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\bin\Debug\net6.0\NavalVessels.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\bin\Debug\net6.0\NavalVessels.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\bin\Debug\net6.0\NavalVessels.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\obj\Debug\net6.0\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\obj\Debug\net6.0\NavalVessels.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\obj\Debug\net6.0\NavalVessels.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\obj\Debug\net6.0\NavalVessels.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\obj\Debug\net6.0\NavalVessels.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\obj\Debug\net6.0\refint\NavalVessels.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\obj\Debug\net6.0\NavalVessels.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\obj\Debug\net6.0\NavalVessels.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 20 December 2021\NavalVessels-Skeleton\NavalVessels\obj\Debug\net6.0\ref\NavalVessels.dll

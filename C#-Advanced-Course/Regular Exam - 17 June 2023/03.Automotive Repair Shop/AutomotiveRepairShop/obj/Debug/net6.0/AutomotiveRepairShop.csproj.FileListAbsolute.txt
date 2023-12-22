@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\obj\Debug\net6.0\refint\AutomotiveRepairShop.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\Regular Exam - 17 June 2023\03.Automotive Repair Shop\AutomotiveRepairShop\obj\Debug\net6.0\ref\AutomotiveRepairShop.dll

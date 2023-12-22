@@ -1,0 +1,14 @@
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\bin\Debug\net6.0\Formula1.exe
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\bin\Debug\net6.0\Formula1.deps.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\bin\Debug\net6.0\Formula1.runtimeconfig.json
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\bin\Debug\net6.0\Formula1.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\bin\Debug\net6.0\Formula1.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfoInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfo.cs
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.csproj.CoreCompileInputs.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\obj\Debug\net6.0\refint\Formula1.dll
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.pdb
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.genruntimeconfig.cache
+C:\GitHub SoftUni\OneDrive - DraftKings\Csharp-SoftUni\C#-Advanced-Course\OOP\Exam Prep 9 April 2022\Formula1\Formula1\obj\Debug\net6.0\ref\Formula1.dll
