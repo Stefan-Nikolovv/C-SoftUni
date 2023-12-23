@@ -29,6 +29,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options =>
 
 builder.Services.AddScoped<IBoardServices, BoardService>();
 
+builder.Services.AddScoped<ITaskService, TaskService>();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

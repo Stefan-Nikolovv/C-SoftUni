@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TaskBoardApp.Web.ViewModels.Board;
+using TaskBoardApp.Web.ViewModels.Task;
 
 namespace TaskBoardApp.Services.Contracts
 {
@@ -11,5 +12,7 @@ namespace TaskBoardApp.Services.Contracts
     {
         Task<IEnumerable<BoardAllViewModel>> allBoardsAsnc();
         Task<IEnumerable<BoardSelectVieModel>> AllSelectedAsync();
+        Task<bool> ExistByIdAsync(int id);
+        
     }
 }

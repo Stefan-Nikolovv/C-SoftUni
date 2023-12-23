@@ -12,6 +12,7 @@ namespace TaskBoardApp.Web.ViewModels.Task
 {
     public class TaskFormModel
     {
+        public string Id { get; set; } = null!;
         [Required]
         [StringLength(EntityValidationConstants.TaskBoard.TaskMaxTitle,
             MinimumLength = EntityValidationConstants.TaskBoard.TaskMinTitle,
@@ -24,6 +25,6 @@ namespace TaskBoardApp.Web.ViewModels.Task
         public string Description { get; set; }
         [Display(Name = "Board")]
         public int BoardId { get; set; }
-        public IEnumerable<BoardSelectVieModel> Board { get; set; }
+        public IEnumerable<BoardSelectVieModel>? Board { get; set; }
     }
 }

@@ -4,6 +4,7 @@ using TaskBoardApp.Services.Contracts;
 using TaskBoardApp.Web.ViewModels.Board;
 using TaskBoardApp.Web.ViewModels.Task;
 
+
 namespace TaskBoardApp.Services
 {
     public class BoardService : IBoardServices
@@ -14,6 +15,9 @@ namespace TaskBoardApp.Services
         {
             this.dbContext = dbContext;
         }
+
+        
+
         public async Task<IEnumerable<BoardAllViewModel>> allBoardsAsnc()
         {
             IEnumerable<BoardAllViewModel> boardAlls = await this.dbContext
@@ -45,6 +49,13 @@ namespace TaskBoardApp.Services
                 .ToArrayAsync();    
 
             return boardSelectVieModels;
+        }
+
+        public async Task<bool> ExistByIdAsync(int id)
+        {
+            bool result = await this.dbContext.Boards.AnyAsync(b => b.Id == id);
+
+            return result;
         }
     }
 }
