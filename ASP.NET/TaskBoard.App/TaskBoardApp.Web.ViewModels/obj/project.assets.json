@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TaskBoardApp.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TaskBoardApp.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskBoardApp.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskBoardApp.Common/1.0.0": {
+      "type": "project",
+      "path": "../TaskBoardApp.Common/TaskBoardApp.Common.csproj",
+      "msbuildProject": "../TaskBoardApp.Common/TaskBoardApp.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TaskBoardApp.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Stefan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Csharp-SoftUni\\ASP.NET\\TaskBoard.App\\TaskBoardApp.Web.ViewModels\\TaskBoardApp.Web.ViewModels.csproj",
+      "projectName": "TaskBoardApp.Web.ViewModels",
+      "projectPath": "C:\\Csharp-SoftUni\\ASP.NET\\TaskBoard.App\\TaskBoardApp.Web.ViewModels\\TaskBoardApp.Web.ViewModels.csproj",
+      "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+      "outputPath": "C:\\Csharp-SoftUni\\ASP.NET\\TaskBoard.App\\TaskBoardApp.Web.ViewModels\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Csharp-SoftUni\\ASP.NET\\TaskBoard.App\\TaskBoardApp.Common\\TaskBoardApp.Common.csproj": {
+              "projectPath": "C:\\Csharp-SoftUni\\ASP.NET\\TaskBoard.App\\TaskBoardApp.Common\\TaskBoardApp.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
