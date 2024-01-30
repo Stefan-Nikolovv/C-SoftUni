@@ -1,0 +1,12 @@
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\bin\Debug\net6.0\HouseRentingSystem.Web.ViewModels.deps.json
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\bin\Debug\net6.0\HouseRentingSystem.Web.ViewModels.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\bin\Debug\net6.0\HouseRentingSystem.Web.ViewModels.pdb
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.AssemblyInfoInputs.cache
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.AssemblyInfo.cs
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.csproj.CoreCompileInputs.cache
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.sourcelink.json
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\refint\HouseRentingSystem.Web.ViewModels.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.pdb
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\ref\HouseRentingSystem.Web.ViewModels.dll

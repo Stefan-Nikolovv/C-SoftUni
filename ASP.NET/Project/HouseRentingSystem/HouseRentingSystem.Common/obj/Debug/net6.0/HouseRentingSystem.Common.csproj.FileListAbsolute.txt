@@ -1,0 +1,12 @@
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\bin\Debug\net6.0\HouseRentingSystem.Common.deps.json
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\bin\Debug\net6.0\HouseRentingSystem.Common.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\HouseRentingSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\HouseRentingSystem.Common.AssemblyInfoInputs.cache
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\HouseRentingSystem.Common.AssemblyInfo.cs
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\HouseRentingSystem.Common.csproj.CoreCompileInputs.cache
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\HouseRentingSystem.Common.sourcelink.json
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\HouseRentingSystem.Common.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\refint\HouseRentingSystem.Common.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\HouseRentingSystem.Common.pdb
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\ref\HouseRentingSystem.Common.dll
