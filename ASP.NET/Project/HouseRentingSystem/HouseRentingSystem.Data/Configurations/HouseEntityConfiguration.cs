@@ -9,10 +9,14 @@ namespace HouseRentingSystem.Data.Configurations
     {
         public void Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<House> builder)
         {
-           builder
+            builder
+               .Property(h => h.CreatedOn)
+               .HasDefaultValueSql("GETDATE()");
+
+            builder
                 .HasOne(h => h.Category)
                 .WithMany(c => c.Houses)
-                .HasForeignKey(h => h.Category)
+                .HasForeignKey(h => h.CategoryId)
                 .OnDelete(DeleteBehavior.Restrict);
 
             builder

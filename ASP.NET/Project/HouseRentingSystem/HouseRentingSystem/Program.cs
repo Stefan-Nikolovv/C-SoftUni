@@ -2,6 +2,8 @@ using HouseRentingSystem.Data;
 using HouseRentingSystem.Data.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+
 
 namespace HouseRentingSystem
 {
@@ -17,7 +19,14 @@ namespace HouseRentingSystem
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfirmedAccount = true)
+            builder.Services.AddDefaultIdentity<User>(options => {
+                options.SignIn.RequireConfirmedAccount = builder.Configuration.GetValue<bool>("Identity:SignIn:RequiredConfirmedAccount");
+                options.Password.RequireLowercase = false;
+                options.Password.RequireUppercase = false;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequiredLength = 3;
+
+            })
                 .AddEntityFrameworkStores<HouseRentingDbContext>();
             builder.Services.AddControllersWithViews();
 
