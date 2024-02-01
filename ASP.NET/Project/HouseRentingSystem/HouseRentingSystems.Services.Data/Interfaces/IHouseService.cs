@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HouseRentingSystems.Services.Data.Interfaces
 {
-    internal interface IHouseServices
+    public interface IHouseService
     {
         Task<IEnumerable<HouseIndexViewModel>>  GetLastThreeHouseAsync();
     }

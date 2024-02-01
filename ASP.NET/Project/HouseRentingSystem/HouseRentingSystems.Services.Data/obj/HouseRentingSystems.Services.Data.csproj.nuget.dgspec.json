@@ -222,7 +222,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+                "projectPath": "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

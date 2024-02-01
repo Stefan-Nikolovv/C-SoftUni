@@ -67,7 +67,6 @@ D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debu
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Data.pdb
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Web.ViewModels.pdb
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
-D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.MvcApplicationPartsAssemblyInfo.cs
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\staticwebassets.build.json
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\staticwebassets.development.json
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\staticwebassets\msbuild.HouseRentingSystem.Microsoft.AspNetCore.StaticWebAssets.props
@@ -85,3 +84,7 @@ D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\obj\Debu
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.genruntimeconfig.cache
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\ref\HouseRentingSystem.dll
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\appsettings.Production.json
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystems.Services.Data.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystems.Services.Data.pdb
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Web.Infrastructure.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Web.Infrastructure.pdb

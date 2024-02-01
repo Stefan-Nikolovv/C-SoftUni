@@ -991,14 +991,47 @@
           "bin/placeholder/HouseRentingSystem.Data.Models.dll": {}
         }
       },
+      "HouseRentingSystem.Web.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HouseRentingSystems.Services.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.Web.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.Web.Infrastructure.dll": {}
+        }
+      },
       "HouseRentingSystem.Web.ViewModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HouseRentingSystem.Common": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/HouseRentingSystem.Web.ViewModels.dll": {}
         },
         "runtime": {
           "bin/placeholder/HouseRentingSystem.Web.ViewModels.dll": {}
+        }
+      },
+      "HouseRentingSystems.Services.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HouseRentingSystem.Common": "1.0.0",
+          "HouseRentingSystem.Data": "1.0.0",
+          "HouseRentingSystem.Data.Models": "1.0.0",
+          "HouseRentingSystem.Web.ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HouseRentingSystems.Services.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystems.Services.Data.dll": {}
         }
       }
     }
@@ -2507,17 +2540,29 @@
       "path": "../HouseRentingSystem.Data.Models/HouseRentingSystem.Data.Models.csproj",
       "msbuildProject": "../HouseRentingSystem.Data.Models/HouseRentingSystem.Data.Models.csproj"
     },
+    "HouseRentingSystem.Web.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.Web.Infrastructure/HouseRentingSystem.Web.Infrastructure.csproj",
+      "msbuildProject": "../HouseRentingSystem.Web.Infrastructure/HouseRentingSystem.Web.Infrastructure.csproj"
+    },
     "HouseRentingSystem.Web.ViewModels/1.0.0": {
       "type": "project",
       "path": "../HouseRentingSystem.Web.ViewModels/HouseRentingSystem.Web.ViewModels.csproj",
       "msbuildProject": "../HouseRentingSystem.Web.ViewModels/HouseRentingSystem.Web.ViewModels.csproj"
+    },
+    "HouseRentingSystems.Services.Data/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystems.Services.Data/HouseRentingSystems.Services.Data.csproj",
+      "msbuildProject": "../HouseRentingSystems.Services.Data/HouseRentingSystems.Services.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "HouseRentingSystem.Data >= 1.0.0",
       "HouseRentingSystem.Data.Models >= 1.0.0",
+      "HouseRentingSystem.Web.Infrastructure >= 1.0.0",
       "HouseRentingSystem.Web.ViewModels >= 1.0.0",
+      "HouseRentingSystems.Services.Data >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.26",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.26",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.26",
@@ -2558,8 +2603,14 @@
             "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj": {
               "projectPath": "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj"
             },
+            "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj": {
+              "projectPath": "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj"
+            },
             "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj": {
               "projectPath": "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj"
+            },
+            "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystems.Services.Data\\HouseRentingSystems.Services.Data.csproj": {
+              "projectPath": "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystems.Services.Data\\HouseRentingSystems.Services.Data.csproj"
             }
           }
         }
