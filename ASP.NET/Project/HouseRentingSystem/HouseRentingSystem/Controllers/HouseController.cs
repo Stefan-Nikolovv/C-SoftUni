@@ -9,6 +9,7 @@ namespace HouseRentingSystem.Controllers
         [AllowAnonymous]
         public async Task<IActionResult> All()
         {
+
             return View();
         }
     }

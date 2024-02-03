@@ -18,6 +18,18 @@ namespace HouseRentingSystems.Services.Data
         {
             this.dbContext = dbContext;
         }
+
+        public async Task<IEnumerable<HouseIndexViewModel>> GetAllHouseAsync()
+        {
+            IEnumerable<HouseIndexViewModel> result = await this.dbContext.Houses.Select(x => new HouseIndexViewModel
+            {
+                Id = x.Id.ToString(),
+                Title = x.Title,
+                ImageUrl = x.ImageUrl,
+            }).ToListAsync();
+            return result;
+        }
+
         public async Task<IEnumerable<HouseIndexViewModel>> GetLastThreeHouseAsync()
         {
             IEnumerable<HouseIndexViewModel> result = await this.dbContext

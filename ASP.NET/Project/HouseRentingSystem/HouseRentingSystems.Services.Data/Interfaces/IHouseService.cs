@@ -10,5 +10,6 @@ namespace HouseRentingSystems.Services.Data.Interfaces
     public interface IHouseService
     {
         Task<IEnumerable<HouseIndexViewModel>>  GetLastThreeHouseAsync();
-    }
+        Task<IEnumerable<HouseIndexViewModel>> GetAllHouseAsync();
+    } 
 }

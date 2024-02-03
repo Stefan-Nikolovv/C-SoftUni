@@ -88,3 +88,4 @@ D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debu
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystems.Services.Data.pdb
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Web.Infrastructure.dll
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Web.Infrastructure.pdb
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.MvcApplicationPartsAssemblyInfo.cs
