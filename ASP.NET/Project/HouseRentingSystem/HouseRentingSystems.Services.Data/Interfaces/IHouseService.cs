@@ -1,4 +1,5 @@
 ﻿using HouseRentingSystem.Web.ViewModels.Home;
+using HouseRentingSystem.Web.ViewModels.House;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,5 +12,6 @@ namespace HouseRentingSystems.Services.Data.Interfaces
     {
         Task<IEnumerable<HouseIndexViewModel>>  GetLastThreeHouseAsync();
         Task<IEnumerable<HouseIndexViewModel>> GetAllHouseAsync();
+        Task CreateAsync(HouseFormModel model, string agentId);
     } 
 }
