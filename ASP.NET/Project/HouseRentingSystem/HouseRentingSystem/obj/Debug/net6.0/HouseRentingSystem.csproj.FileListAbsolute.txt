@@ -89,3 +89,8 @@ D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debu
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Web.Infrastructure.dll
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Web.Infrastructure.pdb
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Services.Data.Models.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Services.Data.Models.pdb

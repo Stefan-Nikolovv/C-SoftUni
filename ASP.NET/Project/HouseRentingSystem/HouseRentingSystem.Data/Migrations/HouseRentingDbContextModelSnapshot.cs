@@ -120,6 +120,11 @@ namespace HouseRentingSystem.Data.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
+                    b.Property<bool>("isActive")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bit")
+                        .HasDefaultValue(true);
+
                     b.HasKey("Id");
 
                     b.HasIndex("AgentId");
@@ -133,7 +138,7 @@ namespace HouseRentingSystem.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("00e45f50-215f-419b-80f4-19eefc5776e3"),
+                            Id = new Guid("e84d500d-8e15-4ba7-bdfd-206ab37df446"),
                             Address = "North London, UK (near the border)",
                             AgentId = new Guid("ca1523ec-643e-44fb-ae25-bae604c1bb9e"),
                             CategoryId = 3,
@@ -142,11 +147,12 @@ namespace HouseRentingSystem.Data.Migrations
                             ImageUrl = "https://www.luxury-architecture.net/wp-content/uploads/2017/12/1513217889-7597-FAIRWAYS-010.jpg",
                             PricePerMonth = 2100.00m,
                             RenterId = new Guid("7a171844-2f95-4456-99fe-08dc227fcc74"),
-                            Title = "Big House Marina"
+                            Title = "Big House Marina",
+                            isActive = false
                         },
                         new
                         {
-                            Id = new Guid("f79e1a81-e046-4741-8c8a-239fb2629157"),
+                            Id = new Guid("1b25eb58-adf7-4290-89a8-b02951f0b01a"),
                             Address = "Near the Sea Garden in Burgas, Bulgaria",
                             AgentId = new Guid("ca1523ec-643e-44fb-ae25-bae604c1bb9e"),
                             CategoryId = 2,
@@ -154,11 +160,12 @@ namespace HouseRentingSystem.Data.Migrations
                             Description = "It has the best comfort you will ever ask for. With two bedrooms, it is great for your family.",
                             ImageUrl = "https://cf.bstatic.com/xdata/images/hotel/max1024x768/179489660.jpg?k=2029f6d9589b49c95dcc9503a265e292c2cdfcb5277487a0050397c3f8dd545a&o=&hp=1",
                             PricePerMonth = 1200.00m,
-                            Title = "Family House Comfort"
+                            Title = "Family House Comfort",
+                            isActive = false
                         },
                         new
                         {
-                            Id = new Guid("f8d7e059-2442-4623-8335-227a42b989ab"),
+                            Id = new Guid("750abbc9-f788-4eda-8f60-31a0dbc19a25"),
                             Address = "Boyana Neighbourhood, Sofia, Bulgaria",
                             AgentId = new Guid("ca1523ec-643e-44fb-ae25-bae604c1bb9e"),
                             CategoryId = 2,
@@ -166,7 +173,8 @@ namespace HouseRentingSystem.Data.Migrations
                             Description = "This luxurious house is everything you will need. It is just excellent.",
                             ImageUrl = "https://i.pinimg.com/originals/a6/f5/85/a6f5850a77633c56e4e4ac4f867e3c00.jpg",
                             PricePerMonth = 2000.00m,
-                            Title = "Grand House"
+                            Title = "Grand House",
+                            isActive = false
                         });
                 });
 

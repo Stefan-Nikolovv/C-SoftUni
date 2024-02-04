@@ -25,7 +25,7 @@ namespace HouseRentingSystem.Data.Models
         [Required]
         public decimal  PricePerMonth { get; set; }
         public DateTime CreatedOn { get; set; }
-
+        public bool isActive { get; set; }
         [Required]
         public int CategoryId { get; set; }
         public virtual Category Category { get; set; }

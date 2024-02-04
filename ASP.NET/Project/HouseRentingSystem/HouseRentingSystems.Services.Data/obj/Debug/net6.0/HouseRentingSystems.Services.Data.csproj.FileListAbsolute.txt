@@ -20,3 +20,5 @@ D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystems.Service
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystems.Services.Data\obj\Debug\net6.0\refint\HouseRentingSystems.Services.Data.dll
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystems.Services.Data\obj\Debug\net6.0\HouseRentingSystems.Services.Data.pdb
 D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystems.Services.Data\obj\Debug\net6.0\ref\HouseRentingSystems.Services.Data.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystems.Services.Data\bin\Debug\net6.0\HouseRentingSystem.Services.Data.Models.dll
+D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystems.Services.Data\bin\Debug\net6.0\HouseRentingSystem.Services.Data.Models.pdb

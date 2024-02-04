@@ -57,7 +57,7 @@ namespace HouseRentingSystems.Services.Data
             {
                 return null;
             }
-            return agentId.ToString();
+            return agentId.Id.ToString();
         }
 
         public async Task<bool> UserHasRentsAsync(string userId)
