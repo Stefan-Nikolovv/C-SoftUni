@@ -42,8 +42,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcQWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Mine.cshtml]

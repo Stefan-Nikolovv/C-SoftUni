@@ -13,11 +13,18 @@ namespace HouseRentingSystems.Services.Data.Interfaces
     {
         Task<IEnumerable<HouseIndexViewModel>>  GetLastThreeHouseAsync();
         Task<IEnumerable<HouseIndexViewModel>> GetAllHouseAsync();
-        Task CreateAsync(HouseFormModel model, string agentId);
+        Task<string> CreateAndReturnIdAsync(HouseFormModel model, string agentId);
 
         Task<AllHousesFilteredAndPagedServiceModel> AllAsync(AllHousesQueryModel queryModel);
         Task<IEnumerable<HouseAllViewModel>> AllByAgentIdAsync(string agentId);
         Task<IEnumerable<HouseAllViewModel>> AllByUserIdAsync(string userId);
-        Task<HouseDetailsViewModel?> GetHouseDetailsAsync(string houseId);
+        Task<HouseDetailsViewModel> GetHouseDetailsAsync(string houseId);
+        Task<bool> ExistByIdAsync(string houseId);
+        Task<HouseFormModel> GetHouseForEditByIdAsync(string houseId);
+        Task<bool> isAgentWithIdOwnerOfHouseWithIdAsync(string houseId, string ownerId);
+
+        Task EditHouseByIdAsync(string id, HouseFormModel model);
+        Task<HouseDeleteDetailsViewModel> GetHouseToDeleteHouseByIdAsync(string id);
+        Task GetHouseByIdAndDelete(string id);
     } 
 }

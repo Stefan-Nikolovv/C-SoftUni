@@ -78,7 +78,8 @@ namespace HouseRentingSystem.Controllers
             {
                 string agentId = await this.agentService.GetAgentIdByUserIdAsync(this.User.GetId());
 
-                await this.houseService.CreateAsync(model, agentId);
+              string id =  await this.houseService.CreateAndReturnIdAsync(model, agentId);
+                return this.RedirectToAction("Details", "House", new { id = id });
             }
             catch (Exception)
             {
@@ -87,7 +88,7 @@ namespace HouseRentingSystem.Controllers
                 model.Categories = await this.categoryService.GetAll();
                 return View(model);
             }
-            return this.RedirectToAction("All", "House");
+           
         }
         [HttpGet]
         public async Task<IActionResult> Mine()
@@ -113,12 +114,160 @@ namespace HouseRentingSystem.Controllers
         [AllowAnonymous]
         public async Task<IActionResult> Details(string id)
         {
-            HouseDetailsViewModel? model = await this.houseService.GetHouseDetailsAsync(id);
-            if(model == null)
+            bool houseExists = await this.houseService.ExistByIdAsync(id);
+            
+            if(!houseExists)
             {
                 return RedirectToAction("All", "House");
             }
+            HouseDetailsViewModel model = await this.houseService.GetHouseDetailsAsync(id);
             return View(model);
         }
+        [HttpGet]
+        public async Task<IActionResult> Edit(string id)
+        {
+            bool houseExists = await this.houseService.ExistByIdAsync(id);
+
+            if (!houseExists)
+            {
+                return RedirectToAction("All", "House");
+            }
+            bool isUserAgent = await this.agentService.AgentExistsByUserId(this.User.GetId());
+
+            if (!isUserAgent)
+            {
+                return RedirectToAction("Become", "Agent");
+            }
+            string agentId = await this.agentService.GetAgentIdByUserIdAsync(this.User.GetId());
+
+            bool isAgentOwner = await this.houseService
+                .isAgentWithIdOwnerOfHouseWithIdAsync(id, agentId);
+
+            if (!isAgentOwner)
+            {
+                return RedirectToAction("Become", "Agent");
+            }
+            HouseFormModel houseForm = await this.houseService.GetHouseForEditByIdAsync(id);
+            houseForm.Categories = await this.categoryService.GetAll();
+            return View(houseForm);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Delete(string id)
+        {
+            bool houseExists = await this.houseService.ExistByIdAsync(id);
+
+            if (!houseExists)
+            {
+                return RedirectToAction("All", "House");
+            }
+            bool isUserAgent = await this.agentService.AgentExistsByUserId(this.User.GetId());
+
+            if (!isUserAgent)
+            {
+                return RedirectToAction("Become", "Agent");
+            }
+            string agentId = await this.agentService.GetAgentIdByUserIdAsync(this.User.GetId());
+
+            bool isAgentOwner = await this.houseService
+                .isAgentWithIdOwnerOfHouseWithIdAsync(id, agentId);
+
+            if (!isAgentOwner)
+            {
+                return RedirectToAction("Become", "Agent");
+            }
+
+            try
+            {
+                HouseDeleteDetailsViewModel deleteDetailsViewModel = await this.houseService.GetHouseToDeleteHouseByIdAsync(id);
+                return this.View(deleteDetailsViewModel);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(string id, HouseDeleteDetailsViewModel model)
+        {
+            bool houseExists = await this.houseService.ExistByIdAsync(id);
+
+            if (!houseExists)
+            {
+                return RedirectToAction("All", "House");
+            }
+            bool isUserAgent = await this.agentService.AgentExistsByUserId(this.User.GetId());
+
+            if (!isUserAgent)
+            {
+                return RedirectToAction("Become", "Agent");
+            }
+            string agentId = await this.agentService.GetAgentIdByUserIdAsync(this.User.GetId());
+
+            bool isAgentOwner = await this.houseService
+                .isAgentWithIdOwnerOfHouseWithIdAsync(id, agentId);
+
+            if (!isAgentOwner)
+            {
+                return RedirectToAction("Become", "Agent");
+            }
+
+            try
+            {
+                  await this.houseService.GetHouseByIdAndDelete(id);
+                return RedirectToAction("Mine", "House");
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+        }
+        [HttpPost]
+        public async Task<IActionResult> Edit(string id, HouseFormModel model)
+        {
+            bool houseExists = await this.houseService.ExistByIdAsync(id);
+
+            if (!houseExists)
+            {
+                return RedirectToAction("All", "House");
+            }
+            bool isUserAgent = await this.agentService.AgentExistsByUserId(this.User.GetId());
+
+            if (!isUserAgent)
+            {
+                return RedirectToAction("Become", "Agent");
+            }
+            string agentId = await this.agentService.GetAgentIdByUserIdAsync(this.User.GetId());
+
+            bool isAgentOwner = await this.houseService
+                .isAgentWithIdOwnerOfHouseWithIdAsync(id, agentId);
+
+            if (!isAgentOwner)
+            {
+                return RedirectToAction("Become", "Agent");
+            }
+
+            if (!ModelState.IsValid)
+            {
+                model.Categories = await this.categoryService.GetAll();
+                return this.View(model);
+            }
+            try
+            {
+                await this.houseService.EditHouseByIdAsync( id, model);
+            }
+            catch (Exception)
+            {
+
+                ModelState.AddModelError(string.Empty, "Unexptected Error while trying to edit this house try again later!");
+            }
+            return RedirectToAction("Details", "House",new { id });
+        }
+        
     }
 }
