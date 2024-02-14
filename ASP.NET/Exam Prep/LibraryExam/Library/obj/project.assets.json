@@ -11500,11 +11500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp-SoftUni\\ASP.NET\\Exam Prep\\Library\\Library.csproj",
+      "projectUniqueName": "D:\\Csharp-SoftUni\\ASP.NET\\Exam Prep\\LibraryExam\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "D:\\Csharp-SoftUni\\ASP.NET\\Exam Prep\\Library\\Library.csproj",
+      "projectPath": "D:\\Csharp-SoftUni\\ASP.NET\\Exam Prep\\LibraryExam\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp-SoftUni\\ASP.NET\\Exam Prep\\Library\\obj\\",
+      "outputPath": "D:\\Csharp-SoftUni\\ASP.NET\\Exam Prep\\LibraryExam\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eHaF8S3AJ3UtksdiYHHq1kdYhlZUX5WGnqXExza2punVyWkvZyLfj+uDH8KTHO1ShIm2P9rycFP/ETpY/UjBPQ==",
+  "dgSpecHash": "RABaX0BrmJWnAAXKD7ZOAK7RI8p79r6qDIVJ23HWubv0KSSbP32J57vjqUztXlAqFW5J5ZEvGEZy2X/rKmzvfg==",
   "success": true,
-  "projectFilePath": "D:\\Csharp-SoftUni\\ASP.NET\\Exam Prep\\Library\\Library.csproj",
+  "projectFilePath": "D:\\Csharp-SoftUni\\ASP.NET\\Exam Prep\\LibraryExam\\Library\\Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
