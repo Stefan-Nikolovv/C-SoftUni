@@ -1,4 +1,6 @@
+using Homies.Areas.Contracts;
 using Homies.Data;
+using Homies.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,6 +21,9 @@ builder.Services.Configure<IdentityOptions>(options =>
     options.Password.RequireUppercase = false;
 });
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IEventService, EventService>();
+
+
 
 var app = builder.Build();
 

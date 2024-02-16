@@ -9,11 +9,11 @@ namespace Homies.Data.Models
     {
         [Required]
         [ForeignKey(nameof(Helper))]
-        public string HelperId { get; set; }
+        public string HelperId { get; set; } = null!;
         public IdentityUser Helper { get; set; }
-        [ForeignKey(nameof(Event))]
         [Required]
-        public int EventId { get; set; }    
+        [ForeignKey(nameof(Event))]
+        public int EventId { get; set; } 
         public  Event Event { get; set; }
     }
 }

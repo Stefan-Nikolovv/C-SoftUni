@@ -9,7 +9,7 @@ namespace Homies.Data.Models
     {
         public Event()
         {
-            this.EventsParticipants = new List<EventParticipant>();
+            this.EventsParticipants = new HashSet<EventParticipant>();
         }
         [Key]
         public int Id { get; set; }
@@ -35,7 +35,7 @@ namespace Homies.Data.Models
         public int TypeId { get; set; }
         public Type Type { get; set; }  
       
-        public List<EventParticipant> EventsParticipants  { get; set; }
+        public virtual HashSet<EventParticipant> EventsParticipants  { get; set; }
     }
 }
 
