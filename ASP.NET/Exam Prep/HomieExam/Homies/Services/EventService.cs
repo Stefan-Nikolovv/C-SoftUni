@@ -198,7 +198,7 @@ namespace Homies.Services
             {
                 editPost.Name = model.Name;
                editPost.Description = model.Description;
-               editPost.Start.ToString() = model.Start.ToString();
+               editPost.Start = DateTime.Parse(model.Start);
                 editPost.End = DateTime.Parse(model.End) ;
                  editPost.TypeId = model.TypeId;
             }
