@@ -7,6 +7,7 @@ using HouseRentingSystem.Web.ViewModels.House.Enums;
 using HouseRentingSystems.Services.Data.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using HouseRentingSystem.Web.ViewModels.Agent;
+using HouseRentingSystem.Services.Data.Models.Statistics;
 
 namespace HouseRentingSystems.Services.Data
 {
@@ -266,6 +267,18 @@ namespace HouseRentingSystems.Services.Data
 
             house.isActive = false;
             await this.dbContext.SaveChangesAsync();
+        }
+
+        public async Task<StatisticsServiceModel> GetStatisctisForHouses()
+        {
+            return new StatisticsServiceModel()
+            {
+                TotalHouses = await dbContext.Houses.CountAsync(),
+                TotalRents = await dbContext.Houses.
+                                     Where(h => h.isActive)
+                                     .CountAsync()
+            };
+
         }
     }
 }

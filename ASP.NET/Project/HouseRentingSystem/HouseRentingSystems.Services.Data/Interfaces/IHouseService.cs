@@ -1,4 +1,5 @@
 ﻿using HouseRentingSystem.Services.Data.Models.House;
+using HouseRentingSystem.Services.Data.Models.Statistics;
 using HouseRentingSystem.Web.ViewModels.Home;
 using HouseRentingSystem.Web.ViewModels.House;
 using System;
@@ -26,5 +27,7 @@ namespace HouseRentingSystems.Services.Data.Interfaces
         Task EditHouseByIdAsync(string id, HouseFormModel model);
         Task<HouseDeleteDetailsViewModel> GetHouseToDeleteHouseByIdAsync(string id);
         Task GetHouseByIdAndDelete(string id);
+        Task<StatisticsServiceModel> GetStatisctisForHouses();
+       
     } 
 }

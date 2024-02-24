@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3MM3Orz5Q/6a3AEc7ERdYDQs3MttY8mYMTrKDjVCdX+ATYUCDMzKm4FL57FA9G546nxIRo1tn+f9w4N2YY12yg==",
+  "dgSpecHash": "FXNQdhIOOgT2sUKlV2f5Ky/vgzbLofApEpSpRNQOnwbwFm+GlvyrkbXH5IsWxc+prBMhXY/gTaRCM48nM4Af3w==",
   "success": true,
-  "projectFilePath": "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj",
+  "projectFilePath": "C:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

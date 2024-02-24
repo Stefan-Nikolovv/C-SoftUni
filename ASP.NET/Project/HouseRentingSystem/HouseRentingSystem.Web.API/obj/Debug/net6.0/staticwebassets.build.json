@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mJnaBKpSpmA5kk0PC8yO20v8TJHD7L1wkJrNzcx24k4=",
+  "Source": "HouseRentingSystem.Web.API",
+  "BasePath": "_content/HouseRentingSystem.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

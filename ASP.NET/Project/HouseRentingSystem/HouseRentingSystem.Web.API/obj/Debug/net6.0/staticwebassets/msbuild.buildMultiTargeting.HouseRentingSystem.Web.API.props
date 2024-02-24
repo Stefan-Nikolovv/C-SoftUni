@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HouseRentingSystem.Web.API.props" />
+</Project>

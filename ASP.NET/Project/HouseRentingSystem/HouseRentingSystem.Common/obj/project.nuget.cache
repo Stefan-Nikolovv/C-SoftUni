@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EkSPR6Td1NTE0OTYBMWpPI0UWcsBDHA47MyN4t7K2bsc7lr/Kkjwf3LR0HsJouzMQ0i/X/Crd6CU8mj9I+KmMg==",
+  "dgSpecHash": "cHSfIaC5eOQhIlZCaOifkmTb4+pU+kvpOxMPzXmkJQ6CrZQcQQd2baYTBNPsuB5ZT5OBuS+/KSzrWiO7RbkHEA==",
   "success": true,
-  "projectFilePath": "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
+  "projectFilePath": "C:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
