@@ -9,77 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HouseRentingSystem
 build_property.RootNamespace = HouseRentingSystem
-build_property.ProjectDir = C:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\
+build_property.ProjectDir = D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem
+build_property.MSBuildProjectDirectory = D:\Csharp-SoftUni\ASP.NET\Project\HouseRentingSystem\HouseRentingSystem
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Agent/Become.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Agent/Become.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRcQmVjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Home/All.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Home/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Home/Index.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Add.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/All.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcQWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Delete.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Details.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Edit.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Mine.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/House/Mine.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcTWluZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Shared/_HouseFormPartial.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Shared/_HouseFormPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib3VzZUZvcm1QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Shared/_HousePartial.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Shared/_HousePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib3VzZVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Shared/_LoginPartial.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/_ViewImports.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/_ViewStart.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Shared/_Layout.cshtml]
+[D:/Csharp-SoftUni/ASP.NET/Project/HouseRentingSystem/HouseRentingSystem/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rajcmqn5q3

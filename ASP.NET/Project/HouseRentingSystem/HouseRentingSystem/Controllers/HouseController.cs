@@ -268,6 +268,93 @@ namespace HouseRentingSystem.Controllers
             }
             return RedirectToAction("Details", "House",new { id });
         }
-        
+        [HttpPost]
+        public async Task<IActionResult> Rent(string id)
+        {
+            bool houseExists = await houseService.ExistByIdAsync(id);
+            if (!houseExists)
+            {
+                
+
+                return RedirectToAction("All", "House");
+            }
+
+            bool isHouseRented = await houseService.IsRentedAsync(id);
+            if (isHouseRented)
+            {
+                
+
+                return RedirectToAction("All", "House");
+            }
+
+            bool isUserAgent =
+                await agentService.AgentExistsByUserId(User.GetId()!);
+            if (isUserAgent)
+            {
+              
+
+                return RedirectToAction("Index", "Home");
+            }
+
+            try
+            {
+                await houseService.RentHouseAsync(id, User.GetId()!);
+            }
+            catch (Exception)
+            {
+            
+            }
+
+           
+
+            return RedirectToAction("Mine", "House");
+        }
+
+
+
+
+        [HttpPost]
+        public async Task<IActionResult> Leave(string id)
+        {
+            bool houseExists = await houseService.ExistByIdAsync(id);
+            if (!houseExists)
+            {
+                
+
+                return RedirectToAction("All", "House");
+            }
+
+            bool isHouseRented = await houseService.IsRentedAsync(id);
+            if (!isHouseRented)
+            {
+              
+
+                return RedirectToAction("Mine", "House");
+            }
+
+            bool isCurrentUserRenterOfTheHouse =
+                await houseService.IsRentedByUserWithIdAsync(id, User.GetId()!);
+            if (!isCurrentUserRenterOfTheHouse)
+            {
+                
+
+                return RedirectToAction("Mine", "House");
+            }
+
+            try
+            {
+                await houseService.LeaveHouseAsync(id);
+            }
+            catch (Exception)
+            {
+
+            }
+                
+
+       
+
+            return RedirectToAction("Mine", "House");
+        }
+
     }
 }

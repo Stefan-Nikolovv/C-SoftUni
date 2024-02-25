@@ -12,6 +12,7 @@ namespace HouseRentingSystem.Data.Models
 
         public User() 
         { 
+            this.Id = Guid.NewGuid();
             this.RentedHouses = new HashSet<House>();
         }
         public virtual ICollection<House> RentedHouses { get; set; }

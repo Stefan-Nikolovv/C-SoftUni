@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oseFgy63fl651HdFAEJDqzEUSZs+VYuQptBtMga733et5WvRRrjOt5zktOCRYWRdRwiamJjai/uxQXafylsR+Q==",
+  "dgSpecHash": "M1wovmPksHzrO0MPWhpZP4HRviVjJlSa20P0BEZzf5NhStkXJSjyI9HtyHA2QO7Zi8tZtSiPOgFKzvB4WFYK9Q==",
   "success": true,
-  "projectFilePath": "C:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj",
+  "projectFilePath": "D:\\Csharp-SoftUni\\ASP.NET\\Project\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

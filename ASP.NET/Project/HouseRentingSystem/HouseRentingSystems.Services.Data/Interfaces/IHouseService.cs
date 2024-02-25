@@ -28,6 +28,9 @@ namespace HouseRentingSystems.Services.Data.Interfaces
         Task<HouseDeleteDetailsViewModel> GetHouseToDeleteHouseByIdAsync(string id);
         Task GetHouseByIdAndDelete(string id);
         Task<StatisticsServiceModel> GetStatisctisForHouses();
-       
+        Task<bool> IsRentedAsync(string houseId);
+        Task LeaveHouseAsync(string houseId);
+        Task RentHouseAsync(string houseId, string userId);
+
     } 
 }
