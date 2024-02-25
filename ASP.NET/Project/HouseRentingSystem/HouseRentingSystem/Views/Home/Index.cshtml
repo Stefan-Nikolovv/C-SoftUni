@@ -1,9 +1,12 @@
-﻿@using HouseRentingSystem.Web.ViewModels.Home
+﻿@using HouseRentingSystem.Web.Infrastructure.Extentions;
+@using HouseRentingSystem.Web.ViewModels.Home
+@using HouseRentingSystems.Services.Data.Interfaces;
 @model IEnumerable<HouseIndexViewModel>
-
-@{ 
+@inject IAgentService  AgentService
+@{
     ViewData["Title"] = "Home Page"; 
-    var houses = Model.ToList(); 
+    var houses = Model.ToList();
+    bool isUserAgent = await AgentService.AgentExistsByUserId(this.User.GetId()!);
 } 
  
 @if (!houses.Any()) 
@@ -17,10 +20,14 @@
         <hr class="my-4"> 
         <p class="lead"> 
             @if (User.Identity?.IsAuthenticated ?? false) 
-            { 
-                <a asp-controller="House" asp-action="Add" class="btn btn-primary 
-                    btn-lg" 
-                    role="button">Add House</a> 
+            {
+                @if (isUserAgent)
+                {
+                    <a asp-controller="House" asp-action="Add" class="btn btn-primary
+                    btn-lg"
+                       role="button">Add House</a>
+                }
+            
             } 
         </p> 
     </div> 

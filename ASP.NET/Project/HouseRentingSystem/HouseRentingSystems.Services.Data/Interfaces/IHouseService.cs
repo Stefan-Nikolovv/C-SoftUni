@@ -23,7 +23,7 @@ namespace HouseRentingSystems.Services.Data.Interfaces
         Task<bool> ExistByIdAsync(string houseId);
         Task<HouseFormModel> GetHouseForEditByIdAsync(string houseId);
         Task<bool> isAgentWithIdOwnerOfHouseWithIdAsync(string houseId, string ownerId);
-
+        Task<bool> IsRentedByUserWithIdAsync(string houseId, string userId);
         Task EditHouseByIdAsync(string id, HouseFormModel model);
         Task<HouseDeleteDetailsViewModel> GetHouseToDeleteHouseByIdAsync(string id);
         Task GetHouseByIdAndDelete(string id);

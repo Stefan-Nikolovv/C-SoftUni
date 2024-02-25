@@ -1,5 +1,13 @@
-﻿@model HouseDetailsViewModel 
- 
+﻿@using HouseRentingSystem.Web.Infrastructure.Extentions;
+@using HouseRentingSystems.Services.Data.Interfaces;
+@model HouseDetailsViewModel 
+@inject IAgentService AgentService
+@inject IHouseService HouseService
+@{
+    bool isUserAgent = await this.AgentService.AgentExistsByUserId(this.User.GetId()!);
+    bool isAgentOwnerOfTheHouse = await this.AgentService.HasHouseWithIdAsync(this.User.GetId()!, Model.Id);
+    bool isHouseRentedByUser = await this.HouseService.IsRentedByUserWithIdAsync(Model.Id, this.User.GetId()!);
+}
 @{ 
     ViewBag.Title = "House Details"; 
 } 
@@ -26,27 +34,37 @@
             <div class="form-inline"> 
                 @if (this.User.Identity?.IsAuthenticated ?? false) 
                 {
-                    <a class="btn btn-warning" asp-controller="House" asp-action="Edit"
-                       asp-route-id="@Model.Id">Edit</a>
-                    <a class="ml-2 btn btn-danger" asp-controller="House" asp-action="Delete"
-                       asp-route-id="@Model.Id">Delete</a> 
-                    @if (!Model.IsRenting) 
-                    { 
-                        <form class="ml-2" asp-controller="House"
-                              asp-action="Rent" asp-route-id="@Model.Id" method="post">
+                    @if (isUserAgent && isAgentOwnerOfTheHouse)
+                    {
+                        <a asp-controller="House" asp-action="Edit" asp-route-id="@Model.Id"
+                           class="btn btn-warning">Edit</a>
+                        <a asp-controller="House" asp-action="Delete" asp-route-id="@Model.Id"
+                           class="btn btn-danger">Delete</a>
+                        <p></p>
+                    }
 
-                            <input class="btn btn-primary" type="submit"
-                                   value="Rent" />
-                        </form> 
-                    } 
-                    else 
-                    { 
-                        <form class="ml-2" asp-controller="House" asp-action="Leave" 
-                              asp-route-id="@Model.Id" method="post"> 
-                            <input class="btn btn-primary" type="submit"
-                                   value="Leave" />
-                        </form> 
-                    } 
+                    @if (!Model.IsRenting)
+                    {
+                        if (!isUserAgent)
+                        {
+                            <form class="input-group-sm" asp-controller="House"
+                                  asp-action="Rent" asp-route-id="@Model.Id" method="post">
+                                <input class="btn btn-primary" type="submit" value="Rent" />
+                            </form>
+                        }
+
+                    }
+                    else
+                    {
+                        @if (!isUserAgent && isHouseRentedByUser)
+                        {
+                            <form asp-controller="House" asp-action="Leave"
+                                  asp-route-id="@Model.Id" method="post">
+                                <input class="btn btn-primary" type="submit" value="Leave" />
+                            </form>
+                        }
+
+                    }
                 } 
             </div> 
 <p></p> 
