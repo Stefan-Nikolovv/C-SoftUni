@@ -5,16 +5,18 @@
 @inject SignInManager<User> SignInManager
 @inject UserManager<User> UserManager
 @inject IAgentService AgentService
+@inject IUserService UserService
 @{
 
     bool IsUserAgent = await AgentService.AgentExistsByUserId(this.User.GetId()!);
+    string userFullName = await UserService.GetFullNameByEmailAsync(User.Identity?.Name!);
 }
 
 <ul class="navbar-nav">
 @if (SignInManager.IsSignedIn(User))
 {
         <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
+            <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @userFullName</a>
         </li>
         @if (!IsUserAgent)
         {
@@ -31,12 +33,12 @@
     </li>
 }
 else
-{
-    <li class="nav-item">
-        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Register</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">Login</a>
-    </li>
-}
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Register">Register</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Login">Login</a>
+        </li>
+    }
 </ul>

@@ -32,9 +32,16 @@ namespace HouseRentingSystem
                 options.Password.RequiredLength = 3;
 
             })
+                .AddRoles<IdentityRole<Guid>>()
                 .AddEntityFrameworkStores<HouseRentingDbContext>();
 
             builder.Services.AddApplicationServices(typeof(IHouseService));
+
+            builder.Services.ConfigureApplicationCookie(cfg =>
+            {
+                cfg.LoginPath = "/User/Login";
+              
+            });
 
             builder.Services.AddControllersWithViews()
                 .AddMvcOptions(options =>
@@ -67,10 +74,29 @@ namespace HouseRentingSystem
             app.UseAuthentication();
             app.UseAuthorization();
 
-            app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
-            app.MapRazorPages();
+            app.EnableOnlineUsersCheck();
+           
+            if (app.Environment.IsDevelopment())
+            { //Make a general constants file
+                app.SeedAdministrator("admin@rentingSystem.bg");
+            }
+
+            app.UseEndpoints(config =>
+            {
+                config.MapControllerRoute(
+                    name: "areas",
+                    pattern: "/{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                );
+
+                config.MapControllerRoute(
+                    name: "ProtectingUrlRoute",
+                    pattern: "/{controller}/{action}/{id}/{information}",
+                    defaults: new { Controller = "Category", Action = "Details" });
+
+                config.MapDefaultControllerRoute();
+
+                config.MapRazorPages();
+            });
 
             app.Run();
         }

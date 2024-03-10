@@ -9,6 +9,7 @@ namespace HouseRentingSystem.Web.ViewModels.Agent
 {
     public class AgentInfoForHouse
     {
+        public string FullName { get; set; } 
         public string Email { get; set; }
         [Display(Name = "Phone")]
 

@@ -14,11 +14,13 @@ namespace HouseRentingSystem.Controllers
         private readonly ICategoryService categoryService;
         private readonly IAgentService agentService;
         private readonly IHouseService houseService;
-        public HouseController(ICategoryService categoryService, IAgentService agentService, IHouseService houseService)
+        private readonly IUserService userService;
+        public HouseController(ICategoryService categoryService, IAgentService agentService, IHouseService houseService, IUserService userService)
         {
             this.categoryService = categoryService;
             this.agentService = agentService;
             this.houseService = houseService;
+            this.userService = userService;
 
         }
         [HttpGet]
@@ -93,20 +95,41 @@ namespace HouseRentingSystem.Controllers
         [HttpGet]
         public async Task<IActionResult> Mine()
         {
+            if (this.User.IsInRole("Administrator"))
+            {
+                return this.RedirectToAction("Mine", "House", new { Area = "Admin" });
+            };
+
             List<HouseAllViewModel> myHouses = new List<HouseAllViewModel>();
 
             string userId = this.User.GetId();
             bool isUserIsAgent = await this.agentService.AgentExistsByUserId(userId);
 
-            if (isUserIsAgent)
+            try
             {
-                string agentId = await this.agentService.GetAgentIdByUserIdAsync(userId);
+                if (this.User.IsAdmin())
+                {
+                    string agentId = await this.agentService.GetAgentIdByUserIdAsync(userId);
 
-                myHouses.AddRange(await this.houseService.AllByAgentIdAsync(agentId));
+                    myHouses.AddRange(await this.houseService.AllByAgentIdAsync(agentId));
+                    myHouses.AddRange(await this.houseService.AllByUserIdAsync(userId));
+                    myHouses = myHouses.DistinctBy(h => h.Id).ToList();
+                }
+                else if (isUserIsAgent)
+                {
+                    string agentId = await this.agentService.GetAgentIdByUserIdAsync(userId);
+
+                    myHouses.AddRange(await this.houseService.AllByAgentIdAsync(agentId));
+                }
+                else
+                {
+                    myHouses.AddRange(await this.houseService.AllByUserIdAsync(userId));
+                }
             }
-            else
+            catch (Exception)
             {
-                myHouses.AddRange(await this.houseService.AllByUserIdAsync(userId));
+
+                throw;
             }
             return View(myHouses);
         }
@@ -121,7 +144,8 @@ namespace HouseRentingSystem.Controllers
                 return RedirectToAction("All", "House");
             }
             HouseDetailsViewModel model = await this.houseService.GetHouseDetailsAsync(id);
-            return View(model);
+            model.agentInfoForHouse.FullName = await this.userService.GetFullNameByEmailAsync(this.User.Identity?.Name!);
+                return View(model);
         }
         [HttpGet]
         public async Task<IActionResult> Edit(string id)
@@ -134,7 +158,7 @@ namespace HouseRentingSystem.Controllers
             }
             bool isUserAgent = await this.agentService.AgentExistsByUserId(this.User.GetId());
 
-            if (!isUserAgent)
+            if (!isUserAgent && !this.User.IsAdmin())
             {
                 return RedirectToAction("Become", "Agent");
             }
@@ -143,7 +167,7 @@ namespace HouseRentingSystem.Controllers
             bool isAgentOwner = await this.houseService
                 .isAgentWithIdOwnerOfHouseWithIdAsync(id, agentId);
 
-            if (!isAgentOwner)
+            if (!isAgentOwner && !this.User.IsAdmin())
             {
                 return RedirectToAction("Become", "Agent");
             }
@@ -163,7 +187,7 @@ namespace HouseRentingSystem.Controllers
             }
             bool isUserAgent = await this.agentService.AgentExistsByUserId(this.User.GetId());
 
-            if (!isUserAgent)
+            if (!isUserAgent && !this.User.IsAdmin())
             {
                 return RedirectToAction("Become", "Agent");
             }
@@ -172,7 +196,7 @@ namespace HouseRentingSystem.Controllers
             bool isAgentOwner = await this.houseService
                 .isAgentWithIdOwnerOfHouseWithIdAsync(id, agentId);
 
-            if (!isAgentOwner)
+            if (!isAgentOwner && !this.User.IsAdmin())
             {
                 return RedirectToAction("Become", "Agent");
             }
@@ -201,7 +225,7 @@ namespace HouseRentingSystem.Controllers
             }
             bool isUserAgent = await this.agentService.AgentExistsByUserId(this.User.GetId());
 
-            if (!isUserAgent)
+            if (!isUserAgent && !this.User.IsAdmin())
             {
                 return RedirectToAction("Become", "Agent");
             }
@@ -210,7 +234,7 @@ namespace HouseRentingSystem.Controllers
             bool isAgentOwner = await this.houseService
                 .isAgentWithIdOwnerOfHouseWithIdAsync(id, agentId);
 
-            if (!isAgentOwner)
+            if (!isAgentOwner && !this.User.IsAdmin())
             {
                 return RedirectToAction("Become", "Agent");
             }
@@ -238,7 +262,7 @@ namespace HouseRentingSystem.Controllers
             }
             bool isUserAgent = await this.agentService.AgentExistsByUserId(this.User.GetId());
 
-            if (!isUserAgent)
+            if (!isUserAgent && !this.User.IsAdmin())
             {
                 return RedirectToAction("Become", "Agent");
             }
@@ -247,7 +271,7 @@ namespace HouseRentingSystem.Controllers
             bool isAgentOwner = await this.houseService
                 .isAgentWithIdOwnerOfHouseWithIdAsync(id, agentId);
 
-            if (!isAgentOwner)
+            if (!isAgentOwner && !this.User.IsAdmin())
             {
                 return RedirectToAction("Become", "Agent");
             }
@@ -274,26 +298,20 @@ namespace HouseRentingSystem.Controllers
             bool houseExists = await houseService.ExistByIdAsync(id);
             if (!houseExists)
             {
-                
-
                 return RedirectToAction("All", "House");
             }
 
             bool isHouseRented = await houseService.IsRentedAsync(id);
             if (isHouseRented)
             {
-                
-
                 return RedirectToAction("All", "House");
             }
 
             bool isUserAgent =
                 await agentService.AgentExistsByUserId(User.GetId()!);
-            if (isUserAgent)
+            if (isUserAgent && !this.User.IsAdmin())
             {
-              
-
-                return RedirectToAction("Index", "Home");
+                 return RedirectToAction("Index", "Home");
             }
 
             try
@@ -337,7 +355,6 @@ namespace HouseRentingSystem.Controllers
             if (!isCurrentUserRenterOfTheHouse)
             {
                 
-
                 return RedirectToAction("Mine", "House");
             }
 
@@ -349,10 +366,7 @@ namespace HouseRentingSystem.Controllers
             {
 
             }
-                
-
-       
-
+              
             return RedirectToAction("Mine", "House");
         }
 

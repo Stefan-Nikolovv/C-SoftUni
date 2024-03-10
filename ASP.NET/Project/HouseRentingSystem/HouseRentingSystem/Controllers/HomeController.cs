@@ -18,6 +18,11 @@ namespace HouseRentingSystem.Controllers
 
         public async Task<IActionResult> Index()
         {
+            if (User.IsInRole("Administrator"))
+            {
+              return  this.RedirectToAction("Index", "Home", new { Area = "Admin" });
+            }
+
           IEnumerable<HouseIndexViewModel> houses = 
                 await this.houseService.GetLastThreeHouseAsync();
             return View(houses);

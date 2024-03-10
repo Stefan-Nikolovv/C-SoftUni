@@ -32,5 +32,18 @@ namespace HouseRentingSystem.Common
             public const int AgentPhoneNumberMin = 7;
             public const int AgentPhoneNumberMax = 15;
         }
+
+        public static class User
+        {
+            public const int PasswordMinLength = 6;
+            public const int PasswordMaxLength = 100;
+
+            public const int FirstNameMinLength = 1;
+            public const int FirstNameMaxLength = 15;
+
+            public const int LastNameMinLength = 1;
+            public const int LastNameMaxLength = 15;
+        }
+        
     }
 }

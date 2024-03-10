@@ -138,7 +138,7 @@ namespace HouseRentingSystem.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("e84d500d-8e15-4ba7-bdfd-206ab37df446"),
+                            Id = new Guid("d187c295-7fcc-4b4f-95e1-f1d9c1147290"),
                             Address = "North London, UK (near the border)",
                             AgentId = new Guid("ca1523ec-643e-44fb-ae25-bae604c1bb9e"),
                             CategoryId = 3,
@@ -152,7 +152,7 @@ namespace HouseRentingSystem.Data.Migrations
                         },
                         new
                         {
-                            Id = new Guid("1b25eb58-adf7-4290-89a8-b02951f0b01a"),
+                            Id = new Guid("6308c430-e80c-4adf-add0-e74f8eeb73e3"),
                             Address = "Near the Sea Garden in Burgas, Bulgaria",
                             AgentId = new Guid("ca1523ec-643e-44fb-ae25-bae604c1bb9e"),
                             CategoryId = 2,
@@ -165,7 +165,7 @@ namespace HouseRentingSystem.Data.Migrations
                         },
                         new
                         {
-                            Id = new Guid("750abbc9-f788-4eda-8f60-31a0dbc19a25"),
+                            Id = new Guid("e8973be5-29c5-435a-a8a6-1580a2f759e1"),
                             Address = "Boyana Neighbourhood, Sofia, Bulgaria",
                             AgentId = new Guid("ca1523ec-643e-44fb-ae25-bae604c1bb9e"),
                             CategoryId = 2,
@@ -197,6 +197,20 @@ namespace HouseRentingSystem.Data.Migrations
 
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
+
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .ValueGeneratedOnAdd()
+                        .HasMaxLength(15)
+                        .HasColumnType("nvarchar(15)")
+                        .HasDefaultValue("Gosho");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .ValueGeneratedOnAdd()
+                        .HasMaxLength(15)
+                        .HasColumnType("nvarchar(15)")
+                        .HasDefaultValue("Goshov");
 
                     b.Property<bool>("LockoutEnabled")
                         .HasColumnType("bit");
