@@ -1,0 +1,2125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Stefan\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookLibrary.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\css\\plugins\\feature.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\feature.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\css\\plugins\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\css\\vendor\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\css\\vendor\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\css\\vendor\\odometer.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\odometer.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\css\\vendor\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\css\\vendor\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\slick.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\fonts\\Feather.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Feather.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\fonts\\Feather.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Feather.ttf"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\fonts\\Feather.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Feather.woff"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\activity\\activity-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\activity\\activity-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\activity\\activity-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\activity\\activity-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\activity\\activity-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\activity\\activity-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\activity\\activity-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\activity\\activity-04.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\activity\\activity-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\activity\\activity-05.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\activity\\activity-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\activity\\activity-06.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\badge.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\badge.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-01.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-02.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-03.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-04.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-04.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-05.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-05.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-06.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-07.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-08.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-09.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-10.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-add-lg-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-add-lg-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-slide-lg-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-slide-lg-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-slide-lg-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-slide-lg-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-slide-lg-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-slide-lg-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-sm-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-sm-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-sm-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-sm-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-sm-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-sm-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-sm-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-sm-04.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-sm-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-sm-05.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\banner-sm-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-sm-06.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\h-three-banner-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\h-three-banner-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\h-three-banner-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\h-three-banner-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\h-three-banner-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\h-three-banner-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\items\\item1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\items\\item1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\items\\item2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\items\\item2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\items\\item3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\items\\item3.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\sm-icon\\icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\sm-icon\\icon-1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\sm-icon\\icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\sm-icon\\icon-2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\sm-icon\\icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\sm-icon\\icon-3.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\sm-icon\\icon-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\sm-icon\\icon-4.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\sm-icon\\icon-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\sm-icon\\icon-5.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\banner\\sm-icon\\icon-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\sm-icon\\icon-6.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-1.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-1.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-10.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-13.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-14.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-15.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-16.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-17.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-18.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-19.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-2.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-20.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-21.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-22.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-23.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-24.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-6.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-image-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-9.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\bg-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-shape-1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\bg\\noise.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\noise.gif"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-04.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\blog-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-05.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\blog-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-06.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\blog-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-07.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\blog-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-08.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\blog-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-09.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\comment\\comment-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment\\comment-01.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\community\\community-post-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\community\\community-post-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\community\\community-post-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\community\\community-post-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\blog\\lg\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\lg\\blog-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\brand\\brand-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-01.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\brand\\brand-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-02.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\brand\\brand-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-03.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\brand\\brand-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-04.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\brand\\brand-05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-05.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\brand\\brand-06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-06.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\brand\\brand-07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-07.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\brand\\brand-08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-08.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\brand\\brand-09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-09.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\IMG_7797 copy copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\IMG_7797 copy copy.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-10.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-11.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-12.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-13.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-14.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-15.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-3.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-4.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-5.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-6.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-7.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-8.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\client-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\client-9.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\client\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\card-display-contain.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\card-display-contain.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\card-display-cover.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\card-display-cover.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\card-display-padded.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\card-display-padded.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-lg-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-lg-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-lg-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-lg-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-lg-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-lg-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-lg-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-lg-04.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-lg-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-lg-05.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-04.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-05.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-06.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-07.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-08.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-09.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-10.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-11.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\collection\\collection-sm-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection\\collection-sm-12.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\connect\\connect-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\connect\\connect-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\contact\\contact1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact\\contact1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icones\\shape1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icones\\shape1.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\001-trade.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\001-trade.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\admin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\admin.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\boy-avater.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\boy-avater.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\facebook.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\girl-avater.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\girl-avater.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\google.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\google.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\icons-12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icons-12.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\icons-13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icons-13.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\linkedin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\linkedin.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\meta.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\meta.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\meta.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\meta.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\quote.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\quote.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\quote2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\quote2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\rating-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\rating-2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\rating.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\rating.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\rocket.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\rocket.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-10.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-11.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-13.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-3.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-4.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-5.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-6.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-7.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-8.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\shape-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-9.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\short-arrow-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\short-arrow-left.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\short-arrow-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\short-arrow-right.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\sun-01.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\sun-01.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\trophy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\trophy.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\tweeter.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\tweeter.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\unknown-user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\unknown-user.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\vector.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\vector.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\wallet\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\wallet\\1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\wallet\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\wallet\\2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\wallet\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\wallet\\3.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\wallet\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\wallet\\4.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\wallet\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\wallet\\5.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\wallet\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\wallet\\6.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\wallet\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\wallet\\7.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\icons\\wallet\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\wallet\\8.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\logo\\award-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\award-logo.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\logo\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-white.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\logo\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-white.svg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\newsletter\\newsletter-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\newsletter\\newsletter-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\lg\\portfolio-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\lg\\portfolio-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\lg\\portfolio-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\lg\\portfolio-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\lg\\portfolio-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\lg\\portfolio-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-0+4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-0+4.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-04.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-05.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-06.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-07.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-08.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-09.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-10.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-11.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-12-d.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-12-d.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-12.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-13-d.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-13-d.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-13.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-14.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-15.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\portfolio-big-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-big-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\preview-file.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\preview-file.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\sm\\portfolio-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\sm\\portfolio-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\sm\\portfolio-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\sm\\portfolio-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\portfolio\\sm\\portfolio-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\sm\\portfolio-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\profile\\cover-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\cover-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\profile\\cover-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\cover-02.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\profile\\cover-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\cover-03.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\profile\\cover-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\cover-04.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\profile\\profile-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\profile-01.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\slider\\banner-06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\banner-06.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\slider\\slider-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\upload-variants\\multiple.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\upload-variants\\multiple.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\upload-variants\\single.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\upload-variants\\single.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\images\\vedio\\banner01.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\vedio\\banner01.mp4"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\backtoTop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\backtoTop.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\count-down.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\count-down.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\feather.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\gsap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\gsap.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\imageloaded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\imageloaded.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\input-file.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\input-file.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\isotop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\isotop.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\jquery-appear.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-appear.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\jquery.custom-file-input.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.custom-file-input.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\jquery.style.swicher.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.style.swicher.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\js.cookie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\js.cookie.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\maralis.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\maralis.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\modernizer.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizer.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\nft.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\nft.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\odometer.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\odometer.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\particles.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\particles.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\sal.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\sal.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\savePopup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\savePopup.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\scrolltrigger.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\scrolltrigger.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\splittext.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\splittext.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\vanilla.tilt.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\vanilla.tilt.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\js\\vendor\\web3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\web3.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\blog\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\blog\\_blog-details.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\blog\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\blog\\_blog.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\blog\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\blog\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_animations.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_common.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_sal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_sal.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_shortcode.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_shortcode.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_text-animation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_text-animation.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\default\\nft-landing\\gulpfile.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\nft-landing\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_about.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_activity.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_activity.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_author.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_author.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_backtotop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_backtotop.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_banner.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_banner2.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_banner2.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_blog.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_brand.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_brand.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_button.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_button.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_category.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_category.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_clients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_clients.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_collection.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_collection.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_coming-soon.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_coming-soon.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_contact-form.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_contact-form.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_contact.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_copyright.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_copyright.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_countdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_countdown.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_create-collection.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_create-collection.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_cursor.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_cursor.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_edit-profile.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_edit-profile.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_feature.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_feature.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_forum.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_forum.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_home-chassic.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_home-chassic.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_home-classic.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_home-classic.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_masonryitem.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_masonryitem.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_newsletter.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_notfound.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_notfound.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_portfolio.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_pricing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_pricing.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_privacy.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_privacy.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_product-details.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_product-details.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_progressbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_progressbar.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_ranking.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_ranking.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_savepopup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_savepopup.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_section-title.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_section-title.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_service.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_service.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_skill.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_skill.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_slick.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_slick.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_slickstyle.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_slickstyle.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_social-share.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_social-share.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_subscribe.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_subscribe.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_swicher.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_swicher.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_testimonial.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_upcoming-projects.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_upcoming-projects.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_upload-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_upload-variants.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_uploadmodal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_uploadmodal.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_vedio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_vedio.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_wallet.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_wallet.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\elements\\_white-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_white-version.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\header\\_dropdown-menu.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_dropdown-menu.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\header\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_header.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\header\\_mainheader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_mainheader.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\header\\_mobilemenu.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_mobilemenu.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\header\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\header\\_notification.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_notification.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\header\\_one-page.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_one-page.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\header\\_rightdemo.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_rightdemo.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\css\\_contact.css",
+      "PackagePath": "staticwebassets\\css\\_contact.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\about-image.jpg",
+      "PackagePath": "staticwebassets\\img\\about-image.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\brand-logo.jpg",
+      "PackagePath": "staticwebassets\\img\\brand-logo.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\change-default-color.jpg",
+      "PackagePath": "staticwebassets\\img\\change-default-color.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\change-email-setting.jpg",
+      "PackagePath": "staticwebassets\\img\\change-email-setting.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\css-structure-1.jpg",
+      "PackagePath": "staticwebassets\\img\\css-structure-1.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\css.jpg",
+      "PackagePath": "staticwebassets\\img\\css.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\forum\\logo-favicon.png",
+      "PackagePath": "staticwebassets\\img\\forum\\logo-favicon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\generated-image.gif",
+      "PackagePath": "staticwebassets\\img\\generated-image.gif"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\dark-light-01.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\dark-light-01.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\dark-light-02.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\dark-light-02.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\ftp-1.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\ftp-1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\ftp-2.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\ftp-2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\android.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\android.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\briefcase.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\briefcase.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\coding.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\coding.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\color-palette.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\color-palette.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\envelope.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\envelope.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\feedback.jpg",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\feedback.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\file1.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\file1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\folder.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\folder.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\lock.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\lock.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\management.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\management.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\newspaper.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\newspaper.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\icon\\smartphone.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\icon\\smartphone.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\home_one\\leaf_footter.png",
+      "PackagePath": "staticwebassets\\img\\home_one\\leaf_footter.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\html-structure-1.jpg",
+      "PackagePath": "staticwebassets\\img\\html-structure-1.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\javascript-structure-1.jpg",
+      "PackagePath": "staticwebassets\\img\\javascript-structure-1.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\logo-2x.png",
+      "PackagePath": "staticwebassets\\img\\logo-2x.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\briefcase-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\briefcase-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\coding-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\coding-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\color-palette-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\color-palette-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\document-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\document-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\eraser-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\eraser-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\home-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\home-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\home-icon2.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\home-icon2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\lock-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\lock-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\plug-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\plug-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\smiles-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\smiles-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\thief-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\thief-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\onepage-icon\\writer-icon.png",
+      "PackagePath": "staticwebassets\\img\\onepage-icon\\writer-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\rainbow\\preview.jpg",
+      "PackagePath": "staticwebassets\\img\\rainbow\\preview.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\account.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\account.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\book.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\book.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\briefcase.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\briefcase.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\chat.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\chat.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\chat1.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\chat1.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\coding.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\coding.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\color-palette.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\color-palette.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\content.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\content.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\document.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\document.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\document2.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\document2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\edit.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\edit.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\eraser.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\eraser.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\home-2.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\home-2.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\home.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\home.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\issuin.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\issuin.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\layout.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\layout.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\lock.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\lock.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\plug.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\plug.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\smiles.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\smiles.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\support.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\support.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\terminals.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\terminals.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\united-states.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\united-states.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\users.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\users.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\side-nav\\video-icon.png",
+      "PackagePath": "staticwebassets\\img\\side-nav\\video-icon.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\signup\\gmail.png",
+      "PackagePath": "staticwebassets\\img\\signup\\gmail.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\js\\TweenMax.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\anchor.js",
+      "PackagePath": "staticwebassets\\js\\anchor.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\jquery.parallax-scroll.js",
+      "PackagePath": "staticwebassets\\js\\jquery.parallax-scroll.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\jquery.wavify.js",
+      "PackagePath": "staticwebassets\\js\\jquery.wavify.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\onpage-menu.js",
+      "PackagePath": "staticwebassets\\js\\onpage-menu.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\parallaxie.js",
+      "PackagePath": "staticwebassets\\js\\parallaxie.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\printThis.js",
+      "PackagePath": "staticwebassets\\js\\printThis.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookLibrary.props",
+      "PackagePath": "build\\BookLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookLibrary.props",
+      "PackagePath": "buildMultiTargeting\\BookLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookLibrary.props",
+      "PackagePath": "buildTransitive\\BookLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
