@@ -1,0 +1,5 @@
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.AssemblyInfoInputs.cache
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.AssemblyInfo.cs
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.csproj.CoreCompileInputs.cache
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.sourcelink.json
