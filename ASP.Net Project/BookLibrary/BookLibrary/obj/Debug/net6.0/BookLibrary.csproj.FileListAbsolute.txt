@@ -76,3 +76,5 @@ D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\refin
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.genruntimeconfig.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibratySystesm.Data.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibratySystesm.Data.pdb

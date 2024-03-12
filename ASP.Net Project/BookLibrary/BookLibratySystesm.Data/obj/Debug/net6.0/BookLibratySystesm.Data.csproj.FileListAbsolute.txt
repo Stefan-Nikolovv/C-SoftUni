@@ -3,3 +3,13 @@ D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.AssemblyInfo.cs
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.csproj.CoreCompileInputs.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.sourcelink.json
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\bin\Debug\net6.0\BookLibratySystesm.Data.deps.json
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\bin\Debug\net6.0\BookLibratySystesm.Data.runtimeconfig.json
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\bin\Debug\net6.0\BookLibratySystesm.Data.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\bin\Debug\net6.0\BookLibratySystesm.Data.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.csproj.AssemblyReference.cache
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\refint\BookLibratySystesm.Data.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.genruntimeconfig.cache
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\ref\BookLibratySystesm.Data.dll
