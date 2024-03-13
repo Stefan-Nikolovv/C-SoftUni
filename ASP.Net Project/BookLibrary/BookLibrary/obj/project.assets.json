@@ -1177,10 +1177,34 @@
           }
         }
       },
+      "BookLibrary.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BookLibrary.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookLibrary.Common.dll": {}
+        }
+      },
+      "BookLibrary.Data.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BookLibrary.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookLibrary.Data.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookLibrary.Data.Models.dll": {}
+        }
+      },
       "BookLibratySystesm.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "BookLibrary.Data.Models": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26",
           "Microsoft.EntityFrameworkCore": "6.0.26",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.26"
@@ -2782,6 +2806,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "BookLibrary.Common/1.0.0": {
+      "type": "project",
+      "path": "../BookLibrary.Common/BookLibrary.Common.csproj",
+      "msbuildProject": "../BookLibrary.Common/BookLibrary.Common.csproj"
+    },
+    "BookLibrary.Data.Models/1.0.0": {
+      "type": "project",
+      "path": "../BookLibrary.Data.Models/BookLibrary.Data.Models.csproj",
+      "msbuildProject": "../BookLibrary.Data.Models/BookLibrary.Data.Models.csproj"
     },
     "BookLibratySystesm.Data/1.0.0": {
       "type": "project",

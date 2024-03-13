@@ -55,7 +55,6 @@ D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookL
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
-D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.MvcApplicationPartsAssemblyInfo.cs
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.MvcApplicationPartsAssemblyInfo.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.RazorAssemblyInfo.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.RazorAssemblyInfo.cs
@@ -78,3 +77,7 @@ D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookL
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibratySystesm.Data.dll
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibratySystesm.Data.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.Common.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.Data.Models.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.Common.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.Data.Models.pdb

@@ -852,6 +852,29 @@
             "rid": "win"
           }
         }
+      },
+      "BookLibrary.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BookLibrary.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookLibrary.Common.dll": {}
+        }
+      },
+      "BookLibrary.Data.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BookLibrary.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookLibrary.Data.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookLibrary.Data.Models.dll": {}
+        }
       }
     }
   },
@@ -2139,10 +2162,21 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "BookLibrary.Common/1.0.0": {
+      "type": "project",
+      "path": "../BookLibrary.Common/BookLibrary.Common.csproj",
+      "msbuildProject": "../BookLibrary.Common/BookLibrary.Common.csproj"
+    },
+    "BookLibrary.Data.Models/1.0.0": {
+      "type": "project",
+      "path": "../BookLibrary.Data.Models/BookLibrary.Data.Models.csproj",
+      "msbuildProject": "../BookLibrary.Data.Models/BookLibrary.Data.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BookLibrary.Data.Models >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.26",
       "Microsoft.EntityFrameworkCore >= 6.0.26",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.26",
@@ -2175,7 +2209,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj": {
+              "projectPath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

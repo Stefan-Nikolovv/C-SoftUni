@@ -1,0 +1,16 @@
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\BookLibrary.Data.Models.csproj.AssemblyReference.cache
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\BookLibrary.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\BookLibrary.Data.Models.AssemblyInfoInputs.cache
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\BookLibrary.Data.Models.AssemblyInfo.cs
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\BookLibrary.Data.Models.csproj.CoreCompileInputs.cache
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\BookLibrary.Data.Models.sourcelink.json
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\bin\Debug\net6.0\BookLibrary.Data.Models.deps.json
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\bin\Debug\net6.0\BookLibrary.Data.Models.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\bin\Debug\net6.0\BookLibrary.Data.Models.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\bin\Debug\net6.0\BookLibrary.Common.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\bin\Debug\net6.0\BookLibrary.Common.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\BookLibrary.Data.Models.csproj.CopyComplete
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\BookLibrary.Data.Models.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\refint\BookLibrary.Data.Models.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\BookLibrary.Data.Models.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Data.Models\obj\Debug\net6.0\ref\BookLibrary.Data.Models.dll

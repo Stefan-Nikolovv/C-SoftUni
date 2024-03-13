@@ -13,3 +13,8 @@ D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.pdb
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.genruntimeconfig.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\ref\BookLibratySystesm.Data.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\bin\Debug\net6.0\BookLibrary.Common.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\bin\Debug\net6.0\BookLibrary.Data.Models.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\bin\Debug\net6.0\BookLibrary.Data.Models.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\bin\Debug\net6.0\BookLibrary.Common.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibratySystesm.Data\obj\Debug\net6.0\BookLibratySystesm.Data.csproj.CopyComplete
