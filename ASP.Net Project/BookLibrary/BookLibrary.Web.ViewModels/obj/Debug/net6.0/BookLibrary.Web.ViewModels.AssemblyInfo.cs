@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookLibrary.Web.ViewModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33598873fb6c4af7658eb3381fd3dc359094013e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd4221206ec6c8a64299100d5cbdc9834c5a8e9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookLibrary.Web.ViewModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookLibrary.Web.ViewModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "BookLibrary/1.0.0": {
         "dependencies": {
+          "BookLibrary.Data.Models": "1.0.0",
+          "BookLibrary.Web.ViewModels": "1.0.0",
           "BookLibratySystesm.Data": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.26",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26",
@@ -553,10 +555,16 @@
       },
       "BookLibrary.Data.Models/1.0.0": {
         "dependencies": {
-          "BookLibrary.Common": "1.0.0"
+          "BookLibrary.Common": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26"
         },
         "runtime": {
           "BookLibrary.Data.Models.dll": {}
+        }
+      },
+      "BookLibrary.Web.ViewModels/1.0.0": {
+        "runtime": {
+          "BookLibrary.Web.ViewModels.dll": {}
         }
       },
       "BookLibratySystesm.Data/1.0.0": {
@@ -955,6 +963,11 @@
       "sha512": ""
     },
     "BookLibrary.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibrary.Web.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

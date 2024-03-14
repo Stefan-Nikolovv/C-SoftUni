@@ -17,6 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BookLibrary.Data.Models\BookLibrary.Data.Models.csproj" />
+    <ProjectReference Include="..\BookLibrary.Web.ViewModels\BookLibrary.Web.ViewModels.csproj" />
     <ProjectReference Include="..\BookLibratySystesm.Data\BookLibratySystesm.Data.csproj" />
   </ItemGroup>
 

@@ -1191,13 +1191,24 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "BookLibrary.Common": "1.0.0"
+          "BookLibrary.Common": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26"
         },
         "compile": {
           "bin/placeholder/BookLibrary.Data.Models.dll": {}
         },
         "runtime": {
           "bin/placeholder/BookLibrary.Data.Models.dll": {}
+        }
+      },
+      "BookLibrary.Web.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BookLibrary.Web.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookLibrary.Web.ViewModels.dll": {}
         }
       },
       "BookLibratySystesm.Data/1.0.0": {
@@ -2817,6 +2828,11 @@
       "path": "../BookLibrary.Data.Models/BookLibrary.Data.Models.csproj",
       "msbuildProject": "../BookLibrary.Data.Models/BookLibrary.Data.Models.csproj"
     },
+    "BookLibrary.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../BookLibrary.Web.ViewModels/BookLibrary.Web.ViewModels.csproj",
+      "msbuildProject": "../BookLibrary.Web.ViewModels/BookLibrary.Web.ViewModels.csproj"
+    },
     "BookLibratySystesm.Data/1.0.0": {
       "type": "project",
       "path": "../BookLibratySystesm.Data/BookLibratySystesm.Data.csproj",
@@ -2825,6 +2841,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BookLibrary.Data.Models >= 1.0.0",
+      "BookLibrary.Web.ViewModels >= 1.0.0",
       "BookLibratySystesm.Data >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.26",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.26",
@@ -2861,6 +2879,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj": {
+              "projectPath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj"
+            },
+            "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj": {
+              "projectPath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj"
+            },
             "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibratySystesm.Data\\BookLibratySystesm.Data.csproj": {
               "projectPath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibratySystesm.Data\\BookLibratySystesm.Data.csproj"
             }

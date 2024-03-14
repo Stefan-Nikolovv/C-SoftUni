@@ -6,13 +6,13 @@ namespace BookLibrary.Data.Models
     {
         public Category()
         {
-            //this.Books = new HashSet<Book>();
+            this.Books = new HashSet<Book>();
         }
         [Key]
         public int Id { get; set; }
         [Required]
         [MaxLength(CategoryNameMaxLength)]
         public string Name { get; set; }
-        //public virtual ICollection<Book> Books { get; set; } = null!;
+        public virtual ICollection<Book> Books { get; set; } = null!;
     }
 }

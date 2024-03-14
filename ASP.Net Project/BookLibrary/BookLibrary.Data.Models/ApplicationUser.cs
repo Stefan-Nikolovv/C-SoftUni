@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using Microsoft.AspNetCore.Identity;
 
+using Microsoft.AspNetCore.Identity;
+using static BookLibrary.Common.EntityValidationsConstants.User;
 
 namespace BookLibrary.Data.Models
 {
@@ -13,7 +11,6 @@ namespace BookLibrary.Data.Models
         public ApplicationUser()
         {
             Id = Guid.NewGuid();
-
             LikedBooks = new HashSet<Book>();
         }
 

@@ -1,6 +1,6 @@
 ﻿
 using System.ComponentModel.DataAnnotations;
-using static BookLibrary.Common.EntityValidationsConstants.Book
+using static BookLibrary.Common.EntityValidationsConstants.Book;
 
 namespace BookLibrary.Data.Models
 {
@@ -43,7 +43,7 @@ namespace BookLibrary.Data.Models
         public Guid AuthorId { get; set; }
         public virtual Author Author { get; set; }
         public Guid? LikerId { get; set; }
-        public ApplicationUser? Renter { get; set; }
+        public ApplicationUser? Liker { get; set; }
 
         [Required(ErrorMessage = "AuthorName is required")]
         public string AuthorName { get; set; }

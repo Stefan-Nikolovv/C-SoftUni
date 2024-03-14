@@ -25,7 +25,7 @@ namespace BookLibrary.Data.Models
         [MaxLength(AuthorPhoneNumberMax)]
         public string PhoneNumber { get; set; }
 
-        public Guid ApplicationUserId { get; set; }
+        public Guid UserId { get; set; }
         public virtual ApplicationUser User { get; set; }
         public ICollection<Book> ManagedBooks { get; set; }
     }
