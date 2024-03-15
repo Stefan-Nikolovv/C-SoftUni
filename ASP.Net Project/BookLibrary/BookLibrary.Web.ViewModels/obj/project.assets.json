@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "BookLibrary.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BookLibrary.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookLibrary.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BookLibrary.Common/1.0.0": {
+      "type": "project",
+      "path": "../BookLibrary.Common/BookLibrary.Common.csproj",
+      "msbuildProject": "../BookLibrary.Common/BookLibrary.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "BookLibrary.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Stefan\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Common\\BookLibrary.Common.csproj": {
+              "projectPath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Common\\BookLibrary.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

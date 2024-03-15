@@ -563,6 +563,9 @@
         }
       },
       "BookLibrary.Web.ViewModels/1.0.0": {
+        "dependencies": {
+          "BookLibrary.Common": "1.0.0"
+        },
         "runtime": {
           "BookLibrary.Web.ViewModels.dll": {}
         }

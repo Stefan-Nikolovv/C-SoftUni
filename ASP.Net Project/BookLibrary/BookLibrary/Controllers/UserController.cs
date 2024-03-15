@@ -1,18 +1,104 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BookLibrary.Data.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+
+using BookLibrary.Web.ViewModels.User;
+using static BookLibrary.Web.ViewModels.User.LoginFormModel;
 
 namespace BookLibrary.Controllers
 {
     public class UserController : Controller
     {
+        private readonly SignInManager<ApplicationUser> signInManager;
+        private readonly UserManager<ApplicationUser> userManager;
+  
+
+        public UserController(SignInManager<ApplicationUser> signInManager,
+                              UserManager<ApplicationUser> userManager
+                              )
+        {
+            this.signInManager = signInManager;
+            this.userManager = userManager;
+
+         
+        }
+
         [HttpGet]
-        public async Task<IActionResult> Login()
+        public IActionResult Register()
         {
             return View();
         }
-        [HttpGet]
-        public async Task<IActionResult> Register()
+
+        [HttpPost]
+        public async Task<IActionResult> Register(RegisterFormModel model)
         {
-            return View();
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+
+            ApplicationUser user = new ApplicationUser()
+            {
+                FirstName = model.FirstName,
+                LastName = model.LastName
+            };
+
+            await userManager.SetEmailAsync(user, model.Email);
+            await userManager.SetUserNameAsync(user, model.Email);
+
+            IdentityResult result =
+                await userManager.CreateAsync(user, model.Password);
+
+            if (!result.Succeeded)
+            {
+                foreach (IdentityError error in result.Errors)
+                {
+                    ModelState.AddModelError(string.Empty, error.Description);
+                }
+
+                return View(model);
+            }
+
+            await signInManager.SignInAsync(user, false);
+
+
+            return RedirectToAction("Index", "Home");
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Login(string? returnUrl = null)
+        {
+
+
+            LoginFormModel model = new LoginFormModel()
+            {
+                ReturnUrl = returnUrl
+            };
+
+            return View(model);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginFormModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+
+            var result =
+                await signInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, false);
+
+            if (!result.Succeeded)
+            {
+
+
+                return View(model);
+            }
+
+            return Redirect(model.ReturnUrl ?? "/Home/Index");
         }
     }
 }
+
+

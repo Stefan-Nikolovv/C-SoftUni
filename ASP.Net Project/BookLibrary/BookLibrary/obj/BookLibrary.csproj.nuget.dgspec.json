@@ -147,7 +147,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Common\\BookLibrary.Common.csproj": {
+                "projectPath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Common\\BookLibrary.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

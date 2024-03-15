@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "BookLibrary.Web.ViewModels/1.0.0": {
+        "dependencies": {
+          "BookLibrary.Common": "1.0.0"
+        },
         "runtime": {
           "BookLibrary.Web.ViewModels.dll": {}
+        }
+      },
+      "BookLibrary.Common/1.0.0": {
+        "runtime": {
+          "BookLibrary.Common.dll": {}
         }
       }
     }
   },
   "libraries": {
     "BookLibrary.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibrary.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

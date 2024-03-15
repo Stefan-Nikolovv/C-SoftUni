@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using static BookLibrary.Common.EntityValidationsConstants.User;
 namespace BookLibrary.Web.ViewModels.User
 {
-    public class RegisterViewModel
+    public class RegisterFormModel
     {
         [Required]
         [EmailAddress]

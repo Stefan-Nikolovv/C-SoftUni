@@ -11,7 +11,10 @@
     <Folder Include="Category\" />
     <Folder Include="Book\" />
     <Folder Include="Author\" />
-    <Folder Include="User\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookLibrary.Common\BookLibrary.Common.csproj" />
   </ItemGroup>
 
 </Project>

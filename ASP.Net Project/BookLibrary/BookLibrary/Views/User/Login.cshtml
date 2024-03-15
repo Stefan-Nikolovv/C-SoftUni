@@ -1,4 +1,6 @@
-﻿@* @model LoginFormModel
+﻿@using BookLibrary.Web.ViewModels.User;
+
+@model LoginFormModel
 
 @{
     ViewData["Title"] = "Log in";
@@ -26,19 +28,25 @@
             <div class=" offset-2 col-lg-4 col-md-6 ml_md--0 ml_sm--0 col-sm-12">
                 <div class="form-wrapper-one">
                     <h4>Login</h4>
-                    <form>
+                    <form method="post">
                         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                         <div class="mb-5">
-                            <label asp-for="Email"  class="form-label">Email address</label>
-                            <input asp-for="Email"  type="email" id="exampleInputEmail1">
-                            <span asp-validation-for="Email" class="text-danger"></span>
+                            <label asp-for="Email" class="form-label">Email address</label>
+                            <input asp-for="Email" type="email" id="exampleInputEmail1">
+                            <span asp-validation-for="Email" class="text-danger" ></span>
                         </div>
+                        
                         <div class="mb-5">
-                            <label asp-for="Password" class="form-label">Password</label>
-                            <input asp-for="Password"  type="password" id="exampleInputPassword1">
+                            <input asp-for="Password" class="form-control" autocomplete="current-password" aria-required="true" />
+                            <label asp-for="Password" class="form-label"></label>
                             <span asp-validation-for="Password" class="text-danger"></span>
                         </div>
-                       
+                        <div class="checkbox">
+                            <label asp-for="RememberMe" class="form-label">
+                                <input class="form-check-input" asp-for="RememberMe" />
+                                @Html.DisplayNameFor(m => m.RememberMe)
+                            </label>
+                        </div>
                         <button type="submit" class="btn btn-primary mr--15">Log In</button>
                         <a class="btn btn-primary-alta" asp-controller="User" asp-action="Register">Sign Up</a>
                     </form>
@@ -62,4 +70,4 @@
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
-} *@
+}

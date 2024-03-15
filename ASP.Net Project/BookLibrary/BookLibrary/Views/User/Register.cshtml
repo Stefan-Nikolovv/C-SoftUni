@@ -1,4 +1,5 @@
-﻿@* @model RegisterFormModel
+﻿@using BookLibrary.Web.ViewModels.User;
+@model RegisterFormModel
 @{
     ViewData["Title"] = "Register";
 }
@@ -36,19 +37,19 @@
                         </div>
                         <div class="mb-5">
                             <label asp-for="LastName" class="form-label">Last name</label>
-                            <input asp-for="LastName" type="email" id="sastName">
+                            <input asp-for="LastName" id="LsastName">
                             <span asp-validation-for="LastName" class="text-danger"></span>
                         </div>
                         <div class="mb-5">
                             <label asp-for="Email" class="form-label">Email address</label>
-                            <input asp-for="Email" id="exampleInputEmail1">
+                            <input asp-for="Email" type="email" id="exampleInputEmail1">
                             <span asp-validation-for="Email" class="text-danger"></span>
                         </div>
                         <div class="mb-5">
                             <label asp-for="Password" class="form-label">Create Password</label>
                             <input asp-for="Password" id="newPassword">
                             <span asp-validation-for="Password" class="text-danger"></span>
-                              <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                         </div>
                         <div class="mb-5">
                             <label asp-for="ConfirmPassword" class="form-label">Re Password</label>
@@ -78,4 +79,4 @@
 @section Scripts {
 
     <partial name="_ValidationScriptsPartial" />
-} *@
+}
