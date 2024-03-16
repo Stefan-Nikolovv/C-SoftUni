@@ -18,7 +18,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BookLibrary.Data.Models\BookLibrary.Data.Models.csproj" />
+    <ProjectReference Include="..\BookLibrary.Services.Data.Models\BookLibrary.Services.Data.csproj" />
+    <ProjectReference Include="..\BookLibrary.Web.Infrastructure\BookLibrary.Web.Infrastructure.csproj" />
     <ProjectReference Include="..\BookLibrary.Web.ViewModels\BookLibrary.Web.ViewModels.csproj" />
+    <ProjectReference Include="..\BookLibraty.Services.Data.Models\BookLibraty.Services.Data.Models.csproj" />
     <ProjectReference Include="..\BookLibratySystesm.Data\BookLibratySystesm.Data.csproj" />
   </ItemGroup>
 

@@ -84,3 +84,9 @@ D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookL
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.MvcApplicationPartsAssemblyInfo.cs
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.Web.ViewModels.dll
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.Web.ViewModels.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.Services.Data.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibraty.Services.Data.Models.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.Services.Data.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibraty.Services.Data.Models.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.Web.Infrastructure.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.Web.Infrastructure.pdb

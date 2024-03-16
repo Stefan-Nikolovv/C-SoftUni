@@ -9,7 +9,6 @@
   <ItemGroup>
     <Folder Include="Agent\" />
     <Folder Include="Category\" />
-    <Folder Include="Book\" />
     <Folder Include="Author\" />
   </ItemGroup>
 

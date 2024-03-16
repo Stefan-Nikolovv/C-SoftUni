@@ -200,6 +200,25 @@ namespace BookLibratySystesm.Data.Migrations
                     b.HasIndex("LikerId");
 
                     b.ToTable("Books");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("340eea2c-9dd0-4e97-9ac6-e0925efe0773"),
+                            AuthorId = new Guid("ca1523ec-643e-44fb-ae25-bae604c1bb9e"),
+                            AuthorName = "Test",
+                            CategoryId = 1,
+                            CreatedOn = new DateTime(2024, 3, 16, 8, 5, 39, 388, DateTimeKind.Utc).AddTicks(7444),
+                            Description = "This is a sample description for Book 1.",
+                            Image = new byte[0],
+                            Language = "English",
+                            LikerId = new Guid("15f6ecc5-67f3-4354-b67c-35b9abd8615c"),
+                            Pages = "300",
+                            Price = "19.99",
+                            Publisher = "Sample Publisher 1",
+                            Title = "Sample Book 1",
+                            isActive = false
+                        });
                 });
 
             modelBuilder.Entity("BookLibrary.Data.Models.Category", b =>
@@ -218,6 +237,23 @@ namespace BookLibratySystesm.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Name = "Mystery"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Name = "Horror"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Name = "Fantasy"
+                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole<System.Guid>", b =>

@@ -1,0 +1,13 @@
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\bin\Debug\net6.0\BookLibrary.Web.Infrastructure.deps.json
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\bin\Debug\net6.0\BookLibrary.Web.Infrastructure.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\bin\Debug\net6.0\BookLibrary.Web.Infrastructure.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.csproj.AssemblyReference.cache
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.AssemblyInfo.cs
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.sourcelink.json
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\refint\BookLibrary.Web.Infrastructure.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\ref\BookLibrary.Web.Infrastructure.dll

@@ -1,5 +1,7 @@
 using BookLibrary.Data;
 using BookLibrary.Data.Models;
+using BookLibrary.Services.Data.Interfaces;
+using BookLibrary.Web.Infrastructure.Extentions;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -28,6 +30,7 @@ namespace BookLibrary
             }).AddEntityFrameworkStores<BookDbContext>();
             builder.Services.AddControllersWithViews();
 
+            builder.Services.AddApplicationServices(typeof(IBookService));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
