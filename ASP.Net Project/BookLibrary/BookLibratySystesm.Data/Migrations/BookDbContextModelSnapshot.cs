@@ -138,10 +138,6 @@ namespace BookLibratySystesm.Data.Migrations
                     b.Property<Guid>("AuthorId")
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<string>("AuthorName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<int>("CategoryId")
                         .HasColumnType("int");
 
@@ -154,6 +150,10 @@ namespace BookLibratySystesm.Data.Migrations
                         .IsRequired()
                         .HasMaxLength(150)
                         .HasColumnType("nvarchar(150)");
+
+                    b.Property<string>("FileName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<byte[]>("Image")
                         .IsRequired()
@@ -172,9 +172,8 @@ namespace BookLibratySystesm.Data.Migrations
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
 
-                    b.Property<string>("Price")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("Publisher")
                         .IsRequired()
@@ -204,17 +203,17 @@ namespace BookLibratySystesm.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("340eea2c-9dd0-4e97-9ac6-e0925efe0773"),
+                            Id = new Guid("2fccf1e2-393c-4440-8ad8-3a3923638e01"),
                             AuthorId = new Guid("ca1523ec-643e-44fb-ae25-bae604c1bb9e"),
-                            AuthorName = "Test",
                             CategoryId = 1,
-                            CreatedOn = new DateTime(2024, 3, 16, 8, 5, 39, 388, DateTimeKind.Utc).AddTicks(7444),
+                            CreatedOn = new DateTime(2024, 3, 16, 14, 29, 52, 414, DateTimeKind.Utc).AddTicks(3898),
                             Description = "This is a sample description for Book 1.",
+                            FileName = "Test",
                             Image = new byte[0],
                             Language = "English",
                             LikerId = new Guid("15f6ecc5-67f3-4354-b67c-35b9abd8615c"),
                             Pages = "300",
-                            Price = "19.99",
+                            Price = 2100.00m,
                             Publisher = "Sample Publisher 1",
                             Title = "Sample Book 1",
                             isActive = false

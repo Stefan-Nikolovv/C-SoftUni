@@ -37,15 +37,9 @@
 
         <div class="default-exp-wrapper">
             <div class="inner">
+                
                 <div class="filter-select-option">
-                    <label class="filter-leble">LIKES</label>
-                    <select>
-                        <option data-display="Most liked">Most liked</option>
-                        <option value="1">Least liked</option>
-                    </select>
-                </div>
-                <div class="filter-select-option">
-                    <label class="filter-leble">Category</label>
+                    <label asp-for="Category" class="filter-leble">Category</label>
                     <select asp-for="Category" >
                         <option value="">All</option>
                         @foreach (var category in Model.Categories)
@@ -56,26 +50,26 @@
                 </div>
 
                 <div class="filter-select-option">
-                    <label asp-for="BookPerPage"></label>
+                    <label class="filter-leble" asp-for="BookPerPage"></label>
                     <select asp-for="BookPerPage" class="form-control">
                         <option value="3">3</option>
                         <option value="6">6</option>
                         <option value="9">9</option>
                     </select>
                 </div>
+                <div class="filter-select-option">
+                    <label class="filter-leble" asp-for="BookSorting"></label>
+                    <select asp-for="BookSorting" class="form-control">
+                        <option value="0">Newest</option>
+                        <option value="1">Oldest</option>
+                        <option value="2">Price (Ascending)</option>
+                        <option value="3">Price (Descending)</option>
+                        <option value="4">Not rented first</option>
+                    </select>
+                </div>
                 </div>
 
-                <div class="filter-select-option">
-                    
-                <label asp-for="BookSorting"></label>
-                <select asp-for="BookSorting" class="form-control">
-                    <option value="0">Newest</option>
-                    <option value="1">Oldest</option>
-                    <option value="2">Price (Ascending)</option>
-                    <option value="3">Price (Descending)</option>
-                    <option value="4">Not rented first</option>
-                </select>
-                </div>
+             
         <div class="row g-5">
             <!-- start single collention -->
             @if (!Model.Books.Any())

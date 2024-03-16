@@ -22,9 +22,9 @@ namespace BookLibrary.Data.Models
         public string Description { get; set; }
 
         [Required(ErrorMessage = "Price is required")]
-        public string Price { get; set; }
+        public decimal Price { get; set; }
         [Required(ErrorMessage = "Pages is required")]
-        [MaxLength(BookPagesMax)]
+        
         public string Pages { get; set; }
 
         [Display(Name = "Publisher")]
@@ -45,14 +45,11 @@ namespace BookLibrary.Data.Models
         public Guid? LikerId { get; set; }
         public ApplicationUser? Liker { get; set; }
 
-        [Required(ErrorMessage = "AuthorName is required")]
-        public string AuthorName { get; set; }
-
         [Display(Name = "Created On")]
         [DataType(DataType.Date)]
         public DateTime CreatedOn { get; set; }
+        public string FileName { get; set; } = null!;
 
-        // Assuming you're uploading the image as a byte array
         public byte[] Image { get; set; }
 
         public bool isActive { get; set; }

@@ -744,6 +744,7 @@
       "BookLibrary.Data.Models/1.0.0": {
         "dependencies": {
           "BookLibrary.Common": "1.0.0",
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26"
         },
         "runtime": {
@@ -752,7 +753,8 @@
       },
       "BookLibrary.Web.ViewModels/1.0.0": {
         "dependencies": {
-          "BookLibrary.Common": "1.0.0"
+          "BookLibrary.Common": "1.0.0",
+          "Microsoft.AspNetCore.Http.Features": "2.2.0"
         },
         "runtime": {
           "BookLibrary.Web.ViewModels.dll": {}

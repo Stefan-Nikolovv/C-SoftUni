@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Gbgyv8ESFOSGCkqlVr8PSD2dDOWufg6EbsduPRLxIVMJ6phWzgviGQ6vCUZ3jSBF0esA7VHGDOWL6tZULBAh6Q==",
+  "dgSpecHash": "Ck0MWMAgxeCi2vRMN1+xh/7ghqT6CWH1Oc5PXQ/g2v8Yr3dq+B4I8XSoZP6I17P2Q+knOGZwRSp9GfZ9xotKcQ==",
   "success": true,
   "projectFilePath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Stefan\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Stefan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
   "logs": []
 }

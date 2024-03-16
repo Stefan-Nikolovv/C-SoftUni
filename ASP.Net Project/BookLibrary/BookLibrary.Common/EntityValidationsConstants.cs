@@ -18,7 +18,7 @@
             public const string BookPriceMin = "0";
             public const string BookPriceMax = "2000";
 
-            public const int BookPagesMin = 10;
+            public const string BookPagesMin = "10";
             public const int BookPagesMax = 255;
 
             public const int PublisherMin = 10;

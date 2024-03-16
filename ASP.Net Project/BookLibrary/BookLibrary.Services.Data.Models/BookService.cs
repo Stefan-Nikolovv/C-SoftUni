@@ -17,6 +17,41 @@ namespace BookLibrary.Services.Data
         {
             this.dbContext = dbContext;
         }
+
+        public async Task<string> CreateAndReturnIdAsync(BookFormModel model, string agentId)
+        {
+            Book modelForm = new Book()
+            {
+                Title = model.Title,
+                Publisher = model.Publisher,
+                Price = model.BookPrice,
+                Description = model.Description,
+                FileName = model.Image.FileName,
+                Pages = model.Pages,
+                Language = model.Language,
+                CategoryId = model.CategoryId,
+                AuthorId = Guid.Parse(agentId),
+
+            };
+            using (var memoryStream = new MemoryStream())
+            {
+                await model.Image.CopyToAsync(memoryStream);
+                modelForm.Image = memoryStream.ToArray();
+            }
+         
+        
+            await this.dbContext.Books.AddAsync(modelForm);
+            await dbContext.SaveChangesAsync();
+
+            return modelForm.Id.ToString();
+        }
+
+        public async Task<bool> ExistByIdAsync(string bookId)
+        {
+            bool searchedBook = await this.dbContext.Books.Where(h => h.isActive).AnyAsync(x => x.Id.ToString() == bookId);
+            return searchedBook; throw new NotImplementedException();
+        }
+
         public async Task<AllBooksFilteredAndPagedServiceModel> GetAllBooksFilteredAndPaged(AllBooksQueryModel queryModel)
         {
             IQueryable<Book> booksQuery = dbContext.Books.AsQueryable();
@@ -67,6 +102,11 @@ namespace BookLibrary.Services.Data
                 TotalBooksCount = totalBooks,
                 Books = allBooks
             };
+        }
+
+        public Task<bool> isAuthorWithIdOwnerOfHouseWithIdAsync(string houseId, string ownerId)
+        {
+            throw new NotImplementedException();
         }
     }
 }

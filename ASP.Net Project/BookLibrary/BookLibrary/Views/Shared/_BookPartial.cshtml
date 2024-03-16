@@ -1,5 +1,6 @@
-﻿<div data-sal="slide-up" data-sal-delay="150" data-sal-duration="800" class="col-lg-4 col-xl-3 col-md-6 col-sm-6 col-12">
-    <a href="product-details.html" class="rn-collection-inner-one">
+﻿@model BookAllViewModel
+<div data-sal="slide-up" data-sal-delay="150" data-sal-duration="800" class="col-lg-4 col-xl-3 col-md-6 col-sm-6 col-12">
+    <a asp-controller="House" asp-action="Details" asp-route-id="@Model.Id" class="rn-collection-inner-one">
         <div class="collection-wrapper">
             <div class="collection-big-thumbnail">
                 <img src="~/assets/images/collection/collection-lg-01.jpg" alt="Nft_Profile">
@@ -13,8 +14,8 @@
                 <img src="~/assets/images/client/client-15.png" alt="Nft_Profile">
             </div>
             <div class="collection-deg">
-                <h6 class="title">Cubic Trad</h6>
-                <span class="items">27 Items</span>
+                <h6 class="title">@Model.Title</h6>
+                <span class="items">@Model.Price</span>
             </div>
         </div>
     </a>

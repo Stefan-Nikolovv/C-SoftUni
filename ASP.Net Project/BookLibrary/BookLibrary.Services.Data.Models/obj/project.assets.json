@@ -1166,6 +1166,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "BookLibrary.Common": "1.0.0",
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26"
         },
         "compile": {
@@ -1179,7 +1180,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "BookLibrary.Common": "1.0.0"
+          "BookLibrary.Common": "1.0.0",
+          "Microsoft.AspNetCore.Http.Features": "2.2.0"
         },
         "compile": {
           "bin/placeholder/BookLibrary.Web.ViewModels.dll": {}

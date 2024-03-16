@@ -26,12 +26,12 @@ namespace BookLibratySystesm.Data.Configurations
                  
                 Title = "Sample Book 1",
                 Description = "This is a sample description for Book 1.",
-                Price = "19.99",
-                Pages = "300",
+                Price = 2100.00M,
+                Pages = "100",
                 Publisher = "Sample Publisher 1",
                 Language = "English",
                 CategoryId = 1,
-                AuthorName = "Test",
+                FileName = "Test",
                 AuthorId = Guid.Parse("ca1523ec-643e-44fb-ae25-bae604c1bb9e"), //AgentId,
                 LikerId = Guid.Parse("15F6ECC5-67F3-4354-B67C-35B9ABD8615C"), //AgentId
                 CreatedOn = DateTime.UtcNow,
