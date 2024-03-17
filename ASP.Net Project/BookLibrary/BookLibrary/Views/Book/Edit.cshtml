@@ -36,7 +36,7 @@
                         <div class="brows-file-wrapper">
                             <!-- actual upload which is hidden -->
                             <input asp-for="Image" name="Image" id="createinputfile" type="file" class="inputfile" />
-                            <img asp-for="Image" id="createfileImage" src="~/assets/images/portfolio/portfolio-05.jpg" alt="" data-black-overlay="6">
+                            <img asp-for="Image" id="createfileImage" src="~/Uploads/@Model.ExistingImage" alt="" data-black-overlay="6">
                             <!-- our custom upload button -->
                             <label for="createinputfile" title="No File Choosen">
                                 <i class="feather-upload"></i>

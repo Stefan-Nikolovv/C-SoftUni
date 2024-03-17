@@ -151,13 +151,9 @@ namespace BookLibratySystesm.Data.Migrations
                         .HasMaxLength(150)
                         .HasColumnType("nvarchar(150)");
 
-                    b.Property<string>("FileName")
+                    b.Property<string>("Image")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<byte[]>("Image")
-                        .IsRequired()
-                        .HasColumnType("varbinary(max)");
 
                     b.Property<string>("Language")
                         .IsRequired()
@@ -169,8 +165,7 @@ namespace BookLibratySystesm.Data.Migrations
 
                     b.Property<string>("Pages")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
@@ -199,25 +194,6 @@ namespace BookLibratySystesm.Data.Migrations
                     b.HasIndex("LikerId");
 
                     b.ToTable("Books");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("2fccf1e2-393c-4440-8ad8-3a3923638e01"),
-                            AuthorId = new Guid("ca1523ec-643e-44fb-ae25-bae604c1bb9e"),
-                            CategoryId = 1,
-                            CreatedOn = new DateTime(2024, 3, 16, 14, 29, 52, 414, DateTimeKind.Utc).AddTicks(3898),
-                            Description = "This is a sample description for Book 1.",
-                            FileName = "Test",
-                            Image = new byte[0],
-                            Language = "English",
-                            LikerId = new Guid("15f6ecc5-67f3-4354-b67c-35b9abd8615c"),
-                            Pages = "300",
-                            Price = 2100.00m,
-                            Publisher = "Sample Publisher 1",
-                            Title = "Sample Book 1",
-                            isActive = false
-                        });
                 });
 
             modelBuilder.Entity("BookLibrary.Data.Models.Category", b =>

@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\BookLibrary.Data.Models\BookLibrary.Data.Models.csproj" />
     <ProjectReference Include="..\BookLibrary.Web.ViewModels\BookLibrary.Web.ViewModels.csproj" />
     <ProjectReference Include="..\BookLibraty.Services.Data.Models\BookLibraty.Services.Data.Models.csproj" />

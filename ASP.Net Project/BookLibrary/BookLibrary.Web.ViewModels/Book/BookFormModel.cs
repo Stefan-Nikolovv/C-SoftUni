@@ -7,7 +7,7 @@ using static BookLibrary.Common.EntityValidationsConstants.Book;
 
 namespace BookLibrary.Web.ViewModels.Book
 {
-    public class BookFormModel
+    public class BookFormModel : BookEditFormModel
     {
         public BookFormModel()
         {
@@ -30,8 +30,7 @@ namespace BookLibrary.Web.ViewModels.Book
 
         [Required]
        
-        [Display(Name = "Image Link")]
-        public IFormFile Image { get; set; } = null!;
+       
 
         [Range(typeof(decimal), BookPriceMin, BookPriceMax)]
         [Display(Name = "Book Price")]

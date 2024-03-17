@@ -7,8 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Agent\" />
-    <Folder Include="Author\" />
+    <Compile Remove="Agent\**" />
+    <EmbeddedResource Remove="Agent\**" />
+    <None Remove="Agent\**" />
   </ItemGroup>
 
   <ItemGroup>

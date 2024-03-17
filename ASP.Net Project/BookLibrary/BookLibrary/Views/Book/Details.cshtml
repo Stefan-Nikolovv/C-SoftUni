@@ -1,0 +1,437 @@
+﻿@model BookDetailsViewModel
+
+<div class="rn-breadcrumb-inner ptb--30">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-6 col-12">
+                <h5 class="title text-center text-md-start">Product Details</h5>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <ul class="breadcrumb-list">
+                    <li class="item"><a href="index.html">Home</a></li>
+                    <li class="separator"><i class="feather-chevron-right"></i></li>
+                    <li class="item current">Product Details</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="product-details-area rn-section-gapTop">
+    <div class="container">
+        <div class="row g-5">
+            <!-- product image area -->
+
+            <div class="col-lg-7 col-md-12 col-sm-12">
+                <div class="product-tab-wrapper rbt-sticky-top-adjust">
+                    <div class="pd-tab-inner">
+                        <div class="nav rn-pd-nav rn-pd-rt-content nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                            
+                        </div>
+
+                        <div class="tab-content rn-pd-content" id="v-pills-tabContent">
+                            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                                <div class="rn-pd-thumbnail">
+                                    <img src="~/Uploads/@Model.Image" alt="Nft_Profile">
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                                <div class="rn-pd-thumbnail">
+                                    <img src="assets/images/portfolio/lg/portfolio-02.jpg" alt="Nft_Profile">
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                                <div class="rn-pd-thumbnail">
+                                    <img src="assets/images/portfolio/lg/portfolio-03.jpg" alt="Nft_Profile">
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- product image area end -->
+
+            <div class="col-lg-5 col-md-12 col-sm-12 mt_md--50 mt_sm--60">
+                <div class="rn-pd-content-area">
+                    <div class="pd-title-area">
+                        <h4 class="title">@Model.Title</h4>
+                        <div class="pd-react-area">
+                            
+                            
+                        </div>
+                    </div>
+                    <span class="bid"></span></span>
+                    <h6 class="title-name">
+                       
+                    </h6>
+                    <div class="catagory-collection">
+                        <div class="catagory">
+                            <span>
+                                
+                                </span>
+                            </span>
+                            <div class="top-seller-inner-one">
+                                <div class="top-seller-wrapper">
+                                    <div class="thumbnail">
+                                        
+                                    </div>
+                                    <div class="top-seller-content">
+                                       
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="collection">
+                            <span></span>
+                            <div class="top-seller-inner-one">
+                                <div class="top-seller-wrapper">
+                                    <div class="thumbnail">
+                                      
+                                    </div>
+                                    <div class="top-seller-content">
+                                      
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="rn-bid-details">
+                        <div class="tab-wrapper-one">
+                            <nav class="tab-button-one">
+                                <div class="nav nav-tabs" id="nav-tab">
+                                    <form asp-controller="Book" asp-action="Like"
+                                          asp-route-id="@Model.Id" method="post">
+                                        <input class="nav-link" type="submit" value="Like" />
+                                    </form>
+                               
+                                   <form asp-controller="Book" asp-action="Unlike"
+                                          asp-route-id="@Model.Id" method="post">
+                                        <input class="nav-link" type="submit" value="Unlike" />
+                                    </form>
+                                    
+                                </div>
+                            </nav>
+                            <div class="tab-content rn-bid-content" id="nav-tabContent">
+                                <div class="tab-pane fade" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                               @*  <a href="#"><img src="assets/images/client/client-3.png" alt="Nft_Profile"></a> *@
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.11wETH by <a href="#">Allen Waltker</a></span>
+                                                <span class="count-number">
+                                                    1 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="assets/images/client/client-4.png" alt="Nft_Profile"></a>
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.09wETH by <a href="#">Joe Biden</a></span>
+                                                <span class="count-number">
+                                                    1.30 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="assets/images/client/client-5.png" alt="Nft_Profile"></a>
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.07wETH by <a href="#">Sonial mridha</a></span>
+                                                <span class="count-number">
+                                                    1.35 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="assets/images/client/client-6.png" alt="Nft_Profile"></a>
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.07wETH by <a href="#">Tribute Dhusra</a></span>
+                                                <span class="count-number">
+                                                    1.55 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="assets/images/client/client-7.png" alt="Nft_Profile"></a>
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.07wETH by <a href="#">Sonia Sobnom</a></span>
+                                                <span class="count-number">
+                                                    2 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="assets/images/client/client-8.png" alt="Nft_Profile"></a>
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.02wETH by <a href="#">Sadia Rummon</a></span>
+                                                <span class="count-number">
+                                                    2.5 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                </div>
+                                <div class="tab-pane fade show active" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                                    <!-- single -->
+                                    <div class="rn-pd-bd-wrapper">
+                                        <div class="top-seller-inner-one">
+                                            <!-- <p class="disc">Lorem ipsum dolor, sit amet consectetur adipisicing
+                                                elit. Doloribus debitis nemo deserunt.</p> -->
+                                            <h6 class="name-title">
+                                                Owner
+                                            </h6>
+                                            <div class="top-seller-wrapper">
+                                                <div class="thumbnail">
+                                                   @*  <a href="#"><img src="assets/images/client/client-1.png" alt="Nft_Profile"></a> *@
+                                                </div>
+                                                <div class="top-seller-content">
+                                                    <a href="#">
+                                                        <h6 class="name">@Model.authorInfoForBook.FirstName @Model.authorInfoForBook.LastName</h6>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- single -->
+                                        <div class="rn-pd-sm-property-wrapper">
+                                            <h6 class="pd-property-title">
+                                                Property
+                                            </h6>
+                                            <div class="property-wrapper">
+                                                <!-- single property -->
+                                                <div class="pd-property-inner">
+                                                    <span class="color-body type">Category</span>
+                                                    <span class="color-white value">@Model.Category</span>
+                                                </div>
+                                                <!-- single property End -->
+                                                <!-- single property -->
+                                                <div class="pd-property-inner">
+                                                    <span class="color-body type">Language</span>
+                                                    <span class="color-white value">@Model.Language</span>
+                                                </div>
+                                                <!-- single property End -->
+                                                <!-- single property -->
+                                                <div class="pd-property-inner">
+                                                    <span class="color-body type">Pages</span>
+                                                    <span class="color-white value">@Model.Pages</span>
+                                                </div>
+                                                <!-- single property End -->
+                                                <!-- single property -->
+                                                <div class="pd-property-inner">
+                                                    <span class="color-body type">Price</span>
+                                                    <span class="color-white value">@Model.Price</span>
+                                                </div>
+                                           
+                                             
+                                            </div>
+                                        </div>
+                                        <!-- single -->
+                                        <!-- single -->
+                                        <div class="rn-pd-sm-property-wrapper">
+                                           @*  <h6 class="pd-property-title">
+                                                Catagory
+                                            </h6>
+                                            <div class="catagory-wrapper">
+                                                <!-- single property -->
+                                                <div class="pd-property-inner">
+                                                    <span class="color-body type">ZARY</span>
+                                                    <span class="color-white value">APP</span>
+                                                </div>
+                                                <!-- single property End -->
+                                                <!-- single property -->
+                                                <div class="pd-property-inner">
+                                                    <span class="color-body type">SOMALIAN</span>
+                                                    <span class="color-white value">TRIBUTE</span>
+                                                </div>
+                                                <!-- single property End -->
+                                                <!-- single property -->
+                                                <div class="pd-property-inner">
+                                                    <span class="color-body type">TUNA</span>
+                                                    <span class="color-white value">PIPE</span>
+                                                </div>
+                                                <!-- single property End -->
+                                                <!-- single property -->
+                                                <div class="pd-property-inner">
+                                                    <span class="color-body type">BID</span>
+                                                    <span class="color-white value">BPEYti</span>
+                                                </div>
+                                                <!-- single property End -->
+                                                <!-- single property -->
+                                                <div class="pd-property-inner">
+                                                    <span class="color-body type">ASTRAGENAKAR</span>
+                                                    <span class="color-white value">BASTARD</span>
+                                                </div>
+                                                <!-- single property End -->
+                                                <!-- single property -->
+                                                <div class="pd-property-inner">
+                                                    <span class="color-body type">CITY</span>
+                                                    <span class="color-white value">TOKYO</span>
+                                                </div>
+                                                <!-- single property End -->
+                                            </div> *@
+                                        </div>
+                                        <!-- single -->
+                                    </div>
+                                    <!-- single -->
+                                </div>
+                                <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="assets/images/client/client-3.png" alt="Nft_Profile"></a>
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.11wETH by<a href="#">Allen Waltker</a></span>
+                                                <span class="count-number">
+                                                    1 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one mt--20">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="assets/images/client/client-2.png" alt="Nft_Profile"></a>
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.11wETH by<a href="#">Allen Waltker</a></span>
+                                                <span class="count-number">
+                                                    1 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one mt--20">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="assets/images/client/client-4.png" alt="Nft_Profile"></a>
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.11wETH by<a href="#">Allen Waltker</a></span>
+                                                <span class="count-number">
+                                                    1 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one mt--20">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="assets/images/client/client-5.png" alt="Nft_Profile"></a>
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.11wETH by<a href="#">Allen Waltker</a></span>
+                                                <span class="count-number">
+                                                    1 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                    <!-- single creator -->
+                                    <div class="top-seller-inner-one mt--20">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="assets/images/client/client-8.png" alt="Nft_Profile"></a>
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span>0.11wETH by<a href="#">Allen Waltker</a></span>
+                                                <span class="count-number">
+                                                    1 hours ago
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single creator -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="place-bet-area">
+                            <div class="rn-bet-create">
+                                <div class="bid-list winning-bid">
+                                    <h6 class="title">Published By</h6>
+                                    <div class="top-seller-inner-one">
+                                        <div class="top-seller-wrapper">
+                                            <div class="thumbnail">
+                                               @*  <a href="#"><img src="assets/images/client/client-7.png" alt="Nft_Profile"></a> *@
+                                            </div>
+                                            <div class="top-seller-content">
+                                                <span class="heighest-bid">
+                                                    Comapany <a >
+                                                        @Model.Publisher
+                                                    </a>
+                                                </span>
+                                                <span class="count-number">
+                                                   
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="bid-list left-bid">
+                                    <h6 class="title">Created At</h6>
+                                    <div class="countdown mt--15" data-date="2025-12-09">
+                                        <div class="countdown-container days">
+                                            <span class="countdown-value">@Model.CreatedOn</span>
+                                           
+                                        </div>
+                                      
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <a class="btn btn-primary-alta mt--30" href="#">Place a Bid</a> -->
+                            
+                            <a asp-controller= "Book" asp-action="Edit" asp-route-id="@Model.Id"  class="btn btn-primary-alta mt--30"  >Edit</a>
+                            <a asp-controller= "Book" asp-action="Delete" asp-route-id="@Model.Id"  class="btn btn-primary-alta mt--30">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>

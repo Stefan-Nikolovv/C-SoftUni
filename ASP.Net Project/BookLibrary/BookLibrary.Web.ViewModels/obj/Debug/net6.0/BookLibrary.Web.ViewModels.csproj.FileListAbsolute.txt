@@ -1,6 +1,9 @@
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\bin\Debug\net6.0\BookLibrary.Web.ViewModels.deps.json
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\bin\Debug\net6.0\BookLibrary.Web.ViewModels.dll
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\bin\Debug\net6.0\BookLibrary.Web.ViewModels.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\bin\Debug\net6.0\BookLibrary.Common.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\bin\Debug\net6.0\BookLibrary.Common.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Debug\net6.0\BookLibrary.Web.ViewModels.csproj.AssemblyReference.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Debug\net6.0\BookLibrary.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Debug\net6.0\BookLibrary.Web.ViewModels.AssemblyInfoInputs.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Debug\net6.0\BookLibrary.Web.ViewModels.AssemblyInfo.cs
@@ -10,7 +13,4 @@ D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Deb
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Debug\net6.0\refint\BookLibrary.Web.ViewModels.dll
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Debug\net6.0\BookLibrary.Web.ViewModels.pdb
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Debug\net6.0\ref\BookLibrary.Web.ViewModels.dll
-D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\bin\Debug\net6.0\BookLibrary.Common.dll
-D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\bin\Debug\net6.0\BookLibrary.Common.pdb
-D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Debug\net6.0\BookLibrary.Web.ViewModels.csproj.AssemblyReference.cache
-D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Debug\net6.0\BookLibrary.Web.ViewModels.csproj.CopyComplete
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.ViewModels\obj\Debug\net6.0\BookLibr.8A80F709.Up2Date

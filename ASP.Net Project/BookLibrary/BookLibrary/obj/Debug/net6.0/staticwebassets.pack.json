@@ -181,6 +181,30 @@
       "PackagePath": "staticwebassets\\BookLibrary.bundle.scp.css"
     },
     {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\2bbef265-abaf-4975-b90f-6b75ccb60a97_1706545672197.JPEG",
+      "PackagePath": "staticwebassets\\Uploads\\2bbef265-abaf-4975-b90f-6b75ccb60a97_1706545672197.JPEG"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\69da61a2-5e89-4ea3-b68b-f9b8628abb8a_1706545672197.JPEG",
+      "PackagePath": "staticwebassets\\Uploads\\69da61a2-5e89-4ea3-b68b-f9b8628abb8a_1706545672197.JPEG"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\9f4f1bad-c113-4706-b826-b7534a3de9db_1706545672197.JPEG",
+      "PackagePath": "staticwebassets\\Uploads\\9f4f1bad-c113-4706-b826-b7534a3de9db_1706545672197.JPEG"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\b5e6ed8e-cd36-4f17-b2c6-83e2070d98fc_1706545672197 (1).JPEG",
+      "PackagePath": "staticwebassets\\Uploads\\b5e6ed8e-cd36-4f17-b2c6-83e2070d98fc_1706545672197 (1).JPEG"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\cb1b7ae0-87dc-419c-90a1-d40d228fb940_1706545672197.JPEG",
+      "PackagePath": "staticwebassets\\Uploads\\cb1b7ae0-87dc-419c-90a1-d40d228fb940_1706545672197.JPEG"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\f4ac9d12-baaf-4c6e-a937-8e99ef2ba09a_1685468125103.JPEG",
+      "PackagePath": "staticwebassets\\Uploads\\f4ac9d12-baaf-4c6e-a937-8e99ef2ba09a_1685468125103.JPEG"
+    },
+    {
       "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\assets\\css\\plugins\\feature.css",
       "PackagePath": "staticwebassets\\assets\\css\\plugins\\feature.css"
     },

@@ -11,8 +11,8 @@ D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibraty.Services.Data.Models\o
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibraty.Services.Data.Models\obj\Debug\net6.0\BookLibraty.Services.Data.Models.AssemblyInfo.cs
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibraty.Services.Data.Models\obj\Debug\net6.0\BookLibraty.Services.Data.Models.csproj.CoreCompileInputs.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibraty.Services.Data.Models\obj\Debug\net6.0\BookLibraty.Services.Data.Models.sourcelink.json
-D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibraty.Services.Data.Models\obj\Debug\net6.0\BookLibraty.Services.Data.Models.csproj.CopyComplete
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibraty.Services.Data.Models\obj\Debug\net6.0\BookLibraty.Services.Data.Models.dll
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibraty.Services.Data.Models\obj\Debug\net6.0\refint\BookLibraty.Services.Data.Models.dll
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibraty.Services.Data.Models\obj\Debug\net6.0\BookLibraty.Services.Data.Models.pdb
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibraty.Services.Data.Models\obj\Debug\net6.0\ref\BookLibraty.Services.Data.Models.dll
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibraty.Services.Data.Models\obj\Debug\net6.0\BookLibr.8AF945DB.Up2Date

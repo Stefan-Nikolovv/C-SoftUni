@@ -25,4 +25,8 @@
     <ProjectReference Include="..\BookLibratySystesm.Data\BookLibratySystesm.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Uploads\" />
+  </ItemGroup>
+
 </Project>

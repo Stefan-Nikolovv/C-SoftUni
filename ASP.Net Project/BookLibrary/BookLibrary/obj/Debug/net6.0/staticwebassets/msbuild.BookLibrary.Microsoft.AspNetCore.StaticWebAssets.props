@@ -8416,5 +8416,101 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\2bbef265-abaf-4975-b90f-6b75ccb60a97_1706545672197.JPEG))">
+      <SourceType>Package</SourceType>
+      <SourceId>BookLibrary</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BookLibrary</BasePath>
+      <RelativePath>Uploads/2bbef265-abaf-4975-b90f-6b75ccb60a97_1706545672197.JPEG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\2bbef265-abaf-4975-b90f-6b75ccb60a97_1706545672197.JPEG))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\69da61a2-5e89-4ea3-b68b-f9b8628abb8a_1706545672197.JPEG))">
+      <SourceType>Package</SourceType>
+      <SourceId>BookLibrary</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BookLibrary</BasePath>
+      <RelativePath>Uploads/69da61a2-5e89-4ea3-b68b-f9b8628abb8a_1706545672197.JPEG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\69da61a2-5e89-4ea3-b68b-f9b8628abb8a_1706545672197.JPEG))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\9f4f1bad-c113-4706-b826-b7534a3de9db_1706545672197.JPEG))">
+      <SourceType>Package</SourceType>
+      <SourceId>BookLibrary</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BookLibrary</BasePath>
+      <RelativePath>Uploads/9f4f1bad-c113-4706-b826-b7534a3de9db_1706545672197.JPEG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\9f4f1bad-c113-4706-b826-b7534a3de9db_1706545672197.JPEG))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\b5e6ed8e-cd36-4f17-b2c6-83e2070d98fc_1706545672197 (1).JPEG))">
+      <SourceType>Package</SourceType>
+      <SourceId>BookLibrary</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BookLibrary</BasePath>
+      <RelativePath>Uploads/b5e6ed8e-cd36-4f17-b2c6-83e2070d98fc_1706545672197 (1).JPEG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\b5e6ed8e-cd36-4f17-b2c6-83e2070d98fc_1706545672197 (1).JPEG))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\cb1b7ae0-87dc-419c-90a1-d40d228fb940_1706545672197.JPEG))">
+      <SourceType>Package</SourceType>
+      <SourceId>BookLibrary</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BookLibrary</BasePath>
+      <RelativePath>Uploads/cb1b7ae0-87dc-419c-90a1-d40d228fb940_1706545672197.JPEG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\cb1b7ae0-87dc-419c-90a1-d40d228fb940_1706545672197.JPEG))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\f4ac9d12-baaf-4c6e-a937-8e99ef2ba09a_1685468125103.JPEG))">
+      <SourceType>Package</SourceType>
+      <SourceId>BookLibrary</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BookLibrary</BasePath>
+      <RelativePath>Uploads/f4ac9d12-baaf-4c6e-a937-8e99ef2ba09a_1685468125103.JPEG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\f4ac9d12-baaf-4c6e-a937-8e99ef2ba09a_1685468125103.JPEG))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>

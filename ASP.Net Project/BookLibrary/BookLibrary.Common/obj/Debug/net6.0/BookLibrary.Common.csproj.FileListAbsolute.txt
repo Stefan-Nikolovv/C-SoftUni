@@ -1,6 +1,7 @@
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Common\bin\Debug\net6.0\BookLibrary.Common.deps.json
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Common\bin\Debug\net6.0\BookLibrary.Common.dll
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Common\bin\Debug\net6.0\BookLibrary.Common.pdb
+D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Common\obj\Debug\net6.0\BookLibrary.Common.csproj.AssemblyReference.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Common\obj\Debug\net6.0\BookLibrary.Common.GeneratedMSBuildEditorConfig.editorconfig
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Common\obj\Debug\net6.0\BookLibrary.Common.AssemblyInfoInputs.cache
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Common\obj\Debug\net6.0\BookLibrary.Common.AssemblyInfo.cs

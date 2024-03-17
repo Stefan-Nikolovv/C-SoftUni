@@ -1,5 +1,7 @@
 ﻿
+using Microsoft.AspNetCore.Http;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using static BookLibrary.Common.EntityValidationsConstants.Book;
 
 namespace BookLibrary.Data.Models
@@ -48,9 +50,10 @@ namespace BookLibrary.Data.Models
         [Display(Name = "Created On")]
         [DataType(DataType.Date)]
         public DateTime CreatedOn { get; set; }
-        public string FileName { get; set; } = null!;
 
-        public byte[] Image { get; set; }
+
+        [Required(ErrorMessage = "Please choose book image")]
+        public string Image { get; set; }
 
         public bool isActive { get; set; }
     }
