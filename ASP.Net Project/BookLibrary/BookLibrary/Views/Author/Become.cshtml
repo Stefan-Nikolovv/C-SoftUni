@@ -1,4 +1,7 @@
-﻿<div class="rn-breadcrumb-inner ptb--30">
+﻿@using BookLibrary.Web.ViewModels.Author
+@model BecomeAuthorFormModel
+
+<div class="rn-breadcrumb-inner ptb--30">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-6 col-12">
@@ -8,7 +11,7 @@
                 <ul class="breadcrumb-list">
                     <li class="item"><a href="index.html">Home</a></li>
                     <li class="separator"><i class="feather-chevron-right"></i></li>
-                    <li class="item current">Sign Up</li>
+                    <li class="item current">Become</li>
                 </ul>
             </div>
         </div>
@@ -22,20 +25,28 @@
             <div class="offset-2 col-lg-4 col-md-6 ml_md--0 ml_sm--0 col-sm-12">
                 <div class="form-wrapper-one registration-area">
                     <h4>Become</h4>
-                    <form>
+                    <form method="post">
                         <div class="mb-5">
-                            <label for="firstName" class="form-label">First name</label>
-                            <input type="text" id="firstName">
+                            <label asp-for="FirstName" class="form-label">First name</label>
+                            <input asp-for="FirstName" type="text" id="firstName">
+                            <span asp-validation-for="FirstName" class="small text-danger"></span>
                         </div>
                         <div class="mb-5">
-                            <label for="sastName" class="form-label">Last name</label>
-                            <input type="email" id="sastName">
+                            <label asp-for ="LastName" class="form-label">
+                                Last name</label>
+                            <input asp-for="LastName" type="text" id="sastName">
+                            <span asp-validation-for="LastName" class="small text-danger"></span>
+                        </div>
+                        <div class="mb-5">
+                            <label asp-for="PhoneNumber"></label>
+                            <input asp-for="PhoneNumber" class="form-label" placeholder="+359888888888">
+                            <span asp-validation-for="PhoneNumber" class="small text-danger"></span>
                         </div>
                      
                         
                     
-                        <button type="submit" class="btn btn-primary mr--15">Sign Up</button>
-                        <a class="btn btn-primary-alta" asp-controller="Author" asp-action="Become">Become Author</a>
+                        <button asp-controller="Author" asp-action="Become" type="submit" class="btn btn-primary mr--15">>Become Author</button>
+                        
                     </form>
                 </div>
             </div>
@@ -44,3 +55,6 @@
         </div>
     </div>
 </div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -28,7 +28,7 @@
                 <div class="filter-select-option">
                     <label asp-for="Categories" class="filter-leble">category</label>
                         <select asp-for="Categories" class="form-control">
-                            
+                           
                         @foreach (var category in Model.Categories)
                         {
                             <option value="@category">@category</option>
