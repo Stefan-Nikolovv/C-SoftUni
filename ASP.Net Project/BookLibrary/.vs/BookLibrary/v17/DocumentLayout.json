@@ -3,112 +3,32 @@
   "WorkspaceRootPath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\author\\become.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\author\\become.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.services.data.models\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|solutionrelative:booklibrary.services.data.models\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\user\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\user\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.services.data.models\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|solutionrelative:booklibrary.services.data.models\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.services.data.models\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|solutionrelative:booklibrary.services.data.models\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.web.viewmodels\\user\\edituserprofileformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|solutionrelative:booklibrary.web.viewmodels\\user\\edituserprofileformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.web.viewmodels\\author\\becomeauthorformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|solutionrelative:booklibrary.web.viewmodels\\author\\becomeauthorformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.services.data.models\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|solutionrelative:booklibrary.services.data.models\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.web.viewmodels\\user\\registrationformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|solutionrelative:booklibrary.web.viewmodels\\user\\registrationformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.web.viewmodels\\user\\loginfrommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|solutionrelative:booklibrary.web.viewmodels\\user\\loginfrommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\book\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\book\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\shared\\_bookpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\shared\\_bookpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\book\\mine.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\book\\mine.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.services.data.models\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|solutionrelative:booklibrary.services.data.models\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EC168D2-39BF-449E-9C23-8766FCB002AA}|BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.data.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EC168D2-39BF-449E-9C23-8766FCB002AA}|BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj|solutionrelative:booklibrary.data.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.services.data.models\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|solutionrelative:booklibrary.services.data.models\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.services.data.models\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCB4831-83B6-4A3B-BDF6-57C105D44969}|BookLibrary.Services.Data.Models\\BookLibrary.Services.Data.csproj|solutionrelative:booklibrary.services.data.models\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.web.viewmodels\\book\\bookeditformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|solutionrelative:booklibrary.web.viewmodels\\book\\bookeditformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.web.viewmodels\\book\\bookdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|solutionrelative:booklibrary.web.viewmodels\\book\\bookdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.web.viewmodels\\author\\auhtorinfoforbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|solutionrelative:booklibrary.web.viewmodels\\author\\auhtorinfoforbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.web.viewmodels\\book\\bookformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|solutionrelative:booklibrary.web.viewmodels\\book\\bookformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D35FCE0-87A3-409E-A8E5-19632418DA70}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|d:\\csharp-softuni\\asp.net project\\booklibrary\\booklibrary.web.viewmodels\\book\\uploadimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDFE0CF-C83E-430B-AA0C-4A2477858534}|BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj|solutionrelative:booklibrary.web.viewmodels\\book\\uploadimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,344 +50,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthorService.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\AuthorService.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Services.Data.Models\\AuthorService.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\AuthorService.cs",
-              "RelativeToolTip": "BookLibrary.Services.Data.Models\\AuthorService.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwDEAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T15:01:58.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAuthorService.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\Interfaces\\IAuthorService.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Services.Data.Models\\Interfaces\\IAuthorService.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\Interfaces\\IAuthorService.cs",
-              "RelativeToolTip": "BookLibrary.Services.Data.Models\\Interfaces\\IAuthorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T15:00:51.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BookLibrary\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BookLibrary\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:58:24.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthorController.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Controllers\\AuthorController.cs",
-              "RelativeDocumentMoniker": "BookLibrary\\Controllers\\AuthorController.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Controllers\\AuthorController.cs",
-              "RelativeToolTip": "BookLibrary\\Controllers\\AuthorController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAmwD0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:57:34.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegistrationFormModel.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\User\\RegistrationFormModel.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Web.ViewModels\\User\\RegistrationFormModel.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\User\\RegistrationFormModel.cs",
-              "RelativeToolTip": "BookLibrary.Web.ViewModels\\User\\RegistrationFormModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:56:07.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BecomeAuthorFormModel.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Author\\BecomeAuthorFormModel.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Web.ViewModels\\Author\\BecomeAuthorFormModel.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Author\\BecomeAuthorFormModel.cs",
-              "RelativeToolTip": "BookLibrary.Web.ViewModels\\Author\\BecomeAuthorFormModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:53:54.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Become.cshtml",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Author\\Become.cshtml",
-              "RelativeDocumentMoniker": "BookLibrary\\Views\\Author\\Become.cshtml",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Author\\Become.cshtml",
-              "RelativeToolTip": "BookLibrary\\Views\\Author\\Become.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T14:49:55.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginFromModel.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\User\\LoginFromModel.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Web.ViewModels\\User\\LoginFromModel.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\User\\LoginFromModel.cs",
-              "RelativeToolTip": "BookLibrary.Web.ViewModels\\User\\LoginFromModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\UserService.cs",
+              "RelativeDocumentMoniker": "BookLibrary.Services.Data.Models\\UserService.cs",
+              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\UserService.cs",
+              "RelativeToolTip": "BookLibrary.Services.Data.Models\\UserService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:55:52.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BookLibrary\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BookLibrary\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T08:50:29.082Z",
+              "WhenOpened": "2024-03-17T18:20:11.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "BookLibrary\\Controllers\\BookController.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Controllers\\BookController.cs",
-              "RelativeToolTip": "BookLibrary\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BookLibrary.Services.Data.Models\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BookLibrary.Services.Data.Models\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T07:06:11.786Z",
+              "WhenOpened": "2024-03-17T18:17:28.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\User\\Register.cshtml",
-              "RelativeDocumentMoniker": "BookLibrary\\Views\\User\\Register.cshtml",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\User\\Register.cshtml",
-              "RelativeToolTip": "BookLibrary\\Views\\User\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T14:49:29.42Z",
+              "DocumentIndex": 5,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\Interfaces\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "BookLibrary.Services.Data.Models\\Interfaces\\IAuthorService.cs",
+              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\Interfaces\\IAuthorService.cs",
+              "RelativeToolTip": "BookLibrary.Services.Data.Models\\Interfaces\\IAuthorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:12:22.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Mine.cshtml",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Book\\Mine.cshtml",
-              "RelativeDocumentMoniker": "BookLibrary\\Views\\Book\\Mine.cshtml",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Book\\Mine.cshtml",
-              "RelativeToolTip": "BookLibrary\\Views\\Book\\Mine.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T14:00:47.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Book\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookLibrary\\Views\\Book\\Edit.cshtml",
               "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Book\\Edit.cshtml",
               "RelativeToolTip": "BookLibrary\\Views\\Book\\Edit.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAA+AAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T07:19:35.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Book\\Details.cshtml",
-              "RelativeDocumentMoniker": "BookLibrary\\Views\\Book\\Details.cshtml",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Book\\Details.cshtml",
-              "RelativeToolTip": "BookLibrary\\Views\\Book\\Details.cshtml",
-              "ViewState": "AQIAAOAAAAAAAAAAAAAQwO0AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T07:30:28.748Z",
+              "WhenOpened": "2024-03-17T17:53:12.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\Interfaces\\IBookService.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Services.Data.Models\\Interfaces\\IBookService.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\Interfaces\\IBookService.cs",
-              "RelativeToolTip": "BookLibrary.Services.Data.Models\\Interfaces\\IBookService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBMAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T07:52:59.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_BookPartial.cshtml",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Shared\\_BookPartial.cshtml",
-              "RelativeDocumentMoniker": "BookLibrary\\Views\\Shared\\_BookPartial.cshtml",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Shared\\_BookPartial.cshtml",
-              "RelativeToolTip": "BookLibrary\\Views\\Shared\\_BookPartial.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "DocumentIndex": 1,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\User\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "BookLibrary\\Views\\User\\EditProfile.cshtml",
+              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\User\\EditProfile.cshtml",
+              "RelativeToolTip": "BookLibrary\\Views\\User\\EditProfile.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwCsAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T08:58:56.997Z",
+              "WhenOpened": "2024-03-17T17:50:59.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "All.cshtml",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Book\\All.cshtml",
-              "RelativeDocumentMoniker": "BookLibrary\\Views\\Book\\All.cshtml",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Book\\All.cshtml",
-              "RelativeToolTip": "BookLibrary\\Views\\Book\\All.cshtml",
-              "ViewState": "AQIAABkAAAAAAAAAAIAwwB4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T07:23:42.504Z",
+              "DocumentIndex": 2,
+              "Title": "EditUserProfileFormModel.cs",
+              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\User\\EditUserProfileFormModel.cs",
+              "RelativeDocumentMoniker": "BookLibrary.Web.ViewModels\\User\\EditUserProfileFormModel.cs",
+              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\User\\EditUserProfileFormModel.cs",
+              "RelativeToolTip": "BookLibrary.Web.ViewModels\\User\\EditUserProfileFormModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:50:45.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\Book.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Data.Models\\Book.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\Book.cs",
-              "RelativeToolTip": "BookLibrary.Data.Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookLibrary\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAowKYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T07:53:11.058Z",
+              "WhenOpened": "2024-03-17T17:48:44.542Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BookFormModel.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Book\\BookFormModel.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Web.ViewModels\\Book\\BookFormModel.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Book\\BookFormModel.cs",
-              "RelativeToolTip": "BookLibrary.Web.ViewModels\\Book\\BookFormModel.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T07:21:46.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\BookService.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Services.Data.Models\\BookService.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Services.Data.Models\\BookService.cs",
-              "RelativeToolTip": "BookLibrary.Services.Data.Models\\BookService.cs",
-              "ViewState": "AQIAAMUAAAAAAAAAAAAAwOAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T08:35:31.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Home\\Home.cshtml",
-              "RelativeDocumentMoniker": "BookLibrary\\Views\\Home\\Home.cshtml",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Home\\Home.cshtml",
-              "RelativeToolTip": "BookLibrary\\Views\\Home\\Home.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T10:08:53.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BookLibrary\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BookLibrary\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T10:08:55.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BookEditFormModel.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Book\\BookEditFormModel.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Web.ViewModels\\Book\\BookEditFormModel.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Book\\BookEditFormModel.cs",
-              "RelativeToolTip": "BookLibrary.Web.ViewModels\\Book\\BookEditFormModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T07:21:54.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BookDetailsViewModel.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Book\\BookDetailsViewModel.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Web.ViewModels\\Book\\BookDetailsViewModel.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Book\\BookDetailsViewModel.cs",
-              "RelativeToolTip": "BookLibrary.Web.ViewModels\\Book\\BookDetailsViewModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA8AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T07:47:28.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AuhtorInfoForBook.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Author\\AuhtorInfoForBook.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Web.ViewModels\\Author\\AuhtorInfoForBook.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Author\\AuhtorInfoForBook.cs",
-              "RelativeToolTip": "BookLibrary.Web.ViewModels\\Author\\AuhtorInfoForBook.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T07:48:44.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UploadImageViewModel.cs",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Book\\UploadImageViewModel.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Web.ViewModels\\Book\\UploadImageViewModel.cs",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\Book\\UploadImageViewModel.cs",
-              "RelativeToolTip": "BookLibrary.Web.ViewModels\\Book\\UploadImageViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T07:21:41.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Book\\Add.cshtml",
-              "RelativeDocumentMoniker": "BookLibrary\\Views\\Book\\Add.cshtml",
-              "ToolTip": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\Views\\Book\\Add.cshtml",
-              "RelativeToolTip": "BookLibrary\\Views\\Book\\Add.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T07:23:58.689Z"
             }
           ]
         }

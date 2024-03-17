@@ -1,4 +1,5 @@
 ﻿
+using Microsoft.AspNetCore.Http;
 using System.ComponentModel.DataAnnotations;
 using static BookLibrary.Common.EntityValidationsConstants.User;
 namespace BookLibrary.Web.ViewModels.User
@@ -26,6 +27,8 @@ namespace BookLibrary.Web.ViewModels.User
         [StringLength(FirstNameMaxLength, MinimumLength = FirstNameMinLength)]
         public string FirstName { get; set; } = null!;
 
+        
+        public IFormFile? ProfilePicture { get; set; }
         [Required]
         [StringLength(LastNameMaxLength, MinimumLength = LastNameMinLength)]
         public string LastName { get; set; } = null!;

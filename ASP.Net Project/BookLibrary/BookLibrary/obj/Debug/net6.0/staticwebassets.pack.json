@@ -181,6 +181,26 @@
       "PackagePath": "staticwebassets\\BookLibrary.bundle.scp.css"
     },
     {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\35cbd6c8-de24-467a-b02c-3479ae0f26ea_1706545672197.JPEG",
+      "PackagePath": "staticwebassets\\Profile\\35cbd6c8-de24-467a-b02c-3479ae0f26ea_1706545672197.JPEG"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\8767e341-44a6-4f82-ac62-62e5b14074df_genitiv_fall_deutsch_konjugation.jpg",
+      "PackagePath": "staticwebassets\\Profile\\8767e341-44a6-4f82-ac62-62e5b14074df_genitiv_fall_deutsch_konjugation.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\92e2750a-0a79-42aa-8839-8a3d6bc173ce_photo-1481627834876-b7833e8f5570.jpg",
+      "PackagePath": "staticwebassets\\Profile\\92e2750a-0a79-42aa-8839-8a3d6bc173ce_photo-1481627834876-b7833e8f5570.jpg"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\9d2fb54e-37c7-4723-a883-041b7c773fe5_1706545654199.JPEG",
+      "PackagePath": "staticwebassets\\Profile\\9d2fb54e-37c7-4723-a883-041b7c773fe5_1706545654199.JPEG"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\e21a8085-b693-4cb8-b1ad-242a79588e73_1706545654199.JPEG",
+      "PackagePath": "staticwebassets\\Profile\\e21a8085-b693-4cb8-b1ad-242a79588e73_1706545654199.JPEG"
+    },
+    {
       "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\2bbef265-abaf-4975-b90f-6b75ccb60a97_1706545672197.JPEG",
       "PackagePath": "staticwebassets\\Uploads\\2bbef265-abaf-4975-b90f-6b75ccb60a97_1706545672197.JPEG"
     },

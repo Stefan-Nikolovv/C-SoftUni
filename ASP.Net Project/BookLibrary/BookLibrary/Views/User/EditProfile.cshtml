@@ -1,0 +1,143 @@
+﻿@using BookLibrary.Web.ViewModels.User
+@model EditUserProfileFormModel
+
+<div class="edit-profile-area rn-section-gapTop">
+    <div class="container">
+        <div class="row plr--70 padding-control-edit-wrapper pl_md--0 pr_md--0 pl_sm--0 pr_sm--0">
+            <div class="col-12 d-flex justify-content-between mb--30 align-items-center">
+                <h4 class="title-left">Edit Your Profile</h4>
+                <a href="author.html" class="btn btn-primary ml--10"><i class="feather-eye mr--5"></i> Preview</a>
+            </div>
+        </div>
+        <form method="post" enctype="multipart/form-data">
+        <div class="row plr--70 padding-control-edit-wrapper pl_md--0 pr_md--0 pl_sm--0 pr_sm--0">
+            <div class="col-lg-3 col-md-3 col-sm-12">
+                <!-- Start tabs area -->
+                <nav class="left-nav rbt-sticky-top-adjust-five">
+                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                        <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true"><i class="feather-edit"></i>Edit Profile Image</button>
+                        <button class="nav-link" id="nav-home-tabs" data-bs-toggle="tab" data-bs-target="#nav-homes" type="button" role="tab" aria-controls="nav-homes" aria-selected="false"><i class="feather-user"></i>Personal Information</button>
+                        <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false"> <i class="feather-unlock"></i>Change Password</button>
+                     
+                    </div>
+                </nav>
+                <!-- End tabs area -->
+            </div>
+           
+            <div class="col-lg-9 col-md-9 col-sm-12 mt_sm--30">
+                <div class="tab-content tab-content-edit-wrapepr" id="nav-tabContent">
+
+                    <!-- sigle tab content -->
+                    <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <!-- start personal information -->
+                        <div class="nuron-information">
+
+                            <div class="profile-change row g-5">
+                                <div class="profile-left col-lg-4">
+                                    <div class="profile-image mb--30">
+                                        <h6 class="title">Change Your Profile Picture</h6>
+                                       
+                                    </div>
+                                        <div class="brows-file-wrapper">
+                                            <!-- actual upload which is hidden -->
+                                            <input asp-for="NewProfilePicture" name="NewProfilePicture" id="createinputfile" type="file" class="inputfile" />
+                                            <img  id="createfileImage" src="~/Profile/@Model.ProfilePicture" alt="" data-black-overlay="6">
+                                            <!-- our custom upload button -->
+                                            <label for="createinputfile" title="No File Choosen">
+                                                <i class="feather-upload"></i>
+                                                <span class="text-center">Choose a File</span>
+                                                <p class="text-center mt--10">PNG, GIF, WEBP, MP4 or MP3. <br>    Max 1Gb.</p>
+                                            </label>
+                                        </div>
+                                        <span asp-validation-for="NewProfilePicture" class="small text-danger"></span>
+                                </div>
+
+                                
+                            </div>
+                        </div>
+    
+                    <div class="tab-pane fade" id="nav-homes" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <!-- start personal information -->
+                        <div class="nuron-information">
+
+                            <div class="profile-form-wrapper">
+                                <div class="input-two-wrapper mb--15">
+                                    <div class="first-name half-wid">
+                                            <label asp-for="FirstName" for="contact-name" class="form-label">First Name</label>
+                                            <input asp-for="FirstName"  id="contact-name" type="text" >
+                                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                                    </div>
+                                    <div class="last-name half-wid">
+                                            <label asp-for="LastName" for="contact-name-last" class="form-label">Last Name</label>
+                                            <input asp-for="LastName"   id="contact-name-last" type="text" >
+                                            <span asp-validation-for="LastName" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="email-area">
+                                        <label asp-for="Email" for="Email" class="form-label">Edit Your Email</label>
+                                        <input asp-for="Email" name="email" id="Email" type="email" />
+                                        <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                            </div>
+
+
+                            <!-- edit bio area Start-->
+                            
+                            <!-- edit bio area End -->
+                            <!--  -->
+                            
+
+                            
+                           
+                            <div class="button-area save-btn-edit">
+
+                                    <button type="submit" class="btn btn-primary mr--15">Save</button>
+                            </div>
+
+                        </div>
+                        <!-- End personal information -->
+                    </div>
+                    <!-- End single tabv content -->
+
+                    <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <!-- change password area Start -->
+                        <div class="nuron-information">
+                            <div class="condition">
+                                <h5 class="title">Create Your Password</h5>
+                                <p class="condition">
+                                    Passwords are a critical part of information and network security. Passwords
+                                    serve to protect user accounts but a poorly chosen password, if compromised,
+                                    could put the entire network at risk.
+                                </p>
+                                <hr />
+                               
+                            </div>
+                            <div class="input-two-wrapper mt--15">
+                                <div class="old-password half-wid">
+                                    <label for="oldPass" class="form-label">Enter Old Password</label>
+                                    <input name="pass" id="oldPass" type="password">
+                                </div>
+                                <div class="new-password half-wid">
+                                    <label for="NewPass" class="form-label">Create New Password</label>
+                                    <input name="password" id="NewPass" type="password">
+                                </div>
+                            </div>
+                            <div class="email-area mt--15">
+                                <label for="rePass" class="form-label">Confirm Password</label>
+                                <input name="Password" id="rePass" type="password" value="">
+                            </div>
+                                <button type="submit" class="btn btn-primary mr--15">Save</button>
+                        </div>
+                        <!-- change password area ENd -->
+                    </div>
+
+                   
+                </div>
+
+            </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="rn-footer-one rn-section-gap bg-color--1 mt--100 mt_md--80 mt_sm--80">
+    </div>

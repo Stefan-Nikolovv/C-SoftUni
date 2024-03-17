@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Http.Internal;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using System.Collections;
 using System.IO;
 using static System.Net.Mime.MediaTypeNames;
@@ -26,7 +27,44 @@ namespace BookLibrary.Services.Data
             this.dbContext = dbContext;
         }
 
-        public async Task<string> CreateAndReturnIdAsync(BookFormModel model, string agentId, string fileName)
+        public async Task<IEnumerable<BookAllViewModel>> AllByAuthorIdAsync(string authorId)
+        {
+            IEnumerable<BookAllViewModel> allAuthorBooks = await this.dbContext.Books
+                                                                .Where(h => h.isActive)
+                                                           .Where(h => h.AuthorId.ToString() == authorId)
+                                                           .Select(h => new BookAllViewModel()
+                                                           {
+                                                               Id = h.Id.ToString(),
+                                                               Title = h.Title,
+                                                               Image = h.Image,
+                                                               Price = h.Price,
+                                                              Publisher = h.Publisher,
+                                                               
+                                                           })
+                                                           .ToArrayAsync();
+            return allAuthorBooks;
+        }
+
+        public async Task<IEnumerable<BookAllViewModel>> AllByUserIdAsync(string userId)
+        {
+            IEnumerable<BookAllViewModel> allUserBooks = await this.dbContext.Books
+                                                          .Where(h => h.isActive)
+                                                          .Where(h => h.LikerId.HasValue
+                                                          && h.AuthorId.ToString() == userId)
+                                                          .Select(h => new BookAllViewModel()
+                                                          {
+                                                              Id = h.Id.ToString(),
+                                                              Title = h.Title,
+                                                              Image = h.Image,
+                                                              Price = h.Price,
+                                                              Publisher = h.Publisher,
+                                                              
+                                                          })
+                                                          .ToArrayAsync();
+            return allUserBooks;
+        }
+
+        public async Task<string> CreateAndReturnIdAsync(BookFormModel model, string authroId, string fileName)
         {
             Book modelForm = new Book()
             {
@@ -38,7 +76,7 @@ namespace BookLibrary.Services.Data
                 Pages = model.Pages,
                 Language = model.Language,
                 CategoryId = model.CategoryId,
-                AuthorId = Guid.Parse(agentId),
+                AuthorId = Guid.Parse(authroId),
 
             };
           

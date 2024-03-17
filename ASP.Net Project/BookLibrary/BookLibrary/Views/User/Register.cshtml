@@ -28,7 +28,7 @@
             <div class="offset-2 col-lg-4 col-md-6 ml_md--0 ml_sm--0 col-sm-12">
                 <div class="form-wrapper-one registration-area">
                     <h4>Sign up</h4>
-                    <form method="post">
+                    <form method="post" enctype="multipart/form-data">
                         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                         <div class="mb-5">
                             <label asp-for="FirstName" class="form-label">First name</label>
@@ -56,7 +56,31 @@
                             <input asp-for="ConfirmPassword" id="exampleInputPassword1">
                             <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                         </div>
-                        <
+                        <div asp-for="Image" class="upload-area">
+
+                            <div class="upload-formate mb--30">
+                                <h6 class="title">
+                                    Upload Profile Picture
+                                </h6>
+                                <p class="formate">
+                                    Drag or choose your file to upload
+                                </p>
+                            </div>
+
+                            <div class="brows-file-wrapper">
+                                <!-- actual upload which is hidden -->
+                                <input asp-for="ProfilePicture" name="ProfilePicture" id="createinputfile" type="file" class="inputfile" />
+                                <img id="createfileImage" src="~/assets/images/portfolio/portfolio-05.jpg" alt="" data-black-overlay="6">
+                                <!-- our custom upload button -->
+                                <label for="createinputfile" title="No File Choosen">
+                                    <i class="feather-upload"></i>
+                                    <span class="text-center">Choose a File</span>
+                                    <p class="text-center mt--10">PNG, GIF, WEBP, MP4 or MP3. <br>    Max 1Gb.</p>
+                                </label>
+                            </div>
+                            <span asp-validation-for="ProfilePicture" class="small text-danger"></span>
+                        </div>
+                        
                         <button type="submit" class="btn btn-primary mr--15">Sign Up</button>
                         <a class="btn btn-primary-alta" asp-controller="User" asp-action="Register">Log In</a>
                     </form>

@@ -255,7 +255,7 @@ namespace BookLibrary.Controllers
 
 
 
-            return RedirectToAction("Mine", "House");
+            return RedirectToAction("Mine", "Book");
         }
         [HttpPost]
         public async Task<IActionResult> Unlike(string id)
@@ -293,9 +293,36 @@ namespace BookLibrary.Controllers
             return RedirectToAction("Mine", "House");
         }
         [HttpGet]
+        [HttpGet]
         public async Task<IActionResult> Mine()
         {
-            return View();
+            
+
+            List<BookAllViewModel> books = new List<BookAllViewModel>();
+
+            string userId = this.User.GetId();
+            bool isUserIsAuthor = await this.authorService.AuthorExistsByUserId(userId);
+
+            try
+            {
+                
+                if (isUserIsAuthor)
+                {
+                    string authroId = await this.authorService.GetAuthorIdByUserIdAsync(userId);
+
+                    books.AddRange(await this.bookService.AllByAuthorIdAsync(authroId));
+                }
+                else
+                {
+                    books.AddRange(await this.bookService.AllByUserIdAsync(userId));
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            return View(books);
         }
 
         private string ProcessUploadedFile(BookFormModel model)

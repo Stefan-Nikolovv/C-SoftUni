@@ -1,6 +1,6 @@
 ﻿
 using System.ComponentModel.DataAnnotations;
-
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using static BookLibrary.Common.EntityValidationsConstants.User;
 
@@ -21,6 +21,9 @@ namespace BookLibrary.Data.Models
         [Required]
         [MaxLength(LastNameMaxLength)]
         public string LastName { get; set; } = null!;
+
+        [Required]
+        public string ProfilePicture { get; set; }
 
         public virtual ICollection<Book> LikedBooks { get; set; }
     }
