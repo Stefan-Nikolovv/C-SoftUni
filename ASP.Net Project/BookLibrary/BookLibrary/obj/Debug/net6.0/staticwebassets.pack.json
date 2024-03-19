@@ -181,6 +181,10 @@
       "PackagePath": "staticwebassets\\BookLibrary.bundle.scp.css"
     },
     {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\24042345-c61e-481f-b72c-59574fbeea6a_BORIS_DALI.jpg",
+      "PackagePath": "staticwebassets\\Profile\\24042345-c61e-481f-b72c-59574fbeea6a_BORIS_DALI.jpg"
+    },
+    {
       "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\35cbd6c8-de24-467a-b02c-3479ae0f26ea_1706545672197.JPEG",
       "PackagePath": "staticwebassets\\Profile\\35cbd6c8-de24-467a-b02c-3479ae0f26ea_1706545672197.JPEG"
     },
@@ -1601,6 +1605,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\favicon1.ico",
+      "PackagePath": "staticwebassets\\favicon1.ico"
+    },
+    {
       "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\about-image.jpg",
       "PackagePath": "staticwebassets\\img\\about-image.jpg"
     },
@@ -1875,6 +1883,10 @@
     {
       "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\signup\\gmail.png",
       "PackagePath": "staticwebassets\\img\\signup\\gmail.png"
+    },
+    {
+      "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\ThemeSwitcher.js",
+      "PackagePath": "staticwebassets\\js\\ThemeSwitcher.js"
     },
     {
       "Id": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\TweenMax.min.js",

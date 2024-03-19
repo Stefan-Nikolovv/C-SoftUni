@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WiAOTllwYnhO7HxHbndthSWcAGHuUh7VCQtKzMviuR0=",
+  "Hash": "LuyuS5gf4ySviTFG/XLxJ7a+7ZXlniL4G91A4zQ+hR8=",
   "Source": "BookLibrary",
   "BasePath": "_content/BookLibrary",
   "Mode": "Default",
@@ -8567,6 +8567,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\favicon1.ico",
+      "SourceId": "BookLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\",
+      "BasePath": "_content/BookLibrary",
+      "RelativePath": "favicon1.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon1.ico"
+    },
+    {
       "Identity": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\img\\about-image.jpg",
       "SourceId": "BookLibrary",
       "SourceType": "Discovered",
@@ -10049,6 +10068,25 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+      "Identity": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\ThemeSwitcher.js",
+      "SourceId": "BookLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\",
+      "BasePath": "_content/BookLibrary",
+      "RelativePath": "js/ThemeSwitcher.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ThemeSwitcher.js"
+    },
+    {
       "Identity": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\js\\tooltip.js",
       "SourceId": "BookLibrary",
       "SourceType": "Discovered",
@@ -11168,6 +11206,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\24042345-c61e-481f-b72c-59574fbeea6a_BORIS_DALI.jpg",
+      "SourceId": "BookLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\",
+      "BasePath": "_content/BookLibrary",
+      "RelativePath": "Profile/24042345-c61e-481f-b72c-59574fbeea6a_BORIS_DALI.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Profile\\24042345-c61e-481f-b72c-59574fbeea6a_BORIS_DALI.jpg"
     },
     {
       "Identity": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\35cbd6c8-de24-467a-b02c-3479ae0f26ea_1706545672197.JPEG",
