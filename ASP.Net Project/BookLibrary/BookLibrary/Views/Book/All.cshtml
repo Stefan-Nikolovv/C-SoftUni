@@ -23,6 +23,62 @@
         <div class="default-exp-wrapper">
             <form method="get">
             <div class="inner">
+              
+                <div class="filter-select-option">
+                        <label asp-for="BookPerPage" class="filter-leble">Items Per Page</label>
+                        <select asp-for="BookPerPage">
+                            <option value="3">3</option>
+                            <option value="6">6</option>
+                            <option value="9">9</option>
+                    </select>
+                    
+                </div>
+                <div class="filter-select-option">
+                        <label asp-for="Categories" class="filter-leble">Category</label>
+                        <select asp-for="Categories">
+                            
+                            @foreach (var category in Model.Categories)
+                            {
+                                <option value="@category">@category</option>
+                            }
+                    </select>
+                       
+                </div>
+
+          
+
+                <div class="filter-select-option">
+                        <label asp-for="BookSorting" class="filter-leble">
+                           Sort By</label>
+                        <select asp-for="BookSorting">
+                                <option value="0">newest</option>
+                                <option value="1">oldest</option>
+                                <option value="2">price (ascending)</option>
+                                <option value="3">price (descending)</option>
+                                <option value="4">not rented first</option>
+                    </select>
+              @*         <label class="filter-leble" asp-for="BookSorting"></label>
+                        <select asp-for="BookSorting" class="form-control">
+                                <option data-display="Sale type" value="0">newest</option>
+                        <option value="1">oldest</option>
+                        <option value="2">price (ascending)</option>
+                        <option value="3">price (descending)</option>
+                        <option value="4">not rented first</option> *@
+                </div>
+                    <div class="col-md-3">
+                        <div class="form-group mt-4 p-2">
+                            <input type="submit"
+                                   value="Search" class="btn btn-primary m-3" />
+                        </div>
+                    </div>
+                
+              
+            </div>
+            </form>
+        </div>
+   @*      <div class="default-exp-wrapper">
+            <form method="get">
+            <div class="inner">
                     
      
                 <div class="filter-select-option">
@@ -109,7 +165,7 @@
                     </div>
                 </div>
             </form> *@
-        </div>
+        </div> 
               
              
         <div class="row g-5">
