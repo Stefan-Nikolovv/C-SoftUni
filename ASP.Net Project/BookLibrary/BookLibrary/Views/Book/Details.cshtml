@@ -1,5 +1,13 @@
-﻿@model BookDetailsViewModel
-
+﻿@using BookLibrary.Services.Data.Interfaces
+@using BookLibrary.Web.Infrastructure.Extentions
+@model BookDetailsViewModel
+@inject IAuthorService AuthorService;
+@inject IBookService BookService
+@{
+    bool isUserAuhtor = await this.AuthorService.AuthorExistsByUserId(this.User.GetId()!);
+    bool isAuthorOwnerOfTheBook = await this.AuthorService.HasBookWithIdAsync(this.User.GetId()!, Model.Id);
+    bool isBookLikedByUser = await this.BookService.IsLikedByUserWithIdAsync(Model.Id, this.User.GetId()!);
+}
 <div class="rn-breadcrumb-inner ptb--30">
     <div class="container">
         <div class="row align-items-center">
@@ -100,16 +108,33 @@
                         <div class="tab-wrapper-one">
                             <nav class="tab-button-one">
                                 <div class="nav nav-tabs" id="nav-tab">
-                                    <form asp-controller="Book" asp-action="Like"
-                                          asp-route-id="@Model.Id" method="post">
-                                        <input class="nav-link" type="submit" value="Like" />
-                                    </form>
-                               
-                                   <form asp-controller="Book" asp-action="Unlike"
-                                          asp-route-id="@Model.Id" method="post">
-                                        <input class="nav-link" type="submit" value="Unlike" />
-                                    </form>
-                                    
+                                    @if (this.User.Identity?.IsAuthenticated ?? false)
+                                    {
+                                        
+                                   
+                                    @if (!Model.IsLiked)
+                                    {
+                                        if (!isUserAuhtor )
+                                        {
+                                            <form asp-controller="Book" asp-action="Like"
+                                                  asp-route-id="@Model.Id" method="post">
+                                                <input class="nav-link" type="submit" value="Like" />
+                                            </form>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        @if (!isUserAuhtor && isBookLikedByUser)
+                                        {
+                                            <form asp-controller="Book" asp-action="Unlike"
+                                                  asp-route-id="@Model.Id" method="post">
+                                                <input class="nav-link" type="submit" value="Unlike" />
+                                            </form>
+                                        }
+                                       
+                                    }
+                                    }
+                       
                                 </div>
                             </nav>
                             <div class="tab-content rn-bid-content" id="nav-tabContent">
@@ -420,9 +445,16 @@
                                 </div>
                             </div>
                             <!-- <a class="btn btn-primary-alta mt--30" href="#">Place a Bid</a> -->
-                            
-                            <a asp-controller= "Book" asp-action="Edit" asp-route-id="@Model.Id"  class="btn btn-primary-alta mt--30"  >Edit</a>
-                            <a asp-controller= "Book" asp-action="Delete" asp-route-id="@Model.Id"  class="btn btn-primary-alta mt--30">Delete</a>
+                            @if (this.User.Identity?.IsAuthenticated ?? false)
+                            {
+                                @if (isUserAuhtor && isAuthorOwnerOfTheBook)
+                                {
+                                    <a asp-controller="Book" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary-alta mt--30">Edit</a>
+                                    <a asp-controller="Book" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-primary-alta mt--30">Delete</a>
+                                }
+                              
+                            }
+                           
                         </div>
                     </div>
                 </div>

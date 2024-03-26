@@ -37,6 +37,7 @@ namespace BookLibratySystesm.Data.Configurations
                 .WithMany (a => a.LikedBooks)
                 .HasForeignKey (b => b.LikerId)
                 .OnDelete(DeleteBehavior.Restrict);
+
         }
     }
 }

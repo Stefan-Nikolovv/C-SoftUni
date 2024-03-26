@@ -198,6 +198,56 @@ namespace BookLibratySystesm.Data.Migrations
                     b.HasIndex("LikerId");
 
                     b.ToTable("Books");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("4ee91fef-3f6b-43c5-8f49-6719172818f0"),
+                            AuthorId = new Guid("430e99fb-5a76-4235-9b39-83b13b17bb58"),
+                            CategoryId = 3,
+                            CreatedOn = new DateTime(2024, 3, 26, 17, 32, 1, 630, DateTimeKind.Utc).AddTicks(8982),
+                            Description = "Book created about the story of Bulgarian mountain climber. ",
+                            Image = "2a46eb9a-6e55-42d3-8827-8059333c4b53_The First Seven.jpg",
+                            Language = "Bulgarian",
+                            LikerId = new Guid("794405d2-c399-41d9-9a60-c4e2e7cb1b67"),
+                            Pages = "245",
+                            Price = 2100.00m,
+                            Publisher = "VackonPrime",
+                            Title = "The First Seven",
+                            isActive = false
+                        },
+                        new
+                        {
+                            Id = new Guid("001deb00-c049-414c-828d-8994b8dad751"),
+                            AuthorId = new Guid("430e99fb-5a76-4235-9b39-83b13b17bb58"),
+                            CategoryId = 2,
+                            CreatedOn = new DateTime(2024, 3, 26, 17, 32, 1, 630, DateTimeKind.Utc).AddTicks(8993),
+                            Description = "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose",
+                            Image = "107aba19-e84b-41e9-95bc-fefb811b9576_Man's Search for Meaning.jpg",
+                            Language = "German",
+                            LikerId = new Guid("794405d2-c399-41d9-9a60-c4e2e7cb1b67"),
+                            Pages = "233",
+                            Price = 2100.00m,
+                            Publisher = "amazonPrime",
+                            Title = "Man's Search for Meaning",
+                            isActive = false
+                        },
+                        new
+                        {
+                            Id = new Guid("b53c3cef-bd0b-4ef8-a62b-48566925ad90"),
+                            AuthorId = new Guid("430e99fb-5a76-4235-9b39-83b13b17bb58"),
+                            CategoryId = 4,
+                            CreatedOn = new DateTime(2024, 3, 26, 17, 32, 1, 630, DateTimeKind.Utc).AddTicks(8997),
+                            Description = "Is 14 Peaks a book? Beyond Possible: One Man, Fourteen Peaks, and the Mountaineering Achievement of a Lifetime by ",
+                            Image = "8ca6ff06-ac52-47bc-b625-7f9355953c69_Beyond Possible.jpg",
+                            Language = "English",
+                            LikerId = new Guid("794405d2-c399-41d9-9a60-c4e2e7cb1b67"),
+                            Pages = "245",
+                            Price = 2100.00m,
+                            Publisher = "NetFlixPrime",
+                            Title = "Beyond Possible",
+                            isActive = false
+                        });
                 });
 
             modelBuilder.Entity("BookLibrary.Data.Models.Category", b =>
@@ -226,12 +276,17 @@ namespace BookLibratySystesm.Data.Migrations
                         new
                         {
                             Id = 2,
-                            Name = "Horror"
+                            Name = "Psychologie"
                         },
                         new
                         {
                             Id = 3,
-                            Name = "Fantasy"
+                            Name = "Biography"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Name = "Adventure"
                         });
                 });
 

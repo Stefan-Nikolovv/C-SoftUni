@@ -27,14 +27,20 @@ namespace BookLibratySystesm.Data.Configurations
             category = new Category()
             {
                 Id = 2,
-                Name = "Horror"
+                Name = "Psychologie"
             };
             categories.Add(category);
 
             category = new Category()
             {
                 Id = 3,
-                Name = "Fantasy"
+                Name = "Biography"
+            };
+            categories.Add(category);
+            category = new Category()
+            {
+                Id = 4,
+                Name = "Adventure"
             };
             categories.Add(category);
 

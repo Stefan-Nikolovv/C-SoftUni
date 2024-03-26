@@ -200,6 +200,7 @@ namespace BookLibrary.Services.Data
                 Pages = book.Pages,
                 Publisher = book.Publisher,
                 CreatedOn = book.CreatedOn,
+                IsLiked = book.LikerId.HasValue,
                 Language = book.Language,
                 Description = book.Description,
                 Category = book.Category.Name,

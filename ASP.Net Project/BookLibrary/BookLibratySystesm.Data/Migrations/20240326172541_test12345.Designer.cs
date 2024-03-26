@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BookLibratySystesm.Data.Migrations
 {
     [DbContext(typeof(BookDbContext))]
-    [Migration("20240314174222_InitialDB")]
-    partial class InitialDB
+    [Migration("20240326172541_test12345")]
+    partial class test12345
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -76,6 +76,10 @@ namespace BookLibratySystesm.Data.Migrations
 
                     b.Property<bool>("PhoneNumberConfirmed")
                         .HasColumnType("bit");
+
+                    b.Property<string>("ProfilePicture")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");
@@ -140,10 +144,6 @@ namespace BookLibratySystesm.Data.Migrations
                     b.Property<Guid>("AuthorId")
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<string>("AuthorName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<int>("CategoryId")
                         .HasColumnType("int");
 
@@ -157,9 +157,9 @@ namespace BookLibratySystesm.Data.Migrations
                         .HasMaxLength(150)
                         .HasColumnType("nvarchar(150)");
 
-                    b.Property<byte[]>("Image")
+                    b.Property<string>("Image")
                         .IsRequired()
-                        .HasColumnType("varbinary(max)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Language")
                         .IsRequired()
@@ -171,12 +171,10 @@ namespace BookLibratySystesm.Data.Migrations
 
                     b.Property<string>("Pages")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)");
-
-                    b.Property<string>("Price")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("Publisher")
                         .IsRequired()
@@ -220,6 +218,23 @@ namespace BookLibratySystesm.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Name = "Mystery"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Name = "Psychologie"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Name = "Adventure"
+                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole<System.Guid>", b =>

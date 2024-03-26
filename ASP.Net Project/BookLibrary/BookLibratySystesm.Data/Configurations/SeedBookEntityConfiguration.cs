@@ -1,9 +1,7 @@
 ﻿using BookLibrary.Data.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using static System.Net.Mime.MediaTypeNames;
-using System.Diagnostics;
-using Microsoft.AspNetCore.Hosting;
+
 
 namespace BookLibratySystesm.Data.Configurations
 {
@@ -12,52 +10,71 @@ namespace BookLibratySystesm.Data.Configurations
 
         public void Configure(EntityTypeBuilder<Book> builder)
         {
-            return;
-            //builder.HasData(this.GenerateBooks());
+          
+             builder.HasData(this.GenerateBooks());
         }
 
-        //private  Book[] GenerateBooks()
-        //{
-        //    ICollection<Book> books = new HashSet<Book>();
+        private Book[] GenerateBooks()
+        {
+            ICollection<Book> books = new HashSet<Book>();
 
-        //    Book book;
+            Book book;
 
-        //    book = new Book()
-        //    {
+            book = new Book()
+            {
+                Id = Guid.NewGuid(),
+                Title = "The First Seven",
+                Description = "Book created about the story of Bulgarian mountain climber. ",
+                Price = 2100.00M,
+                Pages = "245",
+                Publisher = "VackonPrime",
+                Language = "Bulgarian",
+                CategoryId = 3,
+                AuthorId = Guid.Parse("430E99FB-5A76-4235-9B39-83B13B17BB58"), //AuthorId,
+                LikerId = Guid.Parse("794405D2-C399-41D9-9A60-C4E2E7CB1B67"), //UserID
+                CreatedOn = DateTime.UtcNow,
+                Image = "2a46eb9a-6e55-42d3-8827-8059333c4b53_The First Seven.jpg"
 
-        //        Title = "Sample Book 1",
-        //        Description = "This is a sample description for Book 1.",
-        //        Price = 2100.00M,
-        //        Pages = "100",
-        //        Publisher = "Sample Publisher 1",
-        //        Language = "English",
-        //        CategoryId = 1,
-        //        FileName = "Test",
-        //        AuthorId = Guid.Parse("ca1523ec-643e-44fb-ae25-bae604c1bb9e"), //AgentId,
-        //        LikerId = Guid.Parse("15F6ECC5-67F3-4354-B67C-35B9ABD8615C"), //AgentId
-        //        CreatedOn = DateTime.UtcNow,
-        //        Image =  GetSampleImageDataAsync() // Method to get sample image data
+            };
+            books.Add(book);
+            book = new Book()
+            {
+                Id = Guid.NewGuid(),
+                Title = "Man's Search for Meaning",
+                Description = "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose",
+                Price = 2100.00M,
+                Pages = "233",
+                Publisher = "amazonPrime",
+                Language = "German",
+                CategoryId = 2,
+                AuthorId = Guid.Parse("430E99FB-5A76-4235-9B39-83B13B17BB58"), //AuthorId,
+                LikerId = Guid.Parse("794405D2-C399-41D9-9A60-C4E2E7CB1B67"), //UserID
+                CreatedOn = DateTime.UtcNow,
+                Image = "107aba19-e84b-41e9-95bc-fefb811b9576_Man's Search for Meaning.jpg"
 
-        //    };
-        //    books.Add(book);
-        //    return books.ToArray();
-        //}
+            };
+            books.Add(book);
+            book = new Book()
+            {
+                Id = Guid.NewGuid(),
+                Title = "Beyond Possible",
+                Description = "Is 14 Peaks a book? Beyond Possible: One Man, Fourteen Peaks, and the Mountaineering Achievement of a Lifetime by ",
+                Price = 2100.00M,
+                Pages = "245",
+                Publisher = "NetFlixPrime",
+                Language = "English",
+                CategoryId = 4,
+                AuthorId = Guid.Parse("430E99FB-5A76-4235-9B39-83B13B17BB58"), //AuthorId,
+                LikerId = Guid.Parse("794405D2-C399-41D9-9A60-C4E2E7CB1B67"), //UserID
+                CreatedOn = DateTime.UtcNow,
+                Image = "8ca6ff06-ac52-47bc-b625-7f9355953c69_Beyond Possible.jpg"
 
-        //private static  byte[] GetSampleImageDataAsync()
-        //{
-        //    string currentDirectory = Directory.GetCurrentDirectory();
-        //    //string parentDirectory = Directory.GetParent(currentDirectory).FullName;
-        //    string imagePath = Path.Combine(currentDirectory, "wwwroot", "assets", "images", "brand", "brand-01.png");
-        //    byte[] imageData;
+            };
+            books.Add(book);
+            return books.ToArray();
+        }
 
-        //    using (var fileStream = File.OpenRead(imagePath))
-        //    using (var memoryStream = new MemoryStream())
-        //    {
-        //         fileStream.CopyToAsync(memoryStream);
-        //        imageData = memoryStream.ToArray();
-        //    }
-
-        //    return imageData;
-        //}
+       
+        }
     }
-}
+

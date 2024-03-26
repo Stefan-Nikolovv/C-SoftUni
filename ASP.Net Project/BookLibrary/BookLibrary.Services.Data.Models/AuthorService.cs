@@ -61,6 +61,18 @@ namespace BookLibrary.Services.Data
             return agentId.Id.ToString();
         }
 
+        public async Task<bool> HasBookWithIdAsync(string? userId, string bookId)
+        {
+            BookLibrary.Data.Models.Author? author = await this.dbContext.Authors
+                .Include(a => a.ManagedBooks).FirstOrDefaultAsync(a => a.UserId.ToString() == userId);
+            if (author == null)
+            {
+                return false;
+            }
+            bookId = bookId.ToLower();
+            return author.ManagedBooks.Any(h => h.Id.ToString() == bookId);
+        }
+
         public async Task<bool> UserHasLikesAsync(string userId)
         {
             ApplicationUser? result = await this.dbContext

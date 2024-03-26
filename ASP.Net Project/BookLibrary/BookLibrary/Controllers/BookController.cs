@@ -241,7 +241,7 @@ namespace BookLibrary.Controllers
                 await authorService.AuthorExistsByUserId(User.GetId()!);
             if (!isUserAuthor)
             {
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Become", "Author");
             }
 
             try
@@ -267,7 +267,7 @@ namespace BookLibrary.Controllers
             }
 
             bool isBookLiked = await bookService.IsLikedAsync(id);
-            if (isBookLiked)
+            if (!isBookLiked)
             {
                 return RedirectToAction("All", "Book");
             }
@@ -290,7 +290,7 @@ namespace BookLibrary.Controllers
 
             }
 
-            return RedirectToAction("Mine", "House");
+            return RedirectToAction("Mine", "Book");
         }
         [HttpGet]
         [HttpGet]

@@ -19,6 +19,7 @@ namespace BookLibrary.Web.ViewModels.Book
         public string Publisher { get; set; }
         public string Description { get; set; }
         public string Category { get; set; }
+        public bool IsLiked { get; set; }
         public AuhtorInfoForBook authorInfoForBook { get; set; }
     }
 }

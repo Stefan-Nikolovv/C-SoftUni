@@ -14,5 +14,6 @@ namespace BookLibrary.Services.Data.Interfaces
         Task<bool> AuthorExistsPhoneNumberAsync(string phoneNumber);
         Task<bool> UserHasLikesAsync(string userId);
         Task Create(string userId, BecomeAuthorFormModel model);
+        Task<bool> HasBookWithIdAsync(string? userId, string bookId);
     }
 }
