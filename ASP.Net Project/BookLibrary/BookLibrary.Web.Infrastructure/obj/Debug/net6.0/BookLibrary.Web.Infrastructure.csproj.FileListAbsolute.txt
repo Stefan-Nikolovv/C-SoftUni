@@ -11,3 +11,15 @@ D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\refint\BookLibrary.Web.Infrastructure.dll
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.pdb
 D:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\ref\BookLibrary.Web.Infrastructure.dll
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\bin\Debug\net6.0\BookLibrary.Web.Infrastructure.deps.json
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\bin\Debug\net6.0\BookLibrary.Web.Infrastructure.dll
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\bin\Debug\net6.0\BookLibrary.Web.Infrastructure.pdb
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.AssemblyInfo.cs
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.dll
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\refint\BookLibrary.Web.Infrastructure.dll
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\BookLibrary.Web.Infrastructure.pdb
+C:\Csharp-SoftUni\ASP.Net Project\BookLibrary\BookLibrary.Web.Infrastructure\obj\Debug\net6.0\ref\BookLibrary.Web.Infrastructure.dll

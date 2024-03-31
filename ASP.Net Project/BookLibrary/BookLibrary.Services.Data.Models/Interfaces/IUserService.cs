@@ -12,5 +12,7 @@ namespace BookLibrary.Services.Data.Interfaces
         Task<MineUserViewModel> GetMineUser(string Id);
         Task<EditUserProfileFormModel> GetUserByIdForEditAsync(string Id);
         Task EditUserByIdAsync(EditUserProfileFormModel model, string userId);
+        Task<string> GetFullNameByIdAsync(string userId);
+        Task<string> GetFullNameByEmailAsync(string userEmail);
     }
 }

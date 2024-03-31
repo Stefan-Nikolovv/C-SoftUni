@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qieb7Tho9dUWfk66Rm8JWi9xIEVL0aOR/G/kpr/BtPU/ujNtAGLgw3aULUejvOgvBCDYUM4rRfgggBx4w5m8bA==",
+  "dgSpecHash": "CYQfsR8SZ3bffUIDnXC0Lxi6uWlHhx2nyEwTyXbPIKBoSkEEvhF28d3aRyxBMt39jipOpuT23biVbeSQY9Iqgg==",
   "success": true,
-  "projectFilePath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj",
+  "projectFilePath": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.ViewModels\\BookLibrary.Web.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",

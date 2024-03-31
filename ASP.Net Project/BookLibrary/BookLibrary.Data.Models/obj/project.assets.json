@@ -868,19 +868,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Stefan\\.nuget\\packages\\": {}
+    "C:\\Users\\Stefan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj",
+      "projectUniqueName": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj",
       "projectName": "BookLibrary.Data.Models",
-      "projectPath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj",
+      "projectPath": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj",
       "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\obj\\",
+      "outputPath": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -894,8 +899,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Common\\BookLibrary.Common.csproj": {
-              "projectPath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Common\\BookLibrary.Common.csproj"
+            "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Common\\BookLibrary.Common.csproj": {
+              "projectPath": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Common\\BookLibrary.Common.csproj"
             }
           }
         }
@@ -904,11 +909,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -940,7 +940,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

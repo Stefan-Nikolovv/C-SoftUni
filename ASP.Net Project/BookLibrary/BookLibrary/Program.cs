@@ -31,6 +31,13 @@ namespace BookLibrary
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddApplicationServices(typeof(IBookService));
+
+            builder.Services.ConfigureApplicationCookie(options =>
+            {
+                options.LoginPath = "/User/Login";
+                options.LogoutPath = "/User/Logout";
+                options.AccessDeniedPath = "/AccessDenied";
+            });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -52,7 +59,7 @@ namespace BookLibrary
 
             app.UseAuthentication();
             app.UseAuthorization();
-
+            
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");

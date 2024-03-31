@@ -43,6 +43,32 @@ namespace BookLibrary.Services.Data
             await dbContext.SaveChangesAsync();
         }
 
+        public async Task<string> GetFullNameByEmailAsync(string userEmail)
+        {
+            ApplicationUser? user = await this.dbContext
+         .Users
+         .FirstOrDefaultAsync(u => u.Email == userEmail);
+            if (user == null)
+            {
+                return string.Empty;
+            }
+
+            return $"{user.FirstName} {user.LastName}";
+        }
+
+        public async Task<string> GetFullNameByIdAsync(string userId)
+        {
+            ApplicationUser? user = await this.dbContext
+                .Users
+                .FirstOrDefaultAsync(u => u.Id.ToString() == userId);
+            if (user == null)
+            {
+                return string.Empty;
+            }
+
+            return $"{user.FirstName} {user.LastName}";
+        }
+
         public async Task<MineUserViewModel> GetMineUser(string Id)
         {
             ApplicationUser applicationUser = await this.dbContext

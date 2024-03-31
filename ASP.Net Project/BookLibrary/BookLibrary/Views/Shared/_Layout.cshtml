@@ -1,4 +1,19 @@
-﻿<!DOCTYPE html>
+﻿@using BookLibrary.Data.Models;
+@using BookLibrary.Services.Data.Interfaces;
+@using BookLibrary.Web.Infrastructure.Extentions;
+@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@inject IUserService UserService
+
+@inject IAuthorService AuthorService
+@{
+    bool isUserAuthor = await AuthorService.AuthorExistsByUserId(User.GetId()!);
+    string userFullName = await UserService.GetFullNameByEmailAsync(User.Identity?.Name!);
+}
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -27,7 +42,8 @@
 </head>
 <body>
 
-    </header> 
+
+   
     <header class="rn-header haeder-default header--sticky">
         <div class="container">
             <div class="header-inner">
@@ -63,17 +79,35 @@
                                                 </div>
                                                 <div class="col-lg-3 single-mega-item">
                                                     <ul class="mega-menu-item">
-                                                        <li><a asp-area="" asp-controller="User" asp-action="Login">Log In <i data-feather="log-in"></i></a></li>
-                                                        <li><a asp-area="" asp-controller="User" asp-action="Register">Registration <i data-feather="user-plus"></i></a></li>
-                                                        <li><a asp-area="" asp-controller="User" asp-action="EditProfile">Edit Profile<i data-feather="edit"></i></a></li>
+                                                        @if (SignInManager.IsSignedIn(User))
+                                                        {
+                                                            <li><a >Hello, @userFullName</a></li>
+                                                            @if (!isUserAuthor)
+                                                            {
+                                                                <li>
+                                                                    <a class="nav-link text-dark" asp-area="" asp-controller="Author" asp-action="Become">Become Author</a>
+                                                                </li>
+                                                            }
+                                                            <li><a asp-area="" asp-controller="User" asp-action="EditProfile">Edit Profile<i data-feather="edit"></i></a></li>
+                                                            <li><a asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home")">Logout <i data-feather="log-in"></i></a></li>
+
+                                                        }
+                                                        else
+                                                        {
+                                                            <li><a asp-area="" asp-controller="User" asp-action="Login">Log In <i data-feather="log-in"></i></a></li>
+                                                            <li><a asp-area="" asp-controller="User" asp-action="Register">Registration <i data-feather="user-plus"></i></a></li>
+                                                        }
+
+                                                        
+                                                       
                                                     </ul>
                                                 </div>
-                                                <div class="col-lg-3 single-mega-item">
+                                               @*  <div class="col-lg-3 single-mega-item">
                                                     <ul class="mega-menu-item">
                                                         <li><a href="product.html">Product<i data-feather="folder"></i></a></li>
                                                         <li><a href="product-details.html">Product Details <i data-feather="layout"></i></a></li>
                                                     </ul>
-                                                </div>
+                                                </div> *@
                                               
                                             </div>
                                         </div>

@@ -8464,6 +8464,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Profile\9b826345-57e6-419b-97f8-614f80ad04fe_BORIS_DALI.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Profile\ea9b7e2c-631d-4ba4-9f72-86b42f590611_Man's Searching For Meaning.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>BookLibrary</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BookLibrary</BasePath>
+      <RelativePath>Profile/ea9b7e2c-631d-4ba4-9f72-86b42f590611_Man's Searching For Meaning.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Profile\ea9b7e2c-631d-4ba4-9f72-86b42f590611_Man's Searching For Meaning.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Profile\ef3992a1-deda-4e26-af54-6c8046917471_BORIS_DALI.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>BookLibrary</SourceId>
