@@ -39,6 +39,7 @@ namespace BookLibrary.Services.Data
                                                                Image = h.Image,
                                                                Price = h.Price,
                                                               Publisher = h.Publisher,
+                                                              
                                                                
                                                            })
                                                            .ToArrayAsync();
@@ -62,6 +63,25 @@ namespace BookLibrary.Services.Data
                                                           })
                                                           .ToArrayAsync();
             return allUserBooks;
+        }
+
+        public async Task<IEnumerable<BookAllViewModel>> AllLickedBooksAsync(string userId)
+        {
+            IEnumerable<BookAllViewModel> allLickedBooks = await this.dbContext.Books
+                                                         .Where(h => h.isActive)
+                                                         .Where(h => h.LikerId.HasValue
+                                                         && h.LikerId.ToString() == userId)
+                                                         .Select(h => new BookAllViewModel()
+                                                         {
+                                                             Id = h.Id.ToString(),
+                                                             Title = h.Title,
+                                                             Image = h.Image,
+                                                             Price = h.Price,
+                                                             Publisher = h.Publisher,
+
+                                                         })
+                                                         .ToArrayAsync();
+            return allLickedBooks;
         }
 
         public async Task<string> CreateAndReturnIdAsync(BookFormModel model, string authroId, string fileName)

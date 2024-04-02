@@ -1,4 +1,5 @@
-﻿using BookLibrary.Services.Data.Interfaces;
+﻿using BookLibrary.Data.Models;
+using BookLibrary.Services.Data.Interfaces;
 using BookLibrary.Web.Infrastructure.Extentions;
 using BookLibrary.Web.ViewModels.Book;
 using BookLibraty.Services.Data.Models.Book;
@@ -147,10 +148,10 @@ namespace BookLibrary.Controllers
             }
             string authorId = await this.authorService.GetAuthorIdByUserIdAsync(this.User.GetId());
 
-            bool isAgentOwner = await this.bookService
+            bool isAuthorOwner = await this.bookService
                 .isAuthorWithIdOwnerOfHouseWithIdAsync(id, authorId);
 
-            if (!isAgentOwner)
+            if (!isAuthorOwner)
             {
                 return RedirectToAction("Become", "Author");
             }
@@ -159,6 +160,14 @@ namespace BookLibrary.Controllers
             {
                 model.Categories = await this.categoryService.GetAll();
                 return this.View(model);
+            }
+
+            if(uniqueFileName == null) 
+            {
+               BookDetailsViewModel book =  await this.bookService.GetBookDetailsAsync(id);
+
+                uniqueFileName = book.Image;
+
             }
             try
             {
@@ -255,7 +264,7 @@ namespace BookLibrary.Controllers
 
 
 
-            return RedirectToAction("Mine", "Book");
+            return RedirectToAction("Licked", "Book");
         }
         [HttpPost]
         public async Task<IActionResult> Unlike(string id)
@@ -273,9 +282,9 @@ namespace BookLibrary.Controllers
             }
 
 
-            bool isCurrentUserRenterOfTheHouse =
+            bool isCurrentUserLikerOfTheBook =
                 await bookService.IsLikedByUserWithIdAsync(id, User.GetId()!);
-            if (!isCurrentUserRenterOfTheHouse)
+            if (!isCurrentUserLikerOfTheBook)
             {
 
                 return RedirectToAction("Mine", "House");
@@ -290,9 +299,9 @@ namespace BookLibrary.Controllers
 
             }
 
-            return RedirectToAction("Mine", "Book");
+            return RedirectToAction("Licked", "Book");
         }
-        [HttpGet]
+       
         [HttpGet]
         public async Task<IActionResult> Mine()
         {
@@ -316,6 +325,34 @@ namespace BookLibrary.Controllers
                 {
                     books.AddRange(await this.bookService.AllByUserIdAsync(userId));
                 }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            return View(books);
+        }
+        [HttpGet]
+        public async Task<IActionResult> Licked()
+        {
+
+
+            List<BookAllViewModel> books = new List<BookAllViewModel>();
+
+            string userId = this.User.GetId();
+            bool isUserIsAuthor = await this.authorService.AuthorExistsByUserId(userId);
+
+            try
+            {
+
+                if (isUserIsAuthor)
+                {
+                    string authorId = await this.authorService.GetAuthorIdByUserIdAsync(userId);
+
+                    books.AddRange(await this.bookService.AllLickedBooksAsync(authorId));
+                }
+                
             }
             catch (Exception)
             {

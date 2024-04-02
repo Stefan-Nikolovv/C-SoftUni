@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Profile\\11a38974-750d-4b0c-adaa-94958903e86b_Screenshot (8).png"
     },
     {
+      "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\71c5798a-f4b7-4fb6-890e-87a781081870_photo-1543002588-bfa74002ed7e.avif",
+      "PackagePath": "staticwebassets\\Profile\\71c5798a-f4b7-4fb6-890e-87a781081870_photo-1543002588-bfa74002ed7e.avif"
+    },
+    {
       "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\9b826345-57e6-419b-97f8-614f80ad04fe_BORIS_DALI.jpg",
       "PackagePath": "staticwebassets\\Profile\\9b826345-57e6-419b-97f8-614f80ad04fe_BORIS_DALI.jpg"
     },
@@ -21,8 +25,16 @@
       "PackagePath": "staticwebassets\\Profile\\ef3992a1-deda-4e26-af54-6c8046917471_BORIS_DALI.jpg"
     },
     {
+      "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Profile\\faf79082-a5d6-4fff-80c5-19c00b93bb89_Man's Searching For Meaning.jpg",
+      "PackagePath": "staticwebassets\\Profile\\faf79082-a5d6-4fff-80c5-19c00b93bb89_Man's Searching For Meaning.jpg"
+    },
+    {
       "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\107aba19-e84b-41e9-95bc-fefb811b9576_Man's Search for Meaning.jpg",
       "PackagePath": "staticwebassets\\Uploads\\107aba19-e84b-41e9-95bc-fefb811b9576_Man's Search for Meaning.jpg"
+    },
+    {
+      "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\22556cdf-dac4-48a3-924a-5f0e2d931923_Man's Searching For Meaning.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\22556cdf-dac4-48a3-924a-5f0e2d931923_Man's Searching For Meaning.jpg"
     },
     {
       "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\2a46eb9a-6e55-42d3-8827-8059333c4b53_The First Seven.jpg",
@@ -31,6 +43,18 @@
     {
       "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\2fc29868-f418-40f3-9012-7e25cdd53a50_Man's Search for Meaning.jpg",
       "PackagePath": "staticwebassets\\Uploads\\2fc29868-f418-40f3-9012-7e25cdd53a50_Man's Search for Meaning.jpg"
+    },
+    {
+      "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\4b5aefcc-e07a-4846-befc-2f559192e7c7_photo-1541963463532-d68292c34b19.avif",
+      "PackagePath": "staticwebassets\\Uploads\\4b5aefcc-e07a-4846-befc-2f559192e7c7_photo-1541963463532-d68292c34b19.avif"
+    },
+    {
+      "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\50113d66-a4b9-4388-b335-d2af2d2cca54_Man's Searching For Meaning.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\50113d66-a4b9-4388-b335-d2af2d2cca54_Man's Searching For Meaning.jpg"
+    },
+    {
+      "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\58588e37-73e5-42f0-a9b8-006af9d41766_Man's Searching For Meaning.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\58588e37-73e5-42f0-a9b8-006af9d41766_Man's Searching For Meaning.jpg"
     },
     {
       "Id": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary\\wwwroot\\Uploads\\667e3b0d-a5b9-408f-ab8d-a3a01992dc88_Screenshot (1).png",

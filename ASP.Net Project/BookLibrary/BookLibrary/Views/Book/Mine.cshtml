@@ -7,8 +7,8 @@
 @inject IUserService UserService
 @{
     MineUserViewModel user = await this.UserService.GetMineUser(this.User.GetId()!);
-    // bool isUserAgent = await this.AgentService.AgentExistsByUserId(this.User.GetId()!);
-    // bool isAgentOwnerOfTheHouse = await this.AgentService.HasHouseWithIdAsync(this.User.GetId()!, Model.Id);
+    // bool isUserAuthor = await this.AgentService.AgentExistsByUserId(this.User.GetId()!);
+    // bool isAuthorOwnerOfTheHouse = await this.AgentService.HasHouseWithIdAsync(this.User.GetId()!, Model.Id);
     // bool isHouseRentedByUser = await this.BookService.IsRentedByUserWithIdAsync(Model.Id, this.User.GetId()!);
 }
 

@@ -20,5 +20,6 @@ namespace BookLibrary.Services.Data.Interfaces
         Task<bool> IsLikedByUserWithIdAsync(string bookId, string userId);
         Task<IEnumerable<BookAllViewModel>> AllByAuthorIdAsync(string authorId);
         Task<IEnumerable<BookAllViewModel>> AllByUserIdAsync(string userId);
+        Task<IEnumerable<BookAllViewModel>> AllLickedBooksAsync(string userId);
     }
 }

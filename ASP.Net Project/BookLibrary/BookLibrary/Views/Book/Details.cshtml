@@ -108,32 +108,36 @@
                         <div class="tab-wrapper-one">
                             <nav class="tab-button-one">
                                 <div class="nav nav-tabs" id="nav-tab">
-                                    @if (this.User.Identity?.IsAuthenticated ?? false)
+                                    @if (User.Identity?.IsAuthenticated ?? false)
                                     {
-                                        
-                                   
-                                    @if (!Model.IsLiked)
-                                    {
-                                        if (!isUserAuhtor )
+                                      
+
+                                        @if (!Model.IsLiked)
                                         {
-                                            <form asp-controller="Book" asp-action="Like"
-                                                  asp-route-id="@Model.Id" method="post">
-                                                <input class="nav-link" type="submit" value="Like" />
-                                            </form>
+                                            if (isUserAuhtor && !isAuthorOwnerOfTheBook)
+                                            {
+
+                                                <form asp-controller="Book" asp-action="Like"
+                                                      asp-route-id="@Model.Id" method="post">
+                                                    <input class="nav-link" type="submit" value="Like" />
+                                                </form>
+                                            }
+                                        }
+                                        else
+                                        {
+                                            @if (isUserAuhtor && (isBookLikedByUser && !isAuthorOwnerOfTheBook))
+                                            {
+
+                                                <form asp-controller="Book" asp-action="Unlike"
+                                                      asp-route-id="@Model.Id" method="post">
+                                                    <input class="nav-link" type="submit" value="Unlike" />
+                                                </form>
+                                            }
                                         }
                                     }
-                                    else
-                                    {
-                                        @if (!isUserAuhtor && isBookLikedByUser)
-                                        {
-                                            <form asp-controller="Book" asp-action="Unlike"
-                                                  asp-route-id="@Model.Id" method="post">
-                                                <input class="nav-link" type="submit" value="Unlike" />
-                                            </form>
-                                        }
-                                       
-                                    }
-                                    }
+
+                                    
+                                    
                        
                                 </div>
                             </nav>

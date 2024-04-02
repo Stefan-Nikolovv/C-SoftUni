@@ -14,5 +14,6 @@ namespace BookLibrary.Web.ViewModels.Book
         public string Image { get; set; }
         public decimal Price { get; set; }
         public string Publisher { get; set; }
+        
     }
 }
