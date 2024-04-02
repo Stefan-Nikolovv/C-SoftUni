@@ -348,9 +348,8 @@ namespace BookLibrary.Controllers
 
                 if (isUserIsAuthor)
                 {
-                    string authorId = await this.authorService.GetAuthorIdByUserIdAsync(userId);
-
-                    books.AddRange(await this.bookService.AllLickedBooksAsync(authorId));
+                    
+                    books.AddRange(await this.bookService.AllLickedBooksAsync(userId));
                 }
                 
             }

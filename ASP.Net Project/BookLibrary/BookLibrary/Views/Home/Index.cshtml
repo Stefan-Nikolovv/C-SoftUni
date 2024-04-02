@@ -1,4 +1,7 @@
-﻿@{
+﻿@using BookLibrary.Web.ViewModels.Home;
+@model IEnumerable<IndexViewModel>
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -7,51 +10,30 @@
         <div class="row align-items-center">
             <div class="col-xl-6 col-lg-6 col-md-12 order-2 order-lg-1 mt_md--40 mt_sm--40">
                 <div class="sldier-content">
-                    <span class="title-badge" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">Nuron Marketplace</span>
-                    <h2 class="title" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">Search your rare NFT's by world <br> class artists</h2>
+                    <span class="title-badge" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">Book place</span>
+                    <h2 class="title" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">Search your rare Book's by world <br> class artists</h2>
                     <p class="banner-disc-one" data-sal="slide-up" data-sal-delay="250" data-sal-duration="800">
-                        Where Bitcoin was hailed as the digital answer to currency, NFTs
+                        Where Books was someones stories, books
                         <br> are now being touted as the digital answer to collectables.
                     </p>
                     <div class="button-group">
-                        <a class="btn btn-large btn-primary" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800" href="#">Get Started</a>
-                        <a class="btn btn-large btn-primary-alta" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800" href="create.html">Create</a>
+                        <a class="btn btn-large btn-primary" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800" >Get Started</a>
+                        <a class="btn btn-large btn-primary-alta" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800" asp-area="" asp-controller="Book" asp-action="Add">Create</a>
                     </div>
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-12 order-1 order-lg-2">
                 <div class="slider slick-activation-04">
-                    <div class="slider-thumbnail thumbnail-overlay">
-                        <a href="product-details.html"><img src="assets/images/banner/banner-04.jpg" alt="NFT_portfolio"></a>
-                        <div class="read-wrapper">
-                            <h5>Sukanli</h5>
-                            <span>Bordcast</span>
+                    @foreach (var book in Model)
+                    {
+                        <div class="slider-thumbnail thumbnail-overlay">
+                            <a asp-controller="Book" asp-action="Details" asp-route-id="@book.Id"><img src="~/Uploads/@book.Image" alt="NFT_portfolio"></a>
+                            <div class="read-wrapper">
+                               @*  <h5>Sukanli</h5> *@
+                                <span>@book.Title</span>
+                            </div>
                         </div>
-                    </div>
-
-                    <div class="slider-thumbnail thumbnail-overlay">
-                        <a href="product-details.html"><img src="assets/images/banner/banner-01.jpg" alt="NFT_portfolio"></a>
-                        <div class="read-wrapper">
-                            <h5><a href="product-details.html">HasLivbe</a></h5>
-                            <span>Md. Master</span>
-                        </div>
-                    </div>
-
-                    <div class="slider-thumbnail thumbnail-overlay">
-                        <a href="product-details.html"><img src="assets/images/banner/banner-02.jpg" alt="NFT_portfolio"></a>
-                        <div class="read-wrapper">
-                            <h5><a href="product-details.html">Ladicon Mos</a></h5>
-                            <span>John Lee</span>
-                        </div>
-                    </div>
-
-                    <div class="slider-thumbnail thumbnail-overlay">
-                        <a href="product-details.html"><img src="assets/images/banner/banner-03.jpg" alt="NFT_portfolio"></a>
-                        <div class="read-wrapper">
-                            <h5>Masters</h5>
-                            <span>Keenlee</span>
-                        </div>
-                    </div>
+                    }
                 </div>
             </div>
         </div>
@@ -63,15 +45,13 @@
     <div class="container">
         <div class="row mb--50">
             <div class="col-lg-12">
-                <div class="section-title">
-                    <h3 class="title mb--0 live-bidding-title" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">Live Bidding</h3>
-                </div>
+                
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="banner-one-slick slick-activation-03 slick-arrow-style-one rn-slick-dot-style slick-gutter-15">
-                    <!-- start single product -->
+                   @*  <!-- start single product -->
                     <div class="single-slide-product">
                         <div class="product-style-one">
                             <div class="card-thumbnail">
@@ -451,7 +431,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- end single product -->
+                    <!-- end single product --> *@
 
                 </div>
             </div>
@@ -460,19 +440,102 @@
 </div>
 <!-- Explore Style Carousel End-->
 <!-- Start product area -->
-<div class="rn-product-area rn-section-gapTop">
-    <div class="container">
-        <div class="row mb--30 align-items-center">
-            <div class="col-12">
-                <h3 class="title mb--0" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
-                    Explore
-                    Product
-                </h3>
+
+  
+    <div class="rn-service-area rn-section-gapTop">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mb--50">
+                    <h3 class="title" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">Create and sell your NFTs</h3>
+                </div>
+            </div>
+            <div class="row g-5">
+                <!-- start single service -->
+                <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div data-sal="slide-up" data-sal-delay="150" data-sal-duration="800" class="rn-service-one color-shape-7">
+                        <div class="inner">
+                            <div class="icon">
+                                <img src="assets/images/icons/shape-7.png" alt="Shape">
+                            </div>
+                            <div class="subtitle">Step-01</div>
+                            <div class="content">
+                            <h4 class="title"><a asp-controller ="User" asp-action="Register" >Set up your account</a></h4>
+                                <p class="description">
+                                    Powerful features and inclusions, which makes Book standout,
+                                    easily customizable and scalable.
+                                </p>
+                            <a class="read-more-button" asp-controller="User" asp-action="Register"><i class="feather-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    <a class="over-link" asp-controller="User" asp-action="Register"></a>
+                    </div>
+                </div>
+                <!-- End single service -->
+                <!-- start single service -->
+                <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div data-sal="slide-up" data-sal-delay="200" data-sal-duration="800" class="rn-service-one color-shape-1">
+                        <div class="inner">
+                            <div class="icon">
+                                <img src="assets/images/icons/shape-1.png" alt="Shape">
+                            </div>
+                            <div class="subtitle">Step-02</div>
+                            <div class="content">
+                            <h4 class="title"><a asp-controller="Author" asp-action="Become">Became an Author</a></h4>
+                                <p class="description">
+                                    A great collection of beautiful website templates for your need.
+                                    Choose the best suitable template.
+                                </p>
+                            <a class="read-more-button" asp-controller="Author" asp-action="Become"><i class="feather-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    <a class="over-link" asp-controller="Author" asp-action="Become"></a>
+                    </div>
+                </div>
+                <!-- End single service -->
+                <!-- start single service -->
+                <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div data-sal="slide-up" data-sal-delay="250" data-sal-duration="800" class="rn-service-one color-shape-5">
+                        <div class="inner">
+                            <div class="icon">
+                                <img src="assets/images/icons/shape-5.png" alt="Shape">
+                            </div>
+                            <div class="subtitle">Step-03</div>
+                            <div class="content">
+                            <h4 class="title"><a asp-controller="Book" asp-action="Add">Add your First Book</a></h4>
+                                <p class="description">
+                                    We've made the template fully responsive, so it looks great on
+                                    all devices: desktop, tablets and.
+                                </p>
+                            <a class="read-more-button" asp-controller="Book" asp-action="Add"><i class="feather-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    <a class="over-link" asp-controller="Book" asp-action="Add"></a>
+                    </div>
+                </div>
+                <!-- End single service -->
+                <!-- start single service -->
+                <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div data-sal="slide-up" data-sal-delay="300" data-sal-duration="800" class="rn-service-one color-shape-6">
+                        <div class="inner">
+                            <div class="icon">
+                                <img src="assets/images/icons/shape-6.png" alt="Shape">
+                            </div>
+                            <div class="subtitle">Step-04</div>
+                            <div class="content">
+                            <h4 class="title"><a asp-controller="Book" asp-action="All">Like your first Book!</a></h4>
+                                <p class="description">
+                                    I throw myself down among the tall grass by the stream as I
+                                    lie close to the earth Book's.
+                                </p>
+                            <a class="read-more-button" asp-controller="Book" asp-action="All"><i class="feather-arrow-right"></i></a>
+                            </div>
+                    </div><a asp-controller="Book" asp-action="All"></a>
+                    </div>
+                </div>
+                <!-- End single service -->
             </div>
         </div>
-
-      
-
+    </div>
 
 
 
@@ -486,15 +549,15 @@
     <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
         <div class="modal-content share-wrapper">
             <div class="modal-header share-area">
-                <h5 class="modal-title">Share this NFT</h5>
+                <h5 class="modal-title">Share this Book</h5>
             </div>
             <div class="modal-body">
                 <ul class="social-share-default">
-                    <li><a href="#"><span class="icon"><i data-feather="facebook"></i></span><span class="text">facebook</span></a></li>
-                    <li><a href="#"><span class="icon"><i data-feather="twitter"></i></span><span class="text">twitter</span></a></li>
-                    <li><a href="#"><span class="icon"><i data-feather="linkedin"></i></span><span class="text">linkedin</span></a></li>
-                    <li><a href="#"><span class="icon"><i data-feather="instagram"></i></span><span class="text">instagram</span></a></li>
-                    <li><a href="#"><span class="icon"><i data-feather="youtube"></i></span><span class="text">youtube</span></a></li>
+                    <li><a ><span class="icon"><i data-feather="facebook"></i></span><span class="text">facebook</span></a></li>
+                    <li><a ><span class="icon"><i data-feather="twitter"></i></span><span class="text">twitter</span></a></li>
+                    <li><a ><span class="icon"><i data-feather="linkedin"></i></span><span class="text">linkedin</span></a></li>
+                    <li><a ><span class="icon"><i data-feather="instagram"></i></span><span class="text">instagram</span></a></li>
+                    <li><a ><span class="icon"><i data-feather="youtube"></i></span><span class="text">youtube</span></a></li>
                 </ul>
             </div>
         </div>
@@ -510,15 +573,15 @@
                 <div class="widget-content-wrapper">
                     <div class="footer-left">
                         <div class="logo-thumbnail logo-custom-css">
-                            <a class="logo-light" href="index.html"><img src="assets/images/logo/logo-white.png" alt="nft-logo"></a>
-                            <a class="logo-dark" href="index.html"><img src="assets/images/logo/logo-dark.png" alt="nft-logo"></a>
+                            <a class="logo-light"><img src="assets/images/logo/logo-dark.png" alt="nft-logo"></a>
+                            <a class="logo-dark"><img src="assets/images/logo/logo-white.png" alt="nft-logo"></a>
                         </div>
                         <p class="rn-footer-describe">
-                            Created with the collaboration of over 60 of the world's best Nuron Artists.
+                            Created with the collaboration of over 60 of the world's best Book Collection.
                         </p>
                     </div>
                     <div class="widget-bottom mt--40 pt--40">
-                        <h6 class="title">Get The Latest Nuron Updates </h6>
+                        <h6 class="title">Get The Latest Book Updates </h6>
                         <div class="input-group">
                             <input type="text" class="form-control bg-color--2" placeholder="Your username" aria-label="Recipient's username">
                             <div class="input-group-append">
@@ -536,13 +599,13 @@
                 <div class="footer-widget widget-quicklink">
                     <h6 class="widget-title">Nuron</h6>
                     <ul class="footer-list-one">
-                        <li class="single-list"><a href="#">Protocol Explore</a></li>
-                        <li class="single-list"><a href="#">System Token</a></li>
-                        <li class="single-list"><a href="#">Otimize Time</a></li>
-                        <li class="single-list"><a href="#">Visual Checking</a></li>
-                        <li class="single-list"><a href="#">Fadeup System</a></li>
-                        <li class="single-list"><a href="#">Activity Log</a></li>
-                        <li class="single-list"><a href="#">System Auto Since</a></li>
+                        <li class="single-list"><a >Protocol Explore</a></li>
+                        <li class="single-list"><a >System Token</a></li>
+                        <li class="single-list"><a >Otimize Time</a></li>
+                        <li class="single-list"><a >Visual Checking</a></li>
+                        <li class="single-list"><a >Fadeup System</a></li>
+                        <li class="single-list"><a >Activity Log</a></li>
+                        <li class="single-list"><a >System Auto Since</a></li>
                     </ul>
                 </div>
             </div>
@@ -551,13 +614,13 @@
                 <div class="footer-widget widget-information">
                     <h6 class="widget-title">Information</h6>
                     <ul class="footer-list-one">
-                        <li class="single-list"><a href="#">Market Explore</a></li>
-                        <li class="single-list"><a href="#">Ready Token</a></li>
-                        <li class="single-list"><a href="#">Main Option</a></li>
-                        <li class="single-list"><a href="#">Product Checking</a></li>
-                        <li class="single-list"><a href="blog.html">Blog Grid</a></li>
-                        <li class="single-list"><a href="about.html">About Us</a></li>
-                        <li class="single-list"><a href="#">Fix Bug </a></li>
+                        <li class="single-list"><a >Market Explore</a></li>
+                        <li class="single-list"><a >Ready Token</a></li>
+                        <li class="single-list"><a >Main Option</a></li>
+                        <li class="single-list"><a >Product Checking</a></li>
+                        <li class="single-list"><a >Blog Grid</a></li>
+                        <li class="single-list"><a >About Us</a></li>
+                        <li class="single-list"><a >Fix Bug </a></li>
                     </ul>
                 </div>
             </div>
@@ -574,21 +637,21 @@
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-12 col-sm-12">
                 <div class="copyright-left">
-                    <span>©2022 Nuron, Inc. All rights reserved.</span>
+                    <span>©2024 BookLibrary, Inc. All rights reserved.</span>
                     <ul class="privacy">
-                        <li><a href="terms-condition.html">Terms</a></li>
-                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                        <li><a >Terms</a></li>
+                            <li><a asp-controller="Home" asp-action="Privacy">Privacy Policy</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12">
                 <div class="copyright-right">
                     <ul class="social-copyright">
-                        <li><a href="#"><i data-feather="facebook"></i></a></li>
-                        <li><a href="#"><i data-feather="twitter"></i></a></li>
-                        <li><a href="#"><i data-feather="instagram"></i></a></li>
-                        <li><a href="#"><i data-feather="linkedin"></i></a></li>
-                        <li><a href="#"><i data-feather="mail"></i></a></li>
+                        <li><a ><i data-feather="facebook"></i></a></li>
+                        <li><a ><i data-feather="twitter"></i></a></li>
+                        <li><a ><i data-feather="instagram"></i></a></li>
+                        <li><a ><i data-feather="linkedin"></i></a></li>
+                        <li><a ><i data-feather="mail"></i></a></li>
                     </ul>
                 </div>
             </div>

@@ -12401,7 +12401,7 @@ span.rn-badge-card::before {
   display: block;
 }
 .logo-thumbnail img {
-  max-height: 35px;
+  max-height: 100px;
   object-fit: cover;
 }
 

@@ -1,4 +1,6 @@
 ﻿using BookLibrary.Models;
+using BookLibrary.Services.Data.Interfaces;
+using BookLibrary.Web.ViewModels.Home;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -6,16 +8,22 @@ namespace BookLibrary.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IBookService bookService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IBookService bookService)
         {
-            _logger = logger;
+            this.bookService = bookService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            
+            IEnumerable<IndexViewModel> viewModel =
+                await bookService.LastThreeBooksAsync();
+
+
+
+            return View(viewModel);
         }
 
         public IActionResult Home()

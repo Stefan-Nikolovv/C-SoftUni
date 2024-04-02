@@ -4,6 +4,7 @@ using BookLibrary.Services.Data.Interfaces;
 using BookLibrary.Web.ViewModels.Author;
 using BookLibrary.Web.ViewModels.Book;
 using BookLibrary.Web.ViewModels.Book.Enums;
+using BookLibrary.Web.ViewModels.Home;
 using BookLibraty.Services.Data.Models.Book;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.Internal;
@@ -288,6 +289,24 @@ namespace BookLibrary.Services.Data
         {
             Book book = await this.dbContext.Books.FirstAsync(h => h.Id.ToString() == bookId);
             return book.LikerId.HasValue && book.LikerId.ToString() == userId;
+        }
+
+        public async Task<IEnumerable<IndexViewModel>> LastThreeBooksAsync()
+        {
+            IEnumerable<IndexViewModel> lastThreeBooks = await dbContext
+                .Books
+                .Where(h => h.isActive)
+                .OrderByDescending(h => h.CreatedOn)
+                .Take(3)
+                .Select(x =>  new IndexViewModel()
+                {
+                    Id = x.Id.ToString(),
+                    Title = x.Title,
+                    Image = x.Image,
+                })
+                .ToArrayAsync();
+
+            return lastThreeBooks;
         }
 
         public async Task LikeBookAsync(string bookId, string userId)

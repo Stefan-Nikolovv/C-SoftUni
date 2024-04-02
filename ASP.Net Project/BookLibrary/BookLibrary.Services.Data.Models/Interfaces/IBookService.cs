@@ -1,4 +1,5 @@
 ﻿using BookLibrary.Web.ViewModels.Book;
+using BookLibrary.Web.ViewModels.Home;
 using BookLibraty.Services.Data.Models.Book;
 
 
@@ -21,5 +22,6 @@ namespace BookLibrary.Services.Data.Interfaces
         Task<IEnumerable<BookAllViewModel>> AllByAuthorIdAsync(string authorId);
         Task<IEnumerable<BookAllViewModel>> AllByUserIdAsync(string userId);
         Task<IEnumerable<BookAllViewModel>> AllLickedBooksAsync(string userId);
+        Task<IEnumerable<IndexViewModel>> LastThreeBooksAsync();
     }
 }
