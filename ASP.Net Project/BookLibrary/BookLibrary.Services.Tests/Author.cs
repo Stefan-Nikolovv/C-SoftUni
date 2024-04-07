@@ -3,53 +3,58 @@ namespace BookLibrary.Services.Tests
     using NUnit.Framework;
     using Moq;
     using System.Threading.Tasks;
-    using BookLibrary.Services;
+   
     using Microsoft.EntityFrameworkCore;
     using System.Linq;
-
+  
+    using static DatabaseSeeder;
  
-        [TestFixture]
+   
+    using global::BookLibrary.Data;
+    using global::BookLibrary.Services.Data;
+
+    [TestFixture]
         public class AuthorServiceTests
         {
-        private DbContextOptions<BookLibraryDbContext> dbOptions;
-        private BookLibraryDbContext dbContext;
+        private DbContextOptions<BookDbContext> dbOptions;
+        private BookDbContext dbContext;
 
-        private IAuthorService agentService;
+        private AuthorService authorService;
 
         [OneTimeSetUp]
         public void OneTimeSetUp()
         {
-            this.dbOptions = new DbContextOptionsBuilder<BookLibraryDbContext>()
+            this.dbOptions = new DbContextOptionsBuilder<BookDbContext>()
                 .UseInMemoryDatabase("BookLibraryInMemory" + Guid.NewGuid().ToString())
                 .Options;
-            this.dbContext = new BookLibraryDbContext(this.dbOptions, false);
+            this.dbContext = new BookDbContext(this.dbOptions, false);
 
             this.dbContext.Database.EnsureCreated();
             SeedDatabase(this.dbContext);
 
-            this.agentService = new AuthorService(this.dbContext);
+            this.authorService = new AuthorService(this.dbContext);
         }
         [Test]
             public async Task AuthorExistsByUserId_ReturnsTrueIfAuthorExists()
             {
                 // Arrange
-                var options = new DbContextOptionsBuilder<ApplicationDbContext>()
+                var options = new DbContextOptionsBuilder<BookDbContext>()
                     .UseInMemoryDatabase(databaseName: "AuthorExistsByUserIdTest")
                     .Options;
 
-                using (var context = new ApplicationDbContext(options))
+                using (var context = new BookDbContext(options))
                 {
-                    var author = new Author { UserId = "userId" }; // Provide appropriate user id
-                    context.Authors.Add(author);
+                    
+                    context.Authors.Add(DatabaseSeeder.AuthorUser);
                     context.SaveChanges();
                 }
 
-                using (var context = new ApplicationDbContext(options))
+                using (var context = new BookDbContext(options))
                 {
                     var authorService = new AuthorService(context);
 
                     // Act
-                    var result = await authorService.AuthorExistsByUserId("userId");
+                    var result = await authorService.AuthorExistsByUserId(DatabaseSeeder.AuthorUser.UserId.ToString());
 
                     // Assert
                     Assert.IsTrue(result);
@@ -60,16 +65,16 @@ namespace BookLibrary.Services.Tests
             public async Task AuthorExistsByUserId_ReturnsFalseIfAuthorDoesNotExist()
             {
                 // Arrange
-                var options = new DbContextOptionsBuilder<ApplicationDbContext>()
+                var options = new DbContextOptionsBuilder<BookDbContext>()
                     .UseInMemoryDatabase(databaseName: "AuthorExistsByUserIdTest")
                     .Options;
 
-                using (var context = new ApplicationDbContext(options))
+                using (var context = new BookDbContext(options))
                 {
                     var authorService = new AuthorService(context);
 
                     // Act
-                    var result = await authorService.AuthorExistsByUserId("userId");
+                    var result = await authorService.AuthorExistsByUserId(AppTestUser.Id.ToString());
 
                     // Assert
                     Assert.IsFalse(result);
@@ -82,24 +87,23 @@ namespace BookLibrary.Services.Tests
             public async Task UserHasLikesAsync_ReturnsTrueIfUserHasLikes()
             {
                 // Arrange
-                var options = new DbContextOptionsBuilder<ApplicationDbContext>()
+                var options = new DbContextOptionsBuilder<BookDbContext>()
                     .UseInMemoryDatabase(databaseName: "UserHasLikesAsyncTest")
                     .Options;
 
-                using (var context = new ApplicationDbContext(options))
+                using (var context = new BookDbContext(options))
                 {
-                    var user = new ApplicationUser { Id = "userId" }; // Provide appropriate user id
-                    user.LikedBooks.Add(new Book()); // Add a liked book
-                    context.Users.Add(user);
-                    context.SaveChanges();
-                }
 
-                using (var context = new ApplicationDbContext(options))
-                {
+                    AppTestUser.LikedBooks.Add(DatabaseSeeder.Book); // Add a liked book
+                    context.Users.Add(AppTestUser);
+                    context.SaveChanges();
+                
+
+              
                     var authorService = new AuthorService(context);
 
                     // Act
-                    var result = await authorService.UserHasLikesAsync("userId");
+                    var result = await authorService.UserHasLikesAsync(AppTestUser.Id.ToString());
 
                     // Assert
                     Assert.IsTrue(result);
@@ -110,16 +114,16 @@ namespace BookLibrary.Services.Tests
             public async Task UserHasLikesAsync_ReturnsFalseIfUserDoesNotHaveLikes()
             {
                 // Arrange
-                var options = new DbContextOptionsBuilder<ApplicationDbContext>()
+                var options = new DbContextOptionsBuilder<BookDbContext>()
                     .UseInMemoryDatabase(databaseName: "UserHasLikesAsyncTest")
                     .Options;
 
-                using (var context = new ApplicationDbContext(options))
+                using (var context = new BookDbContext(options))
                 {
                     var authorService = new AuthorService(context);
 
                     // Act
-                    var result = await authorService.UserHasLikesAsync("userId");
+                    var result = await authorService.UserHasLikesAsync(AppTestUser.Id.ToString());
 
                     // Assert
                     Assert.IsFalse(result);

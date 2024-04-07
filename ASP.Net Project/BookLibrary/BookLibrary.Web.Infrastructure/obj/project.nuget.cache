@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wcEHrIdS0HRtAepmOdLM0SkdsFnlbrD3l89HirZjP4Kg5ghdqnLAuLms2zHmSlhhWHBLJS7nfd1esEu2ho6VUw==",
+  "dgSpecHash": "RPzdE20sk0KNUZmFgzdntVdMtT2JFAjEEh3Oc3uLmcaEGtlgDTCZxZuZKE9TlEJuEvB43zmJwYOUnLsofUa3HQ==",
   "success": true,
-  "projectFilePath": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.Infrastructure\\BookLibrary.Web.Infrastructure.csproj",
+  "projectFilePath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Web.Infrastructure\\BookLibrary.Web.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],

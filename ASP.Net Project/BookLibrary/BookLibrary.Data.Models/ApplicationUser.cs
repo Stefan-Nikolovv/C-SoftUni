@@ -27,9 +27,6 @@ namespace BookLibrary.Data.Models
 
         public virtual ICollection<Book> LikedBooks { get; set; }
 
-        public ApplicationUser[] ToArray()
-        {
-            throw new NotImplementedException();
-        }
+
     }
 }

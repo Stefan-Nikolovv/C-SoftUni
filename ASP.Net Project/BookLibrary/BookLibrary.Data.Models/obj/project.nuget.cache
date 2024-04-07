@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fbVdirk9xVVyEu1YcdstxL7q7WpC/dQyfelAHcI2sLoO+iXk84G43MtboQBbxT7PdSn1VOQRdqgVVUhHM1BCbw==",
+  "dgSpecHash": "7w7Sr51+qMuXEkjeVqWKGA7jjbvc4ujku+siVeMzlaJHjVmtiDZFqtT37Qlu09KwF5QQGxm3lzP4TkX85c3Jdg==",
   "success": true,
-  "projectFilePath": "C:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj",
+  "projectFilePath": "D:\\Csharp-SoftUni\\ASP.Net Project\\BookLibrary\\BookLibrary.Data.Models\\BookLibrary.Data.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.26\\microsoft.aspnetcore.cryptography.internal.6.0.26.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.26\\microsoft.aspnetcore.cryptography.keyderivation.6.0.26.nupkg.sha512",
