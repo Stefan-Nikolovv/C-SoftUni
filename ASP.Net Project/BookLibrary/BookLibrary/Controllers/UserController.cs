@@ -113,6 +113,16 @@ namespace BookLibrary.Controllers
             return Redirect(model.ReturnUrl ?? "/Home/Index");
         }
         [HttpGet]
+        
+        public IActionResult Logout(string? returnUrl = null)
+        {
+            
+            signInManager.SignOutAsync();
+
+
+            return Redirect(returnUrl ?? "/Home/Index");
+        }
+        [HttpGet]
         [Authorize]
         public async Task<IActionResult> EditProfile()
         {
