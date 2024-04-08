@@ -116,7 +116,7 @@ namespace BookLibrary.Controllers
             string authorId = await this.authorService.GetAuthorIdByUserIdAsync(this.User.GetId());
 
             bool isAuthorOwner = await this.bookService
-                .isAuthorWithIdOwnerOfHouseWithIdAsync(id, authorId);
+                .isAuthorWithIdOwnerOfBookWithIdAsync(id, authorId);
 
             if (!isAuthorOwner)
             {
@@ -149,7 +149,7 @@ namespace BookLibrary.Controllers
             string authorId = await this.authorService.GetAuthorIdByUserIdAsync(this.User.GetId());
 
             bool isAuthorOwner = await this.bookService
-                .isAuthorWithIdOwnerOfHouseWithIdAsync(id, authorId);
+                .isAuthorWithIdOwnerOfBookWithIdAsync(id, authorId);
 
             if (!isAuthorOwner)
             {
@@ -212,7 +212,7 @@ namespace BookLibrary.Controllers
             string authorId = await this.authorService.GetAuthorIdByUserIdAsync(this.User.GetId());
 
             bool isAhtorOwner = await this.bookService
-                .isAuthorWithIdOwnerOfHouseWithIdAsync(id, authorId);
+                .isAuthorWithIdOwnerOfBookWithIdAsync(id, authorId);
 
             if (!isAhtorOwner)
             {

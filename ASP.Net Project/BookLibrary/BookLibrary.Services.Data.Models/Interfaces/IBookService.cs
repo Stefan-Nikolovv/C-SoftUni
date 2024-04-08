@@ -10,8 +10,8 @@ namespace BookLibrary.Services.Data.Interfaces
         Task<AllBooksFilteredAndPagedServiceModel> GetAllBooksFilteredAndPaged(AllBooksQueryModel queryModel);
         Task<string> CreateAndReturnIdAsync(BookFormModel model, string agentId , string fileName);
         Task<bool> ExistByIdAsync(string bookId);
-        Task<bool> isAuthorWithIdOwnerOfHouseWithIdAsync(string houseId, string ownerId);
-        Task<BookFormModel> GetBookForEditByIdAsync(string houseId );
+        Task<bool> isAuthorWithIdOwnerOfBookWithIdAsync(string bookId, string ownerId);
+        Task<BookFormModel> GetBookForEditByIdAsync(string bookId);
         Task EditBookByIdAsync(string id, BookFormModel model , string fileName);
         Task<BookDetailsViewModel> GetBookDetailsAsync(string bookId);
         Task GetBookByIdAndDelete(string id);   

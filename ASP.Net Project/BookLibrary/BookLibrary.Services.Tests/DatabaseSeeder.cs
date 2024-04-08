@@ -2,6 +2,7 @@
 using BookLibrary.Data.Models;
 
 
+
 namespace BookLibrary.Services.Tests
 {
     public static class DatabaseSeeder
@@ -59,8 +60,9 @@ namespace BookLibrary.Services.Tests
                 Image = "2a46eb9a-6e55-42d3-8827-8059333c4b53_The First Seven.jpg"
 
             };
-
+           
             
+
             dbContext.Users.Add(AppTestUser);
             dbContext.Authors.Add(AuthorUser);
             dbContext.Books.Add(Book);

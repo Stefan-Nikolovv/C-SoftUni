@@ -157,24 +157,35 @@ namespace BookLibrary.Controllers
             {
                 return RedirectToAction("Become", "Author");
             }
+
+            if(model.ConfirmPassword != model.Password)
+            {
+                ModelState.AddModelError(model.ConfirmPassword, "Password must be the same");
+            }
             if(model.Password != null)
             {
                 model.Password = PasswordHasher(model.Password);
             }
-            try
-            {
-                
-                model.ProfilePicture = newPic;
-                await this.userService.EditUserByIdAsync(model, this.User.GetId());
+            if(ModelState.IsValid) {
+                try
+                {
+
+                    model.ProfilePicture = newPic;
+                    await this.userService.EditUserByIdAsync(model, this.User.GetId());
+                    return RedirectToAction("Mine", "Book");
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
+
             }
-            catch (Exception)
-            {
+            
+            EditUserProfileFormModel modelForEdit = await this.userService.GetUserByIdForEditAsync(this.User.GetId()!);
+            return View(modelForEdit);
 
-                throw;
-            }
-
-
-            return RedirectToAction("Mine", "Book");
+           
         }
         private string ProcessUploadedFile(IFormFile file)
         {

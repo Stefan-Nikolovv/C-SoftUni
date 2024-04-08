@@ -115,7 +115,7 @@ namespace BookLibrary.Services.Data
                 this.dbContext
                 .Books
                 .Where(h => h.isActive)
-                .FirstAsync(h => h.Id.ToString() == id);
+                .FirstAsync(h => h.Id.ToString().ToLower() == id.ToLower());
 
             if (bookForm != null)
             {
@@ -235,13 +235,13 @@ namespace BookLibrary.Services.Data
             };
         }
 
-        public async Task<BookFormModel> GetBookForEditByIdAsync(string houseId)
+        public async Task<BookFormModel> GetBookForEditByIdAsync(string bookId)
         {
             Book book = await this.dbContext
                  .Books
                  .Include(h => h.Category)
                 .Where(h => h.isActive)
-                .FirstAsync(h => h.Id.ToString() == houseId);
+                .FirstAsync(h => h.Id.ToString() == bookId);
 
 
 
@@ -265,13 +265,13 @@ namespace BookLibrary.Services.Data
            
         }
 
-        public async Task<bool> isAuthorWithIdOwnerOfHouseWithIdAsync(string houseId, string ownerId)
+        public async Task<bool> isAuthorWithIdOwnerOfBookWithIdAsync(string bookId, string ownerId)
         {
             Book book =
                 await this.dbContext
                 .Books
                 .Where(h => h.isActive)
-                .FirstAsync(h => h.Id.ToString() == houseId);
+                .FirstAsync(h => h.Id.ToString() == bookId);
 
             return book.AuthorId.ToString() == ownerId;
         }

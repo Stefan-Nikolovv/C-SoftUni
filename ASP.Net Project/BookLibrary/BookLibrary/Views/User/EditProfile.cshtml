@@ -118,13 +118,14 @@
                                     <input name="pass" id="oldPass" type="password">
                                 </div>
                                 <div class="new-password half-wid">
-                                    <label for="NewPass" class="form-label">Create New Password</label>
-                                    <input name="password" id="NewPass" type="password">
+                                            <label asp-for="Password" for="Password" class="form-label" >Create New Password</label>
+                                            <input asp-for="Password" name="Password" id="NewPass" type="password">
                                 </div>
                             </div>
                             <div class="email-area mt--15">
                                 <label for="rePass" class="form-label">Confirm Password</label>
-                                <input name="Password" id="rePass" type="password" value="">
+                                        <input asp-for="ConfirmPassword" name="ConfirmPassword" type="password" >
+                                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                             </div>
                                 <button type="submit" class="btn btn-primary mr--15">Save</button>
                         </div>
